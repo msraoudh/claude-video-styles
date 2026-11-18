@@ -1,0 +1,1794 @@
+[
+ {
+  "text": "Hé,",
+  "startMs": 0,
+  "endMs": 220,
+  "timestampMs": 110,
+  "confidence": null
+ },
+ {
+  "text": " bon.",
+  "startMs": 260,
+  "endMs": 380,
+  "timestampMs": 320,
+  "confidence": null
+ },
+ {
+  "text": " Cette",
+  "startMs": 867,
+  "endMs": 940,
+  "timestampMs": 907,
+  "confidence": null
+ },
+ {
+  "text": " fois,",
+  "startMs": 940,
+  "endMs": 1100,
+  "timestampMs": 1020,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 1140,
+  "endMs": 1200,
+  "timestampMs": 1180,
+  "confidence": null
+ },
+ {
+  "text": " tente",
+  "startMs": 1200,
+  "endMs": 1320,
+  "timestampMs": 1260,
+  "confidence": null
+ },
+ {
+  "text": " en",
+  "startMs": 1320,
+  "endMs": 1400,
+  "timestampMs": 1360,
+  "confidence": null
+ },
+ {
+  "text": " français.",
+  "startMs": 1400,
+  "endMs": 1680,
+  "timestampMs": 1540,
+  "confidence": null
+ },
+ {
+  "text": " On",
+  "startMs": 2140,
+  "endMs": 2420,
+  "timestampMs": 2280,
+  "confidence": null
+ },
+ {
+  "text": " sait",
+  "startMs": 2420,
+  "endMs": 2520,
+  "timestampMs": 2470,
+  "confidence": null
+ },
+ {
+  "text": " jamais.",
+  "startMs": 2520,
+  "endMs": 2740,
+  "timestampMs": 2630,
+  "confidence": null
+ },
+ {
+  "text": " Peut-être",
+  "startMs": 2800,
+  "endMs": 3040,
+  "timestampMs": 2920,
+  "confidence": null
+ },
+ {
+  "text": " l'algo",
+  "startMs": 3040,
+  "endMs": 3220,
+  "timestampMs": 3130,
+  "confidence": null
+ },
+ {
+  "text": " va",
+  "startMs": 3220,
+  "endMs": 3360,
+  "timestampMs": 3290,
+  "confidence": null
+ },
+ {
+  "text": " enfin",
+  "startMs": 3360,
+  "endMs": 3540,
+  "timestampMs": 3450,
+  "confidence": null
+ },
+ {
+  "text": " me",
+  "startMs": 3540,
+  "endMs": 3680,
+  "timestampMs": 3610,
+  "confidence": null
+ },
+ {
+  "text": " calculer",
+  "startMs": 3680,
+  "endMs": 4000,
+  "timestampMs": 3840,
+  "confidence": null
+ },
+ {
+  "text": " en",
+  "startMs": 4000,
+  "endMs": 4060,
+  "timestampMs": 4040,
+  "confidence": null
+ },
+ {
+  "text": " France.",
+  "startMs": 4060,
+  "endMs": 4260,
+  "timestampMs": 4160,
+  "confidence": null
+ },
+ {
+  "text": " Bon,",
+  "startMs": 4400,
+  "endMs": 4660,
+  "timestampMs": 4530,
+  "confidence": null
+ },
+ {
+  "text": " pour",
+  "startMs": 4680,
+  "endMs": 4800,
+  "timestampMs": 4740,
+  "confidence": null
+ },
+ {
+  "text": " ceux",
+  "startMs": 4800,
+  "endMs": 4920,
+  "timestampMs": 4860,
+  "confidence": null
+ },
+ {
+  "text": " qui",
+  "startMs": 4920,
+  "endMs": 5040,
+  "timestampMs": 4980,
+  "confidence": null
+ },
+ {
+  "text": " me",
+  "startMs": 5040,
+  "endMs": 5140,
+  "timestampMs": 5090,
+  "confidence": null
+ },
+ {
+  "text": " connaissent",
+  "startMs": 5140,
+  "endMs": 5340,
+  "timestampMs": 5240,
+  "confidence": null
+ },
+ {
+  "text": " pas,",
+  "startMs": 5340,
+  "endMs": 5500,
+  "timestampMs": 5420,
+  "confidence": null
+ },
+ {
+  "text": " moi",
+  "startMs": 5600,
+  "endMs": 5720,
+  "timestampMs": 5660,
+  "confidence": null
+ },
+ {
+  "text": " c'est",
+  "startMs": 5720,
+  "endMs": 5880,
+  "timestampMs": 5800,
+  "confidence": null
+ },
+ {
+  "text": " the user,",
+  "startMs": 5880,
+  "endMs": 6100,
+  "timestampMs": 5990,
+  "confidence": null
+ },
+ {
+  "text": " je",
+  "startMs": 6140,
+  "endMs": 6220,
+  "timestampMs": 6180,
+  "confidence": null
+ },
+ {
+  "text": " bosse",
+  "startMs": 6220,
+  "endMs": 6320,
+  "timestampMs": 6270,
+  "confidence": null
+ },
+ {
+  "text": " dans",
+  "startMs": 6320,
+  "endMs": 6440,
+  "timestampMs": 6380,
+  "confidence": null
+ },
+ {
+  "text": " la",
+  "startMs": 6440,
+  "endMs": 6540,
+  "timestampMs": 6490,
+  "confidence": null
+ },
+ {
+  "text": " tech,",
+  "startMs": 6540,
+  "endMs": 6740,
+  "timestampMs": 6640,
+  "confidence": null
+ },
+ {
+  "text": " le",
+  "startMs": 6967,
+  "endMs": 7040,
+  "timestampMs": 7007,
+  "confidence": null
+ },
+ {
+  "text": " cloud,",
+  "startMs": 7040,
+  "endMs": 7280,
+  "timestampMs": 7160,
+  "confidence": null
+ },
+ {
+  "text": " l'IA.",
+  "startMs": 7360,
+  "endMs": 7600,
+  "timestampMs": 7480,
+  "confidence": null
+ },
+ {
+  "text": " Bref,",
+  "startMs": 7867,
+  "endMs": 8060,
+  "timestampMs": 7963,
+  "confidence": null
+ },
+ {
+  "text": " j'aime",
+  "startMs": 8400,
+  "endMs": 8560,
+  "timestampMs": 8480,
+  "confidence": null
+ },
+ {
+  "text": " bien",
+  "startMs": 8560,
+  "endMs": 8640,
+  "timestampMs": 8600,
+  "confidence": null
+ },
+ {
+  "text": " tester",
+  "startMs": 8640,
+  "endMs": 8813,
+  "timestampMs": 8727,
+  "confidence": null
+ },
+ {
+  "text": " des",
+  "startMs": 8813,
+  "endMs": 8987,
+  "timestampMs": 8900,
+  "confidence": null
+ },
+ {
+  "text": " trucs",
+  "startMs": 8987,
+  "endMs": 9160,
+  "timestampMs": 9073,
+  "confidence": null
+ },
+ {
+  "text": " aussi,",
+  "startMs": 9160,
+  "endMs": 9400,
+  "timestampMs": 9280,
+  "confidence": null
+ },
+ {
+  "text": " apprendre",
+  "startMs": 9733,
+  "endMs": 9900,
+  "timestampMs": 9817,
+  "confidence": null
+ },
+ {
+  "text": " et",
+  "startMs": 9900,
+  "endMs": 10080,
+  "timestampMs": 9990,
+  "confidence": null
+ },
+ {
+  "text": " construire",
+  "startMs": 10080,
+  "endMs": 10400,
+  "timestampMs": 10240,
+  "confidence": null
+ },
+ {
+  "text": " des",
+  "startMs": 10400,
+  "endMs": 10500,
+  "timestampMs": 10450,
+  "confidence": null
+ },
+ {
+  "text": " projets.",
+  "startMs": 10500,
+  "endMs": 10720,
+  "timestampMs": 10610,
+  "confidence": null
+ },
+ {
+  "text": " Mais",
+  "startMs": 10840,
+  "endMs": 10980,
+  "timestampMs": 10910,
+  "confidence": null
+ },
+ {
+  "text": " frère,",
+  "startMs": 10980,
+  "endMs": 11120,
+  "timestampMs": 11050,
+  "confidence": null
+ },
+ {
+  "text": " il",
+  "startMs": 11140,
+  "endMs": 11200,
+  "timestampMs": 11180,
+  "confidence": null
+ },
+ {
+  "text": " y",
+  "startMs": 11200,
+  "endMs": 11260,
+  "timestampMs": 11240,
+  "confidence": null
+ },
+ {
+  "text": " avait",
+  "startMs": 11240,
+  "endMs": 11300,
+  "timestampMs": 11280,
+  "confidence": null
+ },
+ {
+  "text": " un",
+  "startMs": 11300,
+  "endMs": 11440,
+  "timestampMs": 11370,
+  "confidence": null
+ },
+ {
+  "text": " truc",
+  "startMs": 11440,
+  "endMs": 11580,
+  "timestampMs": 11510,
+  "confidence": null
+ },
+ {
+  "text": " qui",
+  "startMs": 11580,
+  "endMs": 11720,
+  "timestampMs": 11650,
+  "confidence": null
+ },
+ {
+  "text": " me",
+  "startMs": 11720,
+  "endMs": 11820,
+  "timestampMs": 11770,
+  "confidence": null
+ },
+ {
+  "text": " bloquait",
+  "startMs": 11820,
+  "endMs": 11980,
+  "timestampMs": 11900,
+  "confidence": null
+ },
+ {
+  "text": " depuis",
+  "startMs": 12033,
+  "endMs": 12180,
+  "timestampMs": 12107,
+  "confidence": null
+ },
+ {
+  "text": " longtemps,",
+  "startMs": 12180,
+  "endMs": 12420,
+  "timestampMs": 12300,
+  "confidence": null
+ },
+ {
+  "text": " le",
+  "startMs": 12700,
+  "endMs": 12780,
+  "timestampMs": 12740,
+  "confidence": null
+ },
+ {
+  "text": " montage",
+  "startMs": 12780,
+  "endMs": 13020,
+  "timestampMs": 12900,
+  "confidence": null
+ },
+ {
+  "text": " vidéo.",
+  "startMs": 13020,
+  "endMs": 13300,
+  "timestampMs": 13160,
+  "confidence": null
+ },
+ {
+  "text": " Genre,",
+  "startMs": 13740,
+  "endMs": 14020,
+  "timestampMs": 13880,
+  "confidence": null
+ },
+ {
+  "text": " dans",
+  "startMs": 14020,
+  "endMs": 14160,
+  "timestampMs": 14090,
+  "confidence": null
+ },
+ {
+  "text": " ma",
+  "startMs": 14160,
+  "endMs": 14260,
+  "timestampMs": 14210,
+  "confidence": null
+ },
+ {
+  "text": " tête,",
+  "startMs": 14260,
+  "endMs": 14560,
+  "timestampMs": 14410,
+  "confidence": null
+ },
+ {
+  "text": " j'avais",
+  "startMs": 14620,
+  "endMs": 14900,
+  "timestampMs": 14760,
+  "confidence": null
+ },
+ {
+  "text": " des",
+  "startMs": 14900,
+  "endMs": 15070,
+  "timestampMs": 14985,
+  "confidence": null
+ },
+ {
+  "text": " idées",
+  "startMs": 15070,
+  "endMs": 15240,
+  "timestampMs": 15155,
+  "confidence": null
+ },
+ {
+  "text": " de",
+  "startMs": 15240,
+  "endMs": 15380,
+  "timestampMs": 15310,
+  "confidence": null
+ },
+ {
+  "text": " fou.",
+  "startMs": 15380,
+  "endMs": 15520,
+  "timestampMs": 15450,
+  "confidence": null
+ },
+ {
+  "text": " Je",
+  "startMs": 15980,
+  "endMs": 16260,
+  "timestampMs": 16120,
+  "confidence": null
+ },
+ {
+  "text": " savais",
+  "startMs": 16260,
+  "endMs": 16500,
+  "timestampMs": 16380,
+  "confidence": null
+ },
+ {
+  "text": " exactement",
+  "startMs": 16500,
+  "endMs": 16820,
+  "timestampMs": 16660,
+  "confidence": null
+ },
+ {
+  "text": " ce",
+  "startMs": 16820,
+  "endMs": 17100,
+  "timestampMs": 16960,
+  "confidence": null
+ },
+ {
+  "text": " que",
+  "startMs": 17100,
+  "endMs": 17180,
+  "timestampMs": 17140,
+  "confidence": null
+ },
+ {
+  "text": " je",
+  "startMs": 17180,
+  "endMs": 17260,
+  "timestampMs": 17220,
+  "confidence": null
+ },
+ {
+  "text": " voulais",
+  "startMs": 17260,
+  "endMs": 17440,
+  "timestampMs": 17350,
+  "confidence": null
+ },
+ {
+  "text": " comme",
+  "startMs": 17440,
+  "endMs": 17620,
+  "timestampMs": 17530,
+  "confidence": null
+ },
+ {
+  "text": " rendu.",
+  "startMs": 17620,
+  "endMs": 17900,
+  "timestampMs": 17760,
+  "confidence": null
+ },
+ {
+  "text": " Mais",
+  "startMs": 18667,
+  "endMs": 18780,
+  "timestampMs": 18723,
+  "confidence": null
+ },
+ {
+  "text": " au",
+  "startMs": 18780,
+  "endMs": 18920,
+  "timestampMs": 18850,
+  "confidence": null
+ },
+ {
+  "text": " moment",
+  "startMs": 18920,
+  "endMs": 19160,
+  "timestampMs": 19040,
+  "confidence": null
+ },
+ {
+  "text": " de",
+  "startMs": 19160,
+  "endMs": 19240,
+  "timestampMs": 19200,
+  "confidence": null
+ },
+ {
+  "text": " passer",
+  "startMs": 19240,
+  "endMs": 19400,
+  "timestampMs": 19320,
+  "confidence": null
+ },
+ {
+  "text": " à",
+  "startMs": 19400,
+  "endMs": 19573,
+  "timestampMs": 19487,
+  "confidence": null
+ },
+ {
+  "text": " la",
+  "startMs": 19573,
+  "endMs": 19747,
+  "timestampMs": 19660,
+  "confidence": null
+ },
+ {
+  "text": " pratique,",
+  "startMs": 19747,
+  "endMs": 19920,
+  "timestampMs": 19833,
+  "confidence": null
+ },
+ {
+  "text": " c'était",
+  "startMs": 19960,
+  "endMs": 20160,
+  "timestampMs": 20060,
+  "confidence": null
+ },
+ {
+  "text": " une",
+  "startMs": 20160,
+  "endMs": 20320,
+  "timestampMs": 20240,
+  "confidence": null
+ },
+ {
+  "text": " autre",
+  "startMs": 20320,
+  "endMs": 20420,
+  "timestampMs": 20370,
+  "confidence": null
+ },
+ {
+  "text": " histoire.",
+  "startMs": 20420,
+  "endMs": 20700,
+  "timestampMs": 20560,
+  "confidence": null
+ },
+ {
+  "text": " J'avais",
+  "startMs": 21267,
+  "endMs": 21440,
+  "timestampMs": 21353,
+  "confidence": null
+ },
+ {
+  "text": " la",
+  "startMs": 21440,
+  "endMs": 21640,
+  "timestampMs": 21540,
+  "confidence": null
+ },
+ {
+  "text": " flemme",
+  "startMs": 21640,
+  "endMs": 21860,
+  "timestampMs": 21750,
+  "confidence": null
+ },
+ {
+  "text": " même",
+  "startMs": 21860,
+  "endMs": 22000,
+  "timestampMs": 21930,
+  "confidence": null
+ },
+ {
+  "text": " pour",
+  "startMs": 22000,
+  "endMs": 22120,
+  "timestampMs": 22060,
+  "confidence": null
+ },
+ {
+  "text": " apprendre",
+  "startMs": 22120,
+  "endMs": 22380,
+  "timestampMs": 22250,
+  "confidence": null
+ },
+ {
+  "text": " à",
+  "startMs": 22380,
+  "endMs": 22540,
+  "timestampMs": 22460,
+  "confidence": null
+ },
+ {
+  "text": " monter",
+  "startMs": 22540,
+  "endMs": 22720,
+  "timestampMs": 22630,
+  "confidence": null
+ },
+ {
+  "text": " des",
+  "startMs": 22720,
+  "endMs": 22900,
+  "timestampMs": 22810,
+  "confidence": null
+ },
+ {
+  "text": " vidéos.",
+  "startMs": 22900,
+  "endMs": 23080,
+  "timestampMs": 22990,
+  "confidence": null
+ },
+ {
+  "text": " Je",
+  "startMs": 23380,
+  "endMs": 23660,
+  "timestampMs": 23520,
+  "confidence": null
+ },
+ {
+  "text": " la",
+  "startMs": 23660,
+  "endMs": 23740,
+  "timestampMs": 23700,
+  "confidence": null
+ },
+ {
+  "text": " trouvais",
+  "startMs": 23740,
+  "endMs": 24000,
+  "timestampMs": 23870,
+  "confidence": null
+ },
+ {
+  "text": " très",
+  "startMs": 24000,
+  "endMs": 24160,
+  "timestampMs": 24080,
+  "confidence": null
+ },
+ {
+  "text": " compliquée.",
+  "startMs": 24160,
+  "endMs": 24700,
+  "timestampMs": 24430,
+  "confidence": null
+ },
+ {
+  "text": " Du",
+  "startMs": 24867,
+  "endMs": 24940,
+  "timestampMs": 24907,
+  "confidence": null
+ },
+ {
+  "text": " coup,",
+  "startMs": 24940,
+  "endMs": 25080,
+  "timestampMs": 25010,
+  "confidence": null
+ },
+ {
+  "text": " j'étais",
+  "startMs": 25140,
+  "endMs": 25260,
+  "timestampMs": 25200,
+  "confidence": null
+ },
+ {
+  "text": " éclaté.",
+  "startMs": 25260,
+  "endMs": 25640,
+  "timestampMs": 25450,
+  "confidence": null
+ },
+ {
+  "text": " Du",
+  "startMs": 25800,
+  "endMs": 25880,
+  "timestampMs": 25840,
+  "confidence": null
+ },
+ {
+  "text": " coup,",
+  "startMs": 25880,
+  "endMs": 26320,
+  "timestampMs": 26100,
+  "confidence": null
+ },
+ {
+  "text": " je",
+  "startMs": 26400,
+  "endMs": 26500,
+  "timestampMs": 26450,
+  "confidence": null
+ },
+ {
+  "text": " repoussais",
+  "startMs": 26500,
+  "endMs": 26820,
+  "timestampMs": 26660,
+  "confidence": null
+ },
+ {
+  "text": " toujours.",
+  "startMs": 26820,
+  "endMs": 27060,
+  "timestampMs": 26940,
+  "confidence": null
+ },
+ {
+  "text": " Je",
+  "startMs": 27240,
+  "endMs": 27480,
+  "timestampMs": 27360,
+  "confidence": null
+ },
+ {
+  "text": " me",
+  "startMs": 27480,
+  "endMs": 27540,
+  "timestampMs": 27520,
+  "confidence": null
+ },
+ {
+  "text": " suis",
+  "startMs": 27540,
+  "endMs": 27660,
+  "timestampMs": 27600,
+  "confidence": null
+ },
+ {
+  "text": " dit",
+  "startMs": 27660,
+  "endMs": 27800,
+  "timestampMs": 27730,
+  "confidence": null
+ },
+ {
+  "text": " que",
+  "startMs": 27800,
+  "endMs": 27880,
+  "timestampMs": 27840,
+  "confidence": null
+ },
+ {
+  "text": " c'était",
+  "startMs": 27880,
+  "endMs": 28060,
+  "timestampMs": 27970,
+  "confidence": null
+ },
+ {
+  "text": " pas",
+  "startMs": 28060,
+  "endMs": 28200,
+  "timestampMs": 28130,
+  "confidence": null
+ },
+ {
+  "text": " le",
+  "startMs": 28200,
+  "endMs": 28280,
+  "timestampMs": 28240,
+  "confidence": null
+ },
+ {
+  "text": " moment.",
+  "startMs": 28280,
+  "endMs": 28460,
+  "timestampMs": 28370,
+  "confidence": null
+ },
+ {
+  "text": " Je",
+  "startMs": 28460,
+  "endMs": 28620,
+  "timestampMs": 28540,
+  "confidence": null
+ },
+ {
+  "text": " commencerais",
+  "startMs": 28620,
+  "endMs": 28980,
+  "timestampMs": 28800,
+  "confidence": null
+ },
+ {
+  "text": " plus",
+  "startMs": 28980,
+  "endMs": 29080,
+  "timestampMs": 29030,
+  "confidence": null
+ },
+ {
+  "text": " tard,",
+  "startMs": 29080,
+  "endMs": 29340,
+  "timestampMs": 29210,
+  "confidence": null
+ },
+ {
+  "text": " quand",
+  "startMs": 29420,
+  "endMs": 29540,
+  "timestampMs": 29480,
+  "confidence": null
+ },
+ {
+  "text": " je",
+  "startMs": 29540,
+  "endMs": 29660,
+  "timestampMs": 29600,
+  "confidence": null
+ },
+ {
+  "text": " maîtriserais",
+  "startMs": 29660,
+  "endMs": 30020,
+  "timestampMs": 29840,
+  "confidence": null
+ },
+ {
+  "text": " mieux",
+  "startMs": 30020,
+  "endMs": 30160,
+  "timestampMs": 30090,
+  "confidence": null
+ },
+ {
+  "text": " le",
+  "startMs": 30160,
+  "endMs": 30280,
+  "timestampMs": 30220,
+  "confidence": null
+ },
+ {
+  "text": " montage.",
+  "startMs": 30280,
+  "endMs": 30480,
+  "timestampMs": 30380,
+  "confidence": null
+ },
+ {
+  "text": " Sauf",
+  "startMs": 30867,
+  "endMs": 30940,
+  "timestampMs": 30907,
+  "confidence": null
+ },
+ {
+  "text": " que",
+  "startMs": 30940,
+  "endMs": 31100,
+  "timestampMs": 31020,
+  "confidence": null
+ },
+ {
+  "text": " ce",
+  "startMs": 31100,
+  "endMs": 31200,
+  "timestampMs": 31150,
+  "confidence": null
+ },
+ {
+  "text": " fameux",
+  "startMs": 31200,
+  "endMs": 31440,
+  "timestampMs": 31320,
+  "confidence": null
+ },
+ {
+  "text": " plus",
+  "startMs": 31440,
+  "endMs": 31560,
+  "timestampMs": 31500,
+  "confidence": null
+ },
+ {
+  "text": " tard,",
+  "startMs": 31560,
+  "endMs": 31820,
+  "timestampMs": 31690,
+  "confidence": null
+ },
+ {
+  "text": " ça",
+  "startMs": 31860,
+  "endMs": 31960,
+  "timestampMs": 31910,
+  "confidence": null
+ },
+ {
+  "text": " n'arrivera",
+  "startMs": 31960,
+  "endMs": 32280,
+  "timestampMs": 32120,
+  "confidence": null
+ },
+ {
+  "text": " jamais.",
+  "startMs": 32280,
+  "endMs": 32700,
+  "timestampMs": 32490,
+  "confidence": null
+ },
+ {
+  "text": " Et",
+  "startMs": 32900,
+  "endMs": 33000,
+  "timestampMs": 32950,
+  "confidence": null
+ },
+ {
+  "text": " puis,",
+  "startMs": 33000,
+  "endMs": 33100,
+  "timestampMs": 33050,
+  "confidence": null
+ },
+ {
+  "text": " j'ai",
+  "startMs": 33160,
+  "endMs": 33300,
+  "timestampMs": 33230,
+  "confidence": null
+ },
+ {
+  "text": " commencé",
+  "startMs": 33300,
+  "endMs": 33460,
+  "timestampMs": 33380,
+  "confidence": null
+ },
+ {
+  "text": " à",
+  "startMs": 33460,
+  "endMs": 33620,
+  "timestampMs": 33540,
+  "confidence": null
+ },
+ {
+  "text": " utiliser",
+  "startMs": 33620,
+  "endMs": 33760,
+  "timestampMs": 33690,
+  "confidence": null
+ },
+ {
+  "text": " Claude",
+  "startMs": 33760,
+  "endMs": 34130,
+  "timestampMs": 33945,
+  "confidence": null
+ },
+ {
+  "text": " pour",
+  "startMs": 34130,
+  "endMs": 34500,
+  "timestampMs": 34315,
+  "confidence": null
+ },
+ {
+  "text": " m'aider",
+  "startMs": 34500,
+  "endMs": 34720,
+  "timestampMs": 34610,
+  "confidence": null
+ },
+ {
+  "text": " à",
+  "startMs": 34720,
+  "endMs": 34840,
+  "timestampMs": 34780,
+  "confidence": null
+ },
+ {
+  "text": " apprendre,",
+  "startMs": 34840,
+  "endMs": 35100,
+  "timestampMs": 34970,
+  "confidence": null
+ },
+ {
+  "text": " monter",
+  "startMs": 35220,
+  "endMs": 35480,
+  "timestampMs": 35350,
+  "confidence": null
+ },
+ {
+  "text": " mes",
+  "startMs": 35480,
+  "endMs": 35640,
+  "timestampMs": 35560,
+  "confidence": null
+ },
+ {
+  "text": " vidéos,",
+  "startMs": 35640,
+  "endMs": 35920,
+  "timestampMs": 35780,
+  "confidence": null
+ },
+ {
+  "text": " à",
+  "startMs": 36300,
+  "endMs": 36400,
+  "timestampMs": 36350,
+  "confidence": null
+ },
+ {
+  "text": " gérer",
+  "startMs": 36400,
+  "endMs": 36580,
+  "timestampMs": 36490,
+  "confidence": null
+ },
+ {
+  "text": " les",
+  "startMs": 36580,
+  "endMs": 36720,
+  "timestampMs": 36650,
+  "confidence": null
+ },
+ {
+  "text": " couleurs,",
+  "startMs": 36720,
+  "endMs": 37100,
+  "timestampMs": 36910,
+  "confidence": null
+ },
+ {
+  "text": " les",
+  "startMs": 37100,
+  "endMs": 37240,
+  "timestampMs": 37170,
+  "confidence": null
+ },
+ {
+  "text": " animations,",
+  "startMs": 37240,
+  "endMs": 37600,
+  "timestampMs": 37420,
+  "confidence": null
+ },
+ {
+  "text": " les",
+  "startMs": 37900,
+  "endMs": 38040,
+  "timestampMs": 37970,
+  "confidence": null
+ },
+ {
+  "text": " effets,",
+  "startMs": 38040,
+  "endMs": 38360,
+  "timestampMs": 38200,
+  "confidence": null
+ },
+ {
+  "text": " tout",
+  "startMs": 38360,
+  "endMs": 38480,
+  "timestampMs": 38420,
+  "confidence": null
+ },
+ {
+  "text": " ça.",
+  "startMs": 38480,
+  "endMs": 38620,
+  "timestampMs": 38550,
+  "confidence": null
+ },
+ {
+  "text": " Et",
+  "startMs": 39167,
+  "endMs": 39240,
+  "timestampMs": 39207,
+  "confidence": null
+ },
+ {
+  "text": " là,",
+  "startMs": 39240,
+  "endMs": 39400,
+  "timestampMs": 39320,
+  "confidence": null
+ },
+ {
+  "text": " je",
+  "startMs": 39440,
+  "endMs": 39500,
+  "timestampMs": 39480,
+  "confidence": null
+ },
+ {
+  "text": " me",
+  "startMs": 39460,
+  "endMs": 39540,
+  "timestampMs": 39500,
+  "confidence": null
+ },
+ {
+  "text": " suis",
+  "startMs": 39540,
+  "endMs": 39660,
+  "timestampMs": 39600,
+  "confidence": null
+ },
+ {
+  "text": " dit,",
+  "startMs": 39660,
+  "endMs": 39840,
+  "timestampMs": 39750,
+  "confidence": null
+ },
+ {
+  "text": " mais",
+  "startMs": 39880,
+  "endMs": 40000,
+  "timestampMs": 39940,
+  "confidence": null
+ },
+ {
+  "text": " wesh,",
+  "startMs": 40000,
+  "endMs": 40280,
+  "timestampMs": 40140,
+  "confidence": null
+ },
+ {
+  "text": " pourquoi",
+  "startMs": 40667,
+  "endMs": 40800,
+  "timestampMs": 40733,
+  "confidence": null
+ },
+ {
+  "text": " j'attends",
+  "startMs": 40800,
+  "endMs": 41100,
+  "timestampMs": 40950,
+  "confidence": null
+ },
+ {
+  "text": " encore ?",
+  "startMs": 41100,
+  "endMs": 41560,
+  "timestampMs": 41330,
+  "confidence": null
+ },
+ {
+  "text": " Donc",
+  "startMs": 41833,
+  "endMs": 41980,
+  "timestampMs": 41907,
+  "confidence": null
+ },
+ {
+  "text": " voilà,",
+  "startMs": 41980,
+  "endMs": 42140,
+  "timestampMs": 42060,
+  "confidence": null
+ },
+ {
+  "text": " je",
+  "startMs": 42320,
+  "endMs": 42480,
+  "timestampMs": 42400,
+  "confidence": null
+ },
+ {
+  "text": " me",
+  "startMs": 42480,
+  "endMs": 42580,
+  "timestampMs": 42530,
+  "confidence": null
+ },
+ {
+  "text": " lance",
+  "startMs": 42580,
+  "endMs": 42760,
+  "timestampMs": 42670,
+  "confidence": null
+ },
+ {
+  "text": " enfin.",
+  "startMs": 42760,
+  "endMs": 42940,
+  "timestampMs": 42850,
+  "confidence": null
+ },
+ {
+  "text": " Je",
+  "startMs": 43140,
+  "endMs": 43380,
+  "timestampMs": 43260,
+  "confidence": null
+ },
+ {
+  "text": " vais",
+  "startMs": 43380,
+  "endMs": 43480,
+  "timestampMs": 43430,
+  "confidence": null
+ },
+ {
+  "text": " partager",
+  "startMs": 43480,
+  "endMs": 43740,
+  "timestampMs": 43610,
+  "confidence": null
+ },
+ {
+  "text": " mes",
+  "startMs": 43740,
+  "endMs": 43940,
+  "timestampMs": 43840,
+  "confidence": null
+ },
+ {
+  "text": " projets",
+  "startMs": 43940,
+  "endMs": 44260,
+  "timestampMs": 44100,
+  "confidence": null
+ },
+ {
+  "text": " dans",
+  "startMs": 44260,
+  "endMs": 44460,
+  "timestampMs": 44360,
+  "confidence": null
+ },
+ {
+  "text": " la",
+  "startMs": 44460,
+  "endMs": 44580,
+  "timestampMs": 44520,
+  "confidence": null
+ },
+ {
+  "text": " tech,",
+  "startMs": 44580,
+  "endMs": 44800,
+  "timestampMs": 44690,
+  "confidence": null
+ },
+ {
+  "text": " dans",
+  "startMs": 44860,
+  "endMs": 44960,
+  "timestampMs": 44910,
+  "confidence": null
+ },
+ {
+  "text": " le",
+  "startMs": 44960,
+  "endMs": 45080,
+  "timestampMs": 45020,
+  "confidence": null
+ },
+ {
+  "text": " cloud.",
+  "startMs": 45080,
+  "endMs": 45360,
+  "timestampMs": 45220,
+  "confidence": null
+ },
+ {
+  "text": " Je",
+  "startMs": 45520,
+  "endMs": 45640,
+  "timestampMs": 45580,
+  "confidence": null
+ },
+ {
+  "text": " vais",
+  "startMs": 45640,
+  "endMs": 45760,
+  "timestampMs": 45700,
+  "confidence": null
+ },
+ {
+  "text": " parler",
+  "startMs": 45760,
+  "endMs": 45920,
+  "timestampMs": 45840,
+  "confidence": null
+ },
+ {
+  "text": " un",
+  "startMs": 45920,
+  "endMs": 46040,
+  "timestampMs": 45980,
+  "confidence": null
+ },
+ {
+  "text": " peu",
+  "startMs": 46040,
+  "endMs": 46100,
+  "timestampMs": 46080,
+  "confidence": null
+ },
+ {
+  "text": " de",
+  "startMs": 46080,
+  "endMs": 46160,
+  "timestampMs": 46120,
+  "confidence": null
+ },
+ {
+  "text": " ma",
+  "startMs": 46160,
+  "endMs": 46260,
+  "timestampMs": 46210,
+  "confidence": null
+ },
+ {
+  "text": " spécialité,",
+  "startMs": 46260,
+  "endMs": 46780,
+  "timestampMs": 46520,
+  "confidence": null
+ },
+ {
+  "text": " mes",
+  "startMs": 46900,
+  "endMs": 46980,
+  "timestampMs": 46940,
+  "confidence": null
+ },
+ {
+  "text": " découvertes,",
+  "startMs": 46980,
+  "endMs": 47480,
+  "timestampMs": 47230,
+  "confidence": null
+ },
+ {
+  "text": " mes",
+  "startMs": 47480,
+  "endMs": 47640,
+  "timestampMs": 47560,
+  "confidence": null
+ },
+ {
+  "text": " galères",
+  "startMs": 47640,
+  "endMs": 47920,
+  "timestampMs": 47780,
+  "confidence": null
+ },
+ {
+  "text": " aussi.",
+  "startMs": 47920,
+  "endMs": 48180,
+  "timestampMs": 48050,
+  "confidence": null
+ },
+ {
+  "text": " Et",
+  "startMs": 48333,
+  "endMs": 48420,
+  "timestampMs": 48377,
+  "confidence": null
+ },
+ {
+  "text": " maintenant,",
+  "startMs": 48420,
+  "endMs": 48700,
+  "timestampMs": 48560,
+  "confidence": null
+ },
+ {
+  "text": " en",
+  "startMs": 48720,
+  "endMs": 48820,
+  "timestampMs": 48770,
+  "confidence": null
+ },
+ {
+  "text": " français.",
+  "startMs": 48820,
+  "endMs": 49060,
+  "timestampMs": 48940,
+  "confidence": null
+ },
+ {
+  "text": " On",
+  "startMs": 49433,
+  "endMs": 49540,
+  "timestampMs": 49487,
+  "confidence": null
+ },
+ {
+  "text": " va",
+  "startMs": 49540,
+  "endMs": 49620,
+  "timestampMs": 49580,
+  "confidence": null
+ },
+ {
+  "text": " voir",
+  "startMs": 49620,
+  "endMs": 49800,
+  "timestampMs": 49710,
+  "confidence": null
+ },
+ {
+  "text": " si",
+  "startMs": 49800,
+  "endMs": 50025,
+  "timestampMs": 49912,
+  "confidence": null
+ },
+ {
+  "text": " les",
+  "startMs": 50025,
+  "endMs": 50250,
+  "timestampMs": 50138,
+  "confidence": null
+ },
+ {
+  "text": " Français",
+  "startMs": 50250,
+  "endMs": 50475,
+  "timestampMs": 50363,
+  "confidence": null
+ },
+ {
+  "text": " valident",
+  "startMs": 50475,
+  "endMs": 50700,
+  "timestampMs": 50588,
+  "confidence": null
+ },
+ {
+  "text": " ou",
+  "startMs": 50700,
+  "endMs": 50860,
+  "timestampMs": 50780,
+  "confidence": null
+ },
+ {
+  "text": " si",
+  "startMs": 50860,
+  "endMs": 51060,
+  "timestampMs": 50960,
+  "confidence": null
+ },
+ {
+  "text": " je",
+  "startMs": 51060,
+  "endMs": 51160,
+  "timestampMs": 51110,
+  "confidence": null
+ },
+ {
+  "text": " vais",
+  "startMs": 51160,
+  "endMs": 51220,
+  "timestampMs": 51200,
+  "confidence": null
+ },
+ {
+  "text": " parler",
+  "startMs": 51220,
+  "endMs": 51400,
+  "timestampMs": 51310,
+  "confidence": null
+ },
+ {
+  "text": " tout",
+  "startMs": 51400,
+  "endMs": 51540,
+  "timestampMs": 51470,
+  "confidence": null
+ },
+ {
+  "text": " seul.",
+  "startMs": 51540,
+  "endMs": 51740,
+  "timestampMs": 51640,
+  "confidence": null
+ },
+ {
+  "text": " Bah",
+  "startMs": 52067,
+  "endMs": 52180,
+  "timestampMs": 52123,
+  "confidence": null
+ },
+ {
+  "text": " bref,",
+  "startMs": 52180,
+  "endMs": 52600,
+  "timestampMs": 52390,
+  "confidence": null
+ },
+ {
+  "text": " si",
+  "startMs": 53200,
+  "endMs": 53280,
+  "timestampMs": 53240,
+  "confidence": null
+ },
+ {
+  "text": " tu",
+  "startMs": 53280,
+  "endMs": 53400,
+  "timestampMs": 53340,
+  "confidence": null
+ },
+ {
+  "text": " t'intéresses",
+  "startMs": 53400,
+  "endMs": 53800,
+  "timestampMs": 53600,
+  "confidence": null
+ },
+ {
+  "text": " à",
+  "startMs": 53800,
+  "endMs": 53940,
+  "timestampMs": 53870,
+  "confidence": null
+ },
+ {
+  "text": " la",
+  "startMs": 53940,
+  "endMs": 54040,
+  "timestampMs": 53990,
+  "confidence": null
+ },
+ {
+  "text": " tech,",
+  "startMs": 54040,
+  "endMs": 54200,
+  "timestampMs": 54120,
+  "confidence": null
+ },
+ {
+  "text": " à",
+  "startMs": 54300,
+  "endMs": 54480,
+  "timestampMs": 54390,
+  "confidence": null
+ },
+ {
+  "text": " l'IA,",
+  "startMs": 54480,
+  "endMs": 54660,
+  "timestampMs": 54570,
+  "confidence": null
+ },
+ {
+  "text": " au",
+  "startMs": 54840,
+  "endMs": 55140,
+  "timestampMs": 54990,
+  "confidence": null
+ },
+ {
+  "text": " cloud,",
+  "startMs": 55140,
+  "endMs": 55480,
+  "timestampMs": 55310,
+  "confidence": null
+ },
+ {
+  "text": " à",
+  "startMs": 55560,
+  "endMs": 55800,
+  "timestampMs": 55680,
+  "confidence": null
+ },
+ {
+  "text": " des",
+  "startMs": 55800,
+  "endMs": 55900,
+  "timestampMs": 55850,
+  "confidence": null
+ },
+ {
+  "text": " news,",
+  "startMs": 55900,
+  "endMs": 56140,
+  "timestampMs": 56020,
+  "confidence": null
+ },
+ {
+  "text": " et",
+  "startMs": 56500,
+  "endMs": 56560,
+  "timestampMs": 56540,
+  "confidence": null
+ },
+ {
+  "text": " que",
+  "startMs": 56560,
+  "endMs": 56640,
+  "timestampMs": 56600,
+  "confidence": null
+ },
+ {
+  "text": " t'aimes",
+  "startMs": 56640,
+  "endMs": 56780,
+  "timestampMs": 56710,
+  "confidence": null
+ },
+ {
+  "text": " découvrir",
+  "startMs": 56780,
+  "endMs": 57020,
+  "timestampMs": 56900,
+  "confidence": null
+ },
+ {
+  "text": " des",
+  "startMs": 57020,
+  "endMs": 57240,
+  "timestampMs": 57130,
+  "confidence": null
+ },
+ {
+  "text": " nouveaux",
+  "startMs": 57240,
+  "endMs": 57360,
+  "timestampMs": 57300,
+  "confidence": null
+ },
+ {
+  "text": " trucs,",
+  "startMs": 57360,
+  "endMs": 57620,
+  "timestampMs": 57490,
+  "confidence": null
+ },
+ {
+  "text": " reste",
+  "startMs": 57967,
+  "endMs": 58180,
+  "timestampMs": 58073,
+  "confidence": null
+ },
+ {
+  "text": " dans",
+  "startMs": 58180,
+  "endMs": 58340,
+  "timestampMs": 58260,
+  "confidence": null
+ },
+ {
+  "text": " le",
+  "startMs": 58340,
+  "endMs": 58420,
+  "timestampMs": 58380,
+  "confidence": null
+ },
+ {
+  "text": " coin.",
+  "startMs": 58420,
+  "endMs": 58600,
+  "timestampMs": 58510,
+  "confidence": null
+ },
+ {
+  "text": " Salut !",
+  "startMs": 58967,
+  "endMs": 59260,
+  "timestampMs": 59113,
+  "confidence": null
+ }
+]

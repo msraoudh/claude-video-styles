@@ -1,0 +1,26 @@
+#!/bin/bash
+# Scaffold one episode:  bash new_episode.sh <episode_id> [brief.json]
+#   → ~/reels/output/<episode_id>/project/{video,audio,plan,qa,brief.json}
+# The Remotion template is copied from the skill (assets/template/video); node_modules are HARD-LINKED from
+# ~/reels/_base/node_modules (701 MB, no download, no disk cost). Never symlink media into video/public/
+# (Remotion drops symlinked files): copy or hard-link them.
+set -euo pipefail
+ID=${1:?usage: new_episode.sh <episode_id> [brief.json]}
+SK="$(cd "$(dirname "$0")/.." && pwd)"
+OUT=${REELS_OUT:-$HOME/reels/output}/$ID
+P=$OUT/project
+if [ -f "$P/episode.json" ]; then echo "exists: $P (episode.json kept)"; fi
+mkdir -p "$P"/{audio/voice,audio/sfx,audio/music,audio/out,plan,qa/stills,out} "$P/video"
+if [ ! -f "$P/video/package.json" ]; then
+  cp -r "$SK/assets/template/video/." "$P/video/"
+fi
+BASE=$HOME/reels/_base/node_modules
+if [ ! -d "$P/video/node_modules" ]; then
+  if [ -d "$BASE" ]; then cp -al "$BASE" "$P/video/node_modules"
+  else (cd "$P/video" && source ~/.nvm/nvm.sh >/dev/null && nvm use 24 >/dev/null && npm ci --no-audit --no-fund) ; fi
+fi
+cp -n "$SK"/assets/sfx/*.wav "$P/audio/sfx/" 2>/dev/null || true
+mkdir -p "$P/video/public/audio" "$P/video/src/data/cues"
+[ $# -ge 2 ] && cp "$2" "$P/brief.json"
+chmod +x "$P/video/"*.sh 2>/dev/null || true
+echo "$P"

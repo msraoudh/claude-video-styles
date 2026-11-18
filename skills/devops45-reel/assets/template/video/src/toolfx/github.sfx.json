@@ -1,0 +1,6 @@
+[
+  {"at": 12, "sfx": "ui-click", "gain": 0.24, "note": "git push pill"},
+  {"at": 18, "sfx": "whoosh", "gain": 0.16, "note": "packets fly up to the repo"},
+  {"at": 54, "sfx": "check", "gain": 0.26, "note": "third commit lands, repo rings"},
+  {"at": 60, "sfx": "ui-pop", "gain": 0.22, "note": "teammates pop and pull"}
+]

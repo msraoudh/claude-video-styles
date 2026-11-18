@@ -1,0 +1,26 @@
+{
+  "_note": "The dark trailer SFX set (ElevenLabs Sound Effects, model eleven_text_to_sound_v2, 2 variants each). The picked files ship in assets/sfx/dark/. Regenerate only for a different mood; get_sfx.py maps a generation to its name by the 'match' words.",
+  "model": "eleven_text_to_sound_v2",
+  "sounds": [
+    {"name": "braam", "match": "braam", "duration_seconds": 4.5, "prompt_influence": 0.6,
+     "prompt": "Massive cinematic trailer braam, deep distorted brass horn blast with huge low end, dark and menacing, Inception style, long reverb tail"},
+    {"name": "subdrop", "match": "sub bass drop", "duration_seconds": 3, "prompt_influence": 0.6,
+     "prompt": "Deep cinematic sub bass drop, low boom sweeping down in pitch, dark trailer transition hit, clean, no music"},
+    {"name": "metalhit", "match": "metallic impact", "duration_seconds": 2.5, "prompt_influence": 0.6,
+     "prompt": "Heavy cinematic metallic impact hit, dark trailer slam, steel door hit with deep boom and short reverb tail"},
+    {"name": "heartbeat", "match": "heartbeat", "duration_seconds": 4, "prompt_influence": 0.6,
+     "prompt": "Slow deep heartbeat, low muffled thumps, tense dark cinematic, close and heavy, no music"},
+    {"name": "reverse", "match": "reverse cymbal", "duration_seconds": 2.5, "prompt_influence": 0.6,
+     "prompt": "Reverse cymbal and reversed impact swell rising fast into a hit, dark cinematic suck-in riser, ends abruptly"},
+    {"name": "drone", "match": "ominous cinematic drone", "duration_seconds": 8, "prompt_influence": 0.5,
+     "prompt": "Dark ominous cinematic drone, low rumbling tension atmosphere with distant metallic resonance, no melody, no drums"},
+    {"name": "glitch", "match": "glitch", "duration_seconds": 1, "prompt_influence": 0.6,
+     "prompt": "Short digital glitch stutter burst, data corruption, cyberpunk electronic crackle, hard cut"},
+    {"name": "whoosh", "match": "whoosh", "duration_seconds": 1.2, "prompt_influence": 0.6,
+     "prompt": "Dark fast cinematic whoosh pass-by, deep airy swoosh, trailer transition"},
+    {"name": "titleslam", "match": "title slam", "duration_seconds": 4, "prompt_influence": 0.6,
+     "prompt": "Huge epic trailer title slam, deep boom with metallic ring and thunder crack, long dark tail"},
+    {"name": "powerdown", "match": "power down", "duration_seconds": 2, "prompt_influence": 0.6,
+     "prompt": "Electric power down, machine shutting off, deep descending hum, dark cinematic end"}
+  ]
+}

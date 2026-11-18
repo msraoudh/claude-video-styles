@@ -1,0 +1,6 @@
+[
+  { "at": 22, "sfx": "zoom-swish", "gain": 0.2, "note": "the app's pieces get sucked into the container" },
+  { "at": 63, "sfx": "impact", "gain": 0.32, "note": "lid slams shut" },
+  { "at": 78, "sfx": "ui-pop", "gain": 0.25, "note": "Docker logo stamps on" },
+  { "at": 104, "sfx": "cards", "gain": 0.18, "note": "identical copies slide out on the rail" }
+]

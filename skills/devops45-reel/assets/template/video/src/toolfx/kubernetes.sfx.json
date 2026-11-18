@@ -1,0 +1,6 @@
+[
+  { "at": 24, "sfx": "cards", "gain": 0.2, "note": "containers cascade onto the nodes" },
+  { "at": 66, "sfx": "glass", "gain": 0.22, "note": "the red container cracks and falls" },
+  { "at": 72, "sfx": "zoom-swish", "gain": 0.2, "note": "the wheel sends a fresh container" },
+  { "at": 90, "sfx": "check", "gain": 0.28, "note": "replacement lands healthy (green check)" }
+]

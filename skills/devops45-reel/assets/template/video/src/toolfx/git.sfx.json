@@ -1,0 +1,6 @@
+[
+  {"at": 12, "sfx": "glint", "gain": 0.24, "note": "v1 snapshot flash"},
+  {"at": 32, "sfx": "glint", "gain": 0.2, "note": "v2 snapshot flash"},
+  {"at": 52, "sfx": "glint", "gain": 0.2, "note": "v3 snapshot flash"},
+  {"at": 98, "sfx": "ui-pop", "gain": 0.28, "note": "branch merges back, v4 amber"}
+]

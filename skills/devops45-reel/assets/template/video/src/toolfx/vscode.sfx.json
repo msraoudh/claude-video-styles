@@ -1,0 +1,5 @@
+[
+  {"at": 2, "sfx": "ui-pop", "gain": 0.22, "note": "editor window scales up"},
+  {"at": 16, "sfx": "typing", "gain": 0.25, "note": "code types itself"},
+  {"at": 85, "sfx": "glint", "gain": 0.28, "note": "last line done, amber bolt + flare"}
+]

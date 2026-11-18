@@ -1,0 +1,357 @@
+{
+ "fps": 30,
+ "totalF": 1798,
+ "clips": [
+  {
+   "text": "Hé, bon.",
+   "orig": 0,
+   "part": 0,
+   "srcStartF": 4,
+   "srcEndF": 30,
+   "cutStartF": 0,
+   "durF": 26
+  },
+  {
+   "text": "Cette fois, on tente en français, hein.",
+   "orig": 1,
+   "part": 0,
+   "srcStartF": 93,
+   "srcEndF": 131,
+   "cutStartF": 26,
+   "durF": 38
+  },
+  {
+   "text": "On sait jamais,",
+   "orig": 2,
+   "part": 0,
+   "srcStartF": 165,
+   "srcEndF": 185,
+   "cutStartF": 64,
+   "durF": 20
+  },
+  {
+   "text": "peut-être l'algo va enfin me calculer en France.",
+   "orig": 3,
+   "part": 0,
+   "srcStartF": 399,
+   "srcEndF": 446,
+   "cutStartF": 84,
+   "durF": 47
+  },
+  {
+   "text": "Bon, pour ceux qui me connaissent pas,",
+   "orig": 4,
+   "part": 0,
+   "srcStartF": 729,
+   "srcEndF": 766,
+   "cutStartF": 131,
+   "durF": 37
+  },
+  {
+   "text": "moi c'est the user, je bosse dans la tech,",
+   "orig": 5,
+   "part": 0,
+   "srcStartF": 892,
+   "srcEndF": 933,
+   "cutStartF": 168,
+   "durF": 41
+  },
+  {
+   "text": "le cloud, l'IA…",
+   "orig": 6,
+   "part": 0,
+   "srcStartF": 1031,
+   "srcEndF": 1058,
+   "cutStartF": 209,
+   "durF": 27
+  },
+  {
+   "text": "bref,",
+   "orig": 7,
+   "part": 0,
+   "srcStartF": 1104,
+   "srcEndF": 1120,
+   "cutStartF": 236,
+   "durF": 16
+  },
+  {
+   "text": "j'aime bien tester des trucs,",
+   "orig": 8,
+   "part": 0,
+   "srcStartF": 1238,
+   "srcEndF": 1278,
+   "cutStartF": 252,
+   "durF": 40
+  },
+  {
+   "text": "apprendre et construire des projets.",
+   "orig": 9,
+   "part": 0,
+   "srcStartF": 1402,
+   "srcEndF": 1435,
+   "cutStartF": 292,
+   "durF": 33
+  },
+  {
+   "text": "Mais frère, il y avait un truc qui me bloquait",
+   "orig": 10,
+   "part": 0,
+   "srcStartF": 1568,
+   "srcEndF": 1577,
+   "cutStartF": 325,
+   "durF": 9
+  },
+  {
+   "text": "Mais frère, il y avait un truc qui me bloquait",
+   "orig": 10,
+   "part": 1,
+   "srcStartF": 1603,
+   "srcEndF": 1630,
+   "cutStartF": 334,
+   "durF": 27
+  },
+  {
+   "text": "depuis longtemps :",
+   "orig": 11,
+   "part": 0,
+   "srcStartF": 1798,
+   "srcEndF": 1818,
+   "cutStartF": 361,
+   "durF": 20
+  },
+  {
+   "text": "le montage vidéo.",
+   "orig": 12,
+   "part": 0,
+   "srcStartF": 1864,
+   "srcEndF": 1894,
+   "cutStartF": 381,
+   "durF": 30
+  },
+  {
+   "text": "Genre, dans ma tête, j'avais des idées de fou.",
+   "orig": 13,
+   "part": 0,
+   "srcStartF": 2030,
+   "srcEndF": 2106,
+   "cutStartF": 411,
+   "durF": 76
+  },
+  {
+   "text": "Je savais exactement ce que je voulais comme rendu.",
+   "orig": 14,
+   "part": 0,
+   "srcStartF": 2451,
+   "srcEndF": 2524,
+   "cutStartF": 487,
+   "durF": 73
+  },
+  {
+   "text": "Mais au moment de passer à la pratique, c'était une autre histoire.",
+   "orig": 15,
+   "part": 0,
+   "srcStartF": 2716,
+   "srcEndF": 2794,
+   "cutStartF": 560,
+   "durF": 78
+  },
+  {
+   "text": "J'avais la flemme même pour apprendre à monter des vidéos, je trouvais ça trop compliqué.",
+   "orig": 16,
+   "part": 0,
+   "srcStartF": 2829,
+   "srcEndF": 2937,
+   "cutStartF": 638,
+   "durF": 108
+  },
+  {
+   "text": "Du coup, j'étais éclaté.",
+   "orig": 17,
+   "part": 0,
+   "srcStartF": 3035,
+   "srcEndF": 3063,
+   "cutStartF": 746,
+   "durF": 28
+  },
+  {
+   "text": "Du coup, je repoussais toujours, je me suis dit que c'était pas le moment.",
+   "orig": 18,
+   "part": 0,
+   "srcStartF": 3273,
+   "srcEndF": 3356,
+   "cutStartF": 774,
+   "durF": 83
+  },
+  {
+   "text": "Je commencerai plus tard,",
+   "orig": 19,
+   "part": 0,
+   "srcStartF": 3600,
+   "srcEndF": 3628,
+   "cutStartF": 857,
+   "durF": 28
+  },
+  {
+   "text": "quand je maîtriserai mieux le montage.",
+   "orig": 20,
+   "part": 0,
+   "srcStartF": 3953,
+   "srcEndF": 3994,
+   "cutStartF": 885,
+   "durF": 41
+  },
+  {
+   "text": "Sauf que ce fameux « plus tard », ça n'arrivera jamais.",
+   "orig": 21,
+   "part": 0,
+   "srcStartF": 4298,
+   "srcEndF": 4359,
+   "cutStartF": 926,
+   "durF": 61
+  },
+  {
+   "text": "Et puis j'ai commencé à utiliser Claude",
+   "orig": 22,
+   "part": 0,
+   "srcStartF": 4713,
+   "srcEndF": 4760,
+   "cutStartF": 987,
+   "durF": 47
+  },
+  {
+   "text": "pour m'aider à apprendre, monter mes vidéos,",
+   "orig": 23,
+   "part": 0,
+   "srcStartF": 5192,
+   "srcEndF": 5247,
+   "cutStartF": 1034,
+   "durF": 55
+  },
+  {
+   "text": "gérer les couleurs, les animations, les effets, tout ça.",
+   "orig": 24,
+   "part": 0,
+   "srcStartF": 5410,
+   "srcEndF": 5496,
+   "cutStartF": 1089,
+   "durF": 86
+  },
+  {
+   "text": "Et là, je me suis dit : mais wesh,",
+   "orig": 25,
+   "part": 0,
+   "srcStartF": 5708,
+   "srcEndF": 5753,
+   "cutStartF": 1175,
+   "durF": 45
+  },
+  {
+   "text": "pourquoi j'attends encore ?",
+   "orig": 26,
+   "part": 0,
+   "srcStartF": 5838,
+   "srcEndF": 5873,
+   "cutStartF": 1220,
+   "durF": 35
+  },
+  {
+   "text": "Donc voilà, je me lance enfin.",
+   "orig": 27,
+   "part": 0,
+   "srcStartF": 6054,
+   "srcEndF": 6099,
+   "cutStartF": 1255,
+   "durF": 45
+  },
+  {
+   "text": "Je vais partager mes projets dans la tech, dans le cloud, parler un peu de ma spécialité,",
+   "orig": 28,
+   "part": 0,
+   "srcStartF": 6172,
+   "srcEndF": 6279,
+   "cutStartF": 1300,
+   "durF": 107
+  },
+  {
+   "text": "mes découvertes, mes galères aussi.",
+   "orig": 29,
+   "part": 0,
+   "srcStartF": 6327,
+   "srcEndF": 6370,
+   "cutStartF": 1407,
+   "durF": 43
+  },
+  {
+   "text": "Et maintenant, en français.",
+   "orig": 30,
+   "part": 0,
+   "srcStartF": 7110,
+   "srcEndF": 7143,
+   "cutStartF": 1450,
+   "durF": 33
+  },
+  {
+   "text": "On va voir si les Français valident ou si je vais parler tout seul.",
+   "orig": 31,
+   "part": 0,
+   "srcStartF": 7582,
+   "srcEndF": 7661,
+   "cutStartF": 1483,
+   "durF": 79
+  },
+  {
+   "text": "Ben bref,",
+   "orig": 32,
+   "part": 0,
+   "srcStartF": 7690,
+   "srcEndF": 7724,
+   "cutStartF": 1562,
+   "durF": 34
+  },
+  {
+   "text": "si tu t'intéresses à la tech, à l'IA, au cloud,",
+   "orig": 33,
+   "part": 0,
+   "srcStartF": 7787,
+   "srcEndF": 7864,
+   "cutStartF": 1596,
+   "durF": 77
+  },
+  {
+   "text": "à des news,",
+   "orig": 34,
+   "part": 0,
+   "srcStartF": 7889,
+   "srcEndF": 7911,
+   "cutStartF": 1673,
+   "durF": 22
+  },
+  {
+   "text": "et que t'aimes découvrir de nouveaux trucs,",
+   "orig": 35,
+   "part": 0,
+   "srcStartF": 8052,
+   "srcEndF": 8096,
+   "cutStartF": 1695,
+   "durF": 44
+  },
+  {
+   "text": "reste dans le coin.",
+   "orig": 36,
+   "part": 0,
+   "srcStartF": 8199,
+   "srcEndF": 8229,
+   "cutStartF": 1739,
+   "durF": 30
+  },
+  {
+   "text": "Salut !",
+   "orig": 37,
+   "part": 0,
+   "srcStartF": 8233,
+   "srcEndF": 8262,
+   "cutStartF": 1769,
+   "durF": 29
+  }
+ ]
+}

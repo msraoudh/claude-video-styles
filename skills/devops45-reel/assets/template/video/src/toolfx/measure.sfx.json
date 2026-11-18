@@ -1,0 +1,5 @@
+[
+  { "at": 10, "sfx": "tap", "gain": 0.22, "note": "stopwatch start click" },
+  { "at": 46, "sfx": "ui-click", "gain": 0.28, "note": "stopwatch stops, page loaded (0,8 s)" },
+  { "at": 66, "sfx": "glint", "gain": 0.2, "note": "speedometer needle swings into the green zone" }
+]

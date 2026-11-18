@@ -1,0 +1,10 @@
+#!/bin/bash
+# QA still of a composition at a GLOBAL frame: ./still.sh <CompId> <frame> [out.jpg]   (half scale, GPU)
+# Goes through the shared render lock — never run plain `npx remotion render` in parallel.
+set -e
+cd "$(dirname "$0")"
+source ~/.nvm/nvm.sh >/dev/null && nvm use 24 >/dev/null
+COMP=$1; F=$2; OUT=${3:-../qa/stills/$COMP-$F.jpg}
+mkdir -p "$(dirname "$OUT")"
+VIDEO_DIR=$PWD ~/.claude/skills/cinematic-motion-teaser/scripts/render-safe.sh still "$COMP" "$OUT" --frame="$F" --scale=0.5 --gl=angle --log=error 2>&1 | tail -3
+echo "$OUT"

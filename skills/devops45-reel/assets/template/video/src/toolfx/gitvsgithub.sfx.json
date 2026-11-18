@@ -1,0 +1,6 @@
+[
+  { "at": 210, "sfx": "camera-shutter", "gain": 0.26, "note": "« versions » (ep. 8 +210): shot v1, flash + polaroid pops out" },
+  { "at": 230, "sfx": "camera-shutter", "gain": 0.22, "note": "shot v2 (TV + k, k = 20 in ep. 8)" },
+  { "at": 250, "sfx": "camera-shutter", "gain": 0.22, "note": "shot v3 (TV + 2k)" },
+  { "at": 483, "sfx": "whoosh", "gain": 0.2, "note": "« publies » (ep. 8 +479): the polaroid copies fly up into the GitHub grid (the publish pop = cues.py's phase pop on « publies »)" }
+]

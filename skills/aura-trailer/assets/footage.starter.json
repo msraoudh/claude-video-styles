@@ -1,0 +1,9 @@
+{
+  "_about": "Shot library. One entry per clip; footage.py cuts them into video/public/footage/<id>.mp4 and writes src/data/footage.ts. The lip-sync clip of each voice source starts at the same second as that source's audio (usually 0). Describe every clip: the scene agents choose shots from these descriptions and qa/footage-sheet.jpg.",
+  "presets": {
+    "full": "scale=1080:1920:flags=lanczos,setsar=1"
+  },
+  "clips": [
+    {"id": "main", "kind": "master", "src": "source/CODE.mp4", "start": 0, "dur": 60, "vf": "full", "matte": "", "desc": "the subject talking to camera — lip-sync source of voice 'main'"}
+  ]
+}

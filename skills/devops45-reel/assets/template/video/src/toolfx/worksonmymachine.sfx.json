@@ -1,0 +1,6 @@
+[
+  { "at": 30, "sfx": "check", "gain": 0.24, "note": "« marche » (TOK): ✓ « ça marche » pops on the laptop — ep. 9 estimate, retime on the placed voice" },
+  { "at": 62, "sfx": "whoosh", "gain": 0.22, "note": "SA = max(TOK+12, « plante » − 42): the app copy flies to the server" },
+  { "at": 100, "sfx": "impact", "gain": 0.3, "note": "« plante » (TCR): crash — red ✗ erreur, glitch, smoke, the ⚙ tile falls out" },
+  { "at": 190, "sfx": "glint", "gain": 0.24, "note": "« Docker » (TDK): the whale plate lands as the hero, amber ring + flare" }
+]

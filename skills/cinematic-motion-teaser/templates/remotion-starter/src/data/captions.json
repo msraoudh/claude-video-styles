@@ -1,0 +1,170 @@
+[
+ {
+  "text": "Your",
+  "startMs": 600,
+  "endMs": 1145,
+  "timestampMs": 600,
+  "confidence": 1
+ },
+ {
+  "text": " days",
+  "startMs": 1145,
+  "endMs": 1690,
+  "timestampMs": 1145,
+  "confidence": 1
+ },
+ {
+  "text": " are",
+  "startMs": 1690,
+  "endMs": 2151,
+  "timestampMs": 1690,
+  "confidence": 1
+ },
+ {
+  "text": " full",
+  "startMs": 2151,
+  "endMs": 2696,
+  "timestampMs": 2151,
+  "confidence": 1
+ },
+ {
+  "text": " of",
+  "startMs": 2696,
+  "endMs": 3074,
+  "timestampMs": 2696,
+  "confidence": 1
+ },
+ {
+  "text": " tabs.",
+  "startMs": 3074,
+  "endMs": 3619,
+  "timestampMs": 3074,
+  "confidence": 1
+ },
+ {
+  "text": " Lumen",
+  "startMs": 4069,
+  "endMs": 4697,
+  "timestampMs": 4069,
+  "confidence": 1
+ },
+ {
+  "text": " gets",
+  "startMs": 4697,
+  "endMs": 5242,
+  "timestampMs": 4697,
+  "confidence": 1
+ },
+ {
+  "text": " you",
+  "startMs": 5242,
+  "endMs": 5704,
+  "timestampMs": 5242,
+  "confidence": 1
+ },
+ {
+  "text": " out",
+  "startMs": 5704,
+  "endMs": 6165,
+  "timestampMs": 5704,
+  "confidence": 1
+ },
+ {
+  "text": " of",
+  "startMs": 6165,
+  "endMs": 6544,
+  "timestampMs": 6165,
+  "confidence": 1
+ },
+ {
+  "text": " them.",
+  "startMs": 6544,
+  "endMs": 7088,
+  "timestampMs": 6544,
+  "confidence": 1
+ },
+ {
+  "text": " Plan",
+  "startMs": 7538,
+  "endMs": 8083,
+  "timestampMs": 7538,
+  "confidence": 1
+ },
+ {
+  "text": " it",
+  "startMs": 8083,
+  "endMs": 8462,
+  "timestampMs": 8083,
+  "confidence": 1
+ },
+ {
+  "text": " in",
+  "startMs": 8462,
+  "endMs": 8840,
+  "timestampMs": 8462,
+  "confidence": 1
+ },
+ {
+  "text": " seconds,",
+  "startMs": 8840,
+  "endMs": 9635,
+  "timestampMs": 8840,
+  "confidence": 1
+ },
+ {
+  "text": " and",
+  "startMs": 9635,
+  "endMs": 10096,
+  "timestampMs": 9635,
+  "confidence": 1
+ },
+ {
+  "text": " it's",
+  "startMs": 10096,
+  "endMs": 10558,
+  "timestampMs": 10096,
+  "confidence": 1
+ },
+ {
+  "text": " done.",
+  "startMs": 10558,
+  "endMs": 11103,
+  "timestampMs": 10558,
+  "confidence": 1
+ },
+ {
+  "text": " Lumen.",
+  "startMs": 11553,
+  "endMs": 12181,
+  "timestampMs": 11553,
+  "confidence": 1
+ },
+ {
+  "text": " Built",
+  "startMs": 12631,
+  "endMs": 13259,
+  "timestampMs": 12631,
+  "confidence": 1
+ },
+ {
+  "text": " for",
+  "startMs": 13259,
+  "endMs": 13721,
+  "timestampMs": 13259,
+  "confidence": 1
+ },
+ {
+  "text": " right",
+  "startMs": 13721,
+  "endMs": 14349,
+  "timestampMs": 13721,
+  "confidence": 1
+ },
+ {
+  "text": " now.",
+  "startMs": 14349,
+  "endMs": 14810,
+  "timestampMs": 14349,
+  "confidence": 1
+ }
+]

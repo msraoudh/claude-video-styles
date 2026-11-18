@@ -1,0 +1,6 @@
+[
+  { "at": 12, "sfx": "tap", "gain": 0.22, "note": "code block v1 lands on the belt" },
+  { "at": 30, "sfx": "tick", "gain": 0.2, "note": "build station: gears whirl, sparks" },
+  { "at": 58, "sfx": "glint", "gain": 0.2, "note": "test scanner beam sweeps" },
+  { "at": 88, "sfx": "check", "gain": 0.32, "note": "big green check stamp slams" }
+]

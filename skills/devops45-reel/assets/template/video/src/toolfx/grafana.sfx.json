@@ -1,0 +1,6 @@
+[
+  { "at": 2, "sfx": "glass", "gain": 0.2, "note": "dashboard window appears" },
+  { "at": 20, "sfx": "cards", "gain": 0.2, "note": "panels stack in, bars grow" },
+  { "at": 34, "sfx": "tick", "gain": 0.16, "note": "stat counts up, gauge fills" },
+  { "at": 70, "sfx": "glint", "gain": 0.3, "note": "amber highlight lands on the peak of the curve" }
+]

@@ -30,14 +30,23 @@ Claude follows the « Install » steps below by itself.
 |---|---|
 | `skills/global-video-styles` | 15 styles, each with exact palette, fonts, 1080×1920 layout, every graphic element, motion timings, captions, transitions, sound map and a Remotion build recipe. Gallery + intake questions. SFX tools: download, search by sound (`sfx_match.py`), synthesise. |
 | `skills/tunisian-clean-cut` | Cuts a raw talking-head recording (Tunisian Derja + French + English): pauses, retakes, false starts, stutters, repeated words. It always keeps the last take, and cuts the 4K camera file on the same frames as the mic. |
+| `skills/voice-clean-cut` | Cuts a voice recording: stutters, repeated words, false starts, « euh », retakes; keeps the last good take and checks the result by listening again. |
+| `skills/reel-pro-edit` | Raw talking-head → finished vertical reel: cut, captions, text behind the subject, motion graphics tied to the words, 3D, SFX, music bed, grade, mastered render. |
+| `skills/split-reel-face` | Face-cam explainer with the screen split: your face on top, an animated stage below showing exactly what you say, step by step, plus full-screen « wow » moments and word-by-word captions. |
+| `skills/storyboard-card-reel` | Talking-head reel in a card, with pen-drawn storyboard illustrations that draw themselves on your words, metal text, red → black. |
+| `skills/aura-trailer` | 60 s hype / « aura » trailer about a person, cut on the bass of a song you supply, from your own reels and voice lines; dark motion graphics, text behind you, ducked music. |
+| `skills/cinematic-motion-teaser` | Cinematic product / app teasers at 60 fps, 9:16 and 16:9: kinetic type, the real UI rebuilt on a 3D phone, glass layers, light-streak transitions, voiceover-driven cuts. |
+| `skills/devops45-reel` | A daily faceless 45 s lesson series: one brief → one episode (ready-made scene types, tool logos animated doing their job, AI voice, calm music bed, offline mix). Use it as the recipe for your own series. |
 
 The 15 styles: 1 Dark Teal Chrome · 2 Neon Mono · 3 Violet Glass · 4 Silver Infographic · 5 Before/After Ad · 6 Light Paper · 7 App Demo (Claude UI) · 8 3D Studio Devices · 9 Speaker Carousel · 10 Chrome Trailer · 11 Screen Tutorial · 12 Luxury Property Tour · 13 Pastel SaaS Motion · 14 Teal Ocean Funnel · 15 Clean White Before/After.
+
+**Sounds, music and example pictures are not included** in the skills above (licences, and personal footage). Each skill has a `MISSING-ASSETS.md` listing those files; ask Claude: « Lis MISSING-ASSETS.md et trouve-moi des sons gratuits équivalents, avec les mêmes noms de fichiers. »
 
 ## Install (the steps Claude runs)
 
 Requirements: Windows 10/11, [Claude Code](https://claude.com/claude-code), Python 3.12, [ffmpeg](https://ffmpeg.org) on PATH, Node.js 20+ (for Remotion). An NVIDIA GPU is recommended: transcription and rendering are much faster.
 
-1. **Skills**: copy `skills/global-video-styles` and `skills/tunisian-clean-cut` into `%USERPROFILE%\.claude\skills\`.
+1. **Skills**: copy every folder of `skills/` into `%USERPROFILE%\.claude\skills\`.
 2. **Python environment**:
    ```bat
    python -m venv %USERPROFILE%\.venvs\claude-video

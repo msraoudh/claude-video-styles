@@ -1,0 +1,124 @@
+{
+  "_about": "The real config of « NO MORE EXCUSES » (2026-10-18/19, WSL ~/me-trailer). Media paths are absolute so it rebuilds from the original files. Copy it as the starting point of a new trailer and change everything.",
+  "title": "NO MORE EXCUSES",
+  "slug": "no-more-excuses",
+  "subject": {"name": "the user", "handle": "@yourhandle", "who": "French/Tunisian tech creator: cloud, AI, n8n automation, Claude, web explainers, IT-career tough love"},
+  "language": "fr",
+  "fps": 60,
+  "duration_s": 60,
+  "music": {
+    "source": "/home/you/me-trailer/music/acido3.mp3",
+    "rate": 0.85,
+    "file": "/home/you/me-trailer/music/acido3-slowed85.wav",
+    "offset_s": 6.97,
+    "beatmap": "/home/you/me-trailer/music/audiomap-slowed85.json",
+    "bass": "/home/you/me-trailer/music/bass-slowed85.json",
+    "credit": "ACIDO III — UdieNnx x Mc Denny (℗ 0to8), slowed 0.85",
+    "big_hit": {"min_rise_db": 6, "min_level_db": -12}
+  },
+  "voice": {
+    "sources": {
+      "v4": {
+        "audio": "/mnt/c/Users/YOU/Desktop/reel-project/remotion-video/public/footage/voice-v4-master.wav",
+        "words": "/home/you/me-trailer/analysis/voice-v4-words.json",
+        "clip": "master-v4",
+        "_note": "clean French reel voice, lip-synced with clip master-v4 (both start at second 0)"
+      },
+      "zones": {
+        "audio": "/home/you/me-trailer/audio/stems/zones-vocals.wav",
+        "words": "/home/you/me-trailer/analysis/transcripts/DZAcM0noCTq.json",
+        "clip": "card-zones",
+        "_note": "Demucs vocal stem of reel DZAcM0noCTq (music under it), lip-synced with its talking-head card"
+      }
+    },
+    "rms_dbfs": -18,
+    "fade_in_ms": 8,
+    "fade_out_ms": 40,
+    "peak_max": 0.89
+  },
+  "lines": [
+    {"id": "H", "src": "zones", "in": 0.00, "out": 3.68, "at": 0.30, "text": "L'IA va peut-être pas remplacer ton métier… mais elle pourrait te remplacer, toi."},
+    {"id": "L40", "src": "zones", "in": 3.95, "out": 5.61, "at": 6.40, "text": "J'ai analysé plus de 40 métiers dans l'IT."},
+    {"id": "A", "src": "v4", "in": 5.45, "out": 7.88, "at": 10.12, "text": "Moi c'est the user, je bosse dans la tech, le cloud, l'IA."},
+    {"id": "B", "src": "v4", "in": 14.04, "out": 15.70, "at": 19.80, "text": "Dans ma tête, j'avais les idées de fou."},
+    {"id": "C", "src": "v4", "in": 27.31, "out": 29.50, "at": 45.15, "text": "Je me suis dit que c'était pas le moment… je commencerais plus tard."},
+    {"id": "D", "src": "v4", "in": 30.72, "out": 32.90, "at": 47.72, "text": "Sauf que ce fameux plus tard… ça n'arrivera jamais, hein."},
+    {"id": "E", "src": "v4", "in": 39.91, "out": 41.52, "at": 50.02, "text": "Mais wesh… pourquoi j'attends encore ?"},
+    {"id": "F", "src": "v4", "in": 42.36, "out": 43.20, "at": 53.02, "text": "Je me lance enfin."},
+    {"id": "G", "src": "v4", "in": 57.80, "out": 58.79, "at": 58.85, "text": "Reste dans le coin."}
+  ],
+  "sections": [
+    {"id": "cold", "from_s": 0.0, "to_s": 4.0, "what": "Cold open: black, drone + heartbeat, his voice alone. 808 enters at 4.0 right after « toi »."},
+    {"id": "world", "from_s": 4.0, "to_s": 12.61, "what": "The world: trailer cards + data hits; music low-passed, opening; drop-out 10.78-12.43 carries line A."},
+    {"id": "hero", "from_s": 12.61, "to_s": 30.06, "what": "DROP 1: name reveal MED YOURNAME (3D dossier), face montage on the beat, n8n/Blender screens in 3D."},
+    {"id": "escalate", "from_s": 30.06, "to_s": 47.6, "what": "Bass section: strobe cuts, text behind subject, episode cards as glass panels; dip 45.5-47.2 carries line C."},
+    {"id": "silence", "from_s": 47.6, "to_s": 51.78, "what": "The song goes silent: lines D + E alone, slow push, « plus tard → JAMAIS »."},
+    {"id": "title", "from_s": 51.78, "to_s": 54.0, "what": "BIG 808: title slam NO MORE EXCUSES; line F after it."},
+    {"id": "finale", "from_s": 54.0, "to_s": 57.9, "what": "Final strobe montage on the big hits; handle + episodes."},
+    {"id": "end", "from_s": 57.9, "to_s": 60.0, "what": "Tape stop → black → end card « @yourhandle », line G « reste dans le coin. »"}
+  ],
+  "parts": [
+    {"id": "open", "from": "cold", "to": "world"},
+    {"id": "hero", "from": "hero", "to": "hero"},
+    {"id": "escalate", "from": "escalate", "to": "escalate"},
+    {"id": "climax", "from": "silence", "to": "end"}
+  ],
+  "key": {
+    "bassIn": {"song": 10.97},
+    "dropout1": {"song": [17.75, 19.40]},
+    "drop1": {"song": 19.58},
+    "bassSection": {"song": 37.03},
+    "dip": {"song": [52.50, 54.20]},
+    "dipHit": {"song": 54.38},
+    "silence": {"song": [54.75, 58.22]},
+    "bigDrop": {"song": 58.75},
+    "bigHits": {"song": [60.92, 65.27]},
+    "tapeStop": {"t": 57.9}
+  },
+  "fx": {
+    "letterbox": [
+      [["key:start", 190], ["key:bassIn-4", 190], ["key:bassIn+4", 0]],
+      [["key:dropout1[0]-10", 0], ["key:dropout1[0]+20", 150], ["key:drop1-2", 150], ["key:drop1+4", 0]],
+      [["key:silence[0]-6", 0], ["key:silence[0]+30", 210], ["key:bigDrop-2", 210], ["key:bigDrop+4", 0]]
+    ],
+    "flash_extra": ["key:drop1"],
+    "live_until": "key:tapeStop",
+    "grain": 0.11
+  },
+  "mix": {
+    "lowpass_hz": [
+      ["key:start", 320], ["key:bassIn-4", 320],
+      ["key:bassIn", 650], [420, 1400], [560, 4500], [630, 18000],
+      ["key:dropout1[0]-1", 18000], ["key:dropout1[0]+13", 600], ["key:dropout1[1]", 600], ["key:drop1-1", 400],
+      ["key:drop1", 20000],
+      ["key:dip[0]-32", 20000], ["key:dip[0]-2", 1100], ["key:dipHit-5", 1100], ["key:dipHit", 20000],
+      ["key:end", 20000]
+    ],
+    "music_gain_db": [
+      ["key:start", -8], ["key:bassIn-4", -8], ["key:bassIn-1", -40], ["key:bassIn", -2],
+      ["key:drop1-20", -2], ["key:drop1-12", -40], ["key:drop1-1", -40], ["key:drop1", 0],
+      ["key:dip[0]-42", 0], ["key:dip[0]-27", -5], ["key:dipHit+1", -5], ["key:dipHit+5", 0],
+      ["key:silence[0]-11", 0], ["key:silence[0]-1", -4], ["key:silence[0]+13", -24], ["key:bigDrop-17", -30],
+      ["key:bigDrop-9", -60], ["key:bigDrop-1", -60], ["key:bigDrop", 0],
+      ["key:end", 0]
+    ],
+    "duck_db": -20,
+    "band_dip_db": -10,
+    "voice_lowpass_hz": 850,
+    "voice_highpass_hz": 80,
+    "voice_gain_db": 2.5,
+    "music_level": 0.92,
+    "tape_stop": {"at": "key:tapeStop", "frames": 34, "lowpass_hz": 2500},
+    "sfx_master": 0.55,
+    "sfx_under_voice": 0.15,
+    "reverse_max_s": 0.7,
+    "sfx_dirs": ["/home/you/me-trailer/audio/sfx-pick", "/home/you/me-trailer/video/public/audio/sfx"],
+    "director_cues": [
+      {"f": "key:drop1", "sfx": "sub-impact", "gain": 0.8, "note": "drop 1 low end"},
+      {"f": "key:bigDrop", "sfx": "sub-impact", "gain": 0.9, "note": "big drop low end"},
+      {"f": "key:tapeStop", "sfx": "powerdown", "gain": 0.5, "note": "tape stop"}
+    ],
+    "limiter_db": -1.0
+  },
+  "deliver": {"desktop_dir": "/mnt/c/Users/YOU/Desktop/reel-project/me-trailer/out"}
+}

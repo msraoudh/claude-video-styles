@@ -1,0 +1,5 @@
+[
+  {"id": "hook",    "firstWord": 0},
+  {"id": "product", "firstWord": 12, "transition": "lightStreak", "frames": 22},
+  {"id": "endcard", "firstWord": 19, "transition": "whipPush",    "frames": 18}
+]

@@ -1,0 +1,66 @@
+{
+  "_about": "Starter config written by new_trailer.sh. Fill it step by step (references/config.md explains every field; examples/no-more-excuses/trailer.json is a complete real one). Paths are relative to the project folder unless absolute.",
+  "title": "TITLE",
+  "slug": "SLUG",
+  "subject": {"name": "", "handle": "", "who": ""},
+  "language": "fr",
+  "fps": 60,
+  "duration_s": 60,
+  "music": {
+    "source": "music/song.mp3",
+    "rate": 0.85,
+    "file": "music/song-slowed85.wav",
+    "offset_s": 0,
+    "beatmap": "music/audiomap.json",
+    "bass": "music/bass.json",
+    "credit": "",
+    "big_hit": {"min_rise_db": 6, "min_level_db": -12}
+  },
+  "voice": {
+    "sources": {
+      "main": {"audio": "audio/stems/main.wav", "words": "analysis/transcripts/main.json", "clip": "main"}
+    },
+    "rms_dbfs": -18
+  },
+  "lines": [],
+  "sections": [
+    {"id": "cold", "from_s": 0.0, "to_s": 4.0, "what": "Cold open: black, drone + heartbeat, the hook line alone; the 808 enters right after its last word."},
+    {"id": "world", "from_s": 4.0, "to_s": 12.0, "what": "The world / the problem: trailer cards + data hits, music low-passed and opening; a drop-out carries the intro line."},
+    {"id": "hero", "from_s": 12.0, "to_s": 30.0, "what": "DROP 1: name reveal (signature), face montage on the beat, what they build."},
+    {"id": "escalate", "from_s": 30.0, "to_s": 47.0, "what": "Bass section: strobe cuts, text behind the subject, their work as glass panels; a dip carries one line."},
+    {"id": "silence", "from_s": 47.0, "to_s": 52.0, "what": "The song goes silent: the confession lines alone, slow push."},
+    {"id": "title", "from_s": 52.0, "to_s": 54.0, "what": "BIG 808: title slam; the decision line after it."},
+    {"id": "finale", "from_s": 54.0, "to_s": 58.0, "what": "Final strobe montage on the big hits; handle + work."},
+    {"id": "end", "from_s": 58.0, "to_s": 60.0, "what": "Tape stop → black → end card with the handle, last line."}
+  ],
+  "parts": [
+    {"id": "open", "from": "cold", "to": "world"},
+    {"id": "hero", "from": "hero", "to": "hero"},
+    {"id": "escalate", "from": "escalate", "to": "escalate"},
+    {"id": "climax", "from": "silence", "to": "end"}
+  ],
+  "key": {
+    "tapeStop": {"t": 57.9}
+  },
+  "fx": {
+    "letterbox": [],
+    "flash_extra": [],
+    "live_until": "key:tapeStop",
+    "grain": 0.11
+  },
+  "mix": {
+    "lowpass_hz": [],
+    "music_gain_db": [],
+    "duck_db": -20,
+    "band_dip_db": -10,
+    "voice_lowpass_hz": 850,
+    "voice_gain_db": 2.5,
+    "tape_stop": {"at": "key:tapeStop", "frames": 34},
+    "sfx_master": 0.55,
+    "sfx_under_voice": 0.15,
+    "director_cues": [
+      {"f": "key:tapeStop", "sfx": "powerdown", "gain": 0.5, "note": "tape stop"}
+    ]
+  },
+  "deliver": {"desktop_dir": "/mnt/c/Users/YOU/Desktop/reel-project/SLUG/out"}
+}

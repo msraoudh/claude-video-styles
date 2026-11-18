@@ -1,0 +1,17 @@
+[
+  { "f": 1804, "sfx": "sub-impact", "gain": 0.45, "note": "bass section opens: « ADAPTE- » slams behind the user" },
+  { "f": 2064, "sfx": "glitch-2", "gain": 0.3, "note": "evidence hits begin (m02 escalator glass card slams in)" },
+  { "f": 2195, "sfx": "keypad", "gain": 0.3, "note": "« FOCUS » tiles slice into the wall" },
+  { "f": 2260, "sfx": "reverse", "gain": 0.55, "note": "sucks into the BIG 808 (peak on 2260)" },
+  { "f": 2260, "sfx": "metalhit", "gain": 0.85, "note": "SIGNATURE: shockwave flips the tile wall to « DOMINE. »" },
+  { "f": 2260, "sfx": "sub-impact", "gain": 0.5, "note": "weight under the DOMINE slam" },
+  { "f": 2292, "sfx": "whoosh-cinematic", "gain": 0.45, "note": "episode carousel flies in" },
+  { "f": 2390, "sfx": "whoosh-short", "gain": 0.22, "note": "carousel step (ZONE ROUGE)" },
+  { "f": 2488, "sfx": "whoosh-short", "gain": 0.22, "note": "carousel step (front/back)" },
+  { "f": 2553, "sfx": "glitch-1", "gain": 0.3, "note": "final strobe burst starts" },
+  { "f": 2683, "sfx": "impact", "gain": 0.4, "note": "white « DOMINE. » recap slam, last hit before the stop" },
+  { "f": 2697, "sfx": "camera-shutter", "gain": 0.55, "note": "freeze frame (B&W) — the strobe stops dead before line C" },
+  { "f": 2746, "sfx": "subdrop", "gain": 0.3, "note": "into the dip: the sub drops out under « c'était pas le moment » (keep under the voice)" },
+  { "f": 2845, "sfx": "impact", "gain": 0.6, "note": "dip hit: red slam on « PLUS TARD »" },
+  { "f": 2847, "sfx": "powerdown", "gain": 0.5, "note": "picture collapses like a CRT going off → black into the silence" }
+]

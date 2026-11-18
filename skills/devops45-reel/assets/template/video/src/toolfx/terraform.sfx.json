@@ -1,0 +1,6 @@
+[
+  { "at": 6, "sfx": "typing", "gain": 0.16, "note": "main.tf code types on" },
+  { "at": 44, "sfx": "zoom-swish", "gain": 0.24, "note": "apply pressed, beams shoot to the floor" },
+  { "at": 66, "sfx": "glass", "gain": 0.22, "note": "servers fill solid" },
+  { "at": 88, "sfx": "check", "gain": 0.26, "note": "network linked, 3 serveurs créés" }
+]

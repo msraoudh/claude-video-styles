@@ -1,0 +1,6 @@
+[
+  { "at": 30, "sfx": "glint", "gain": 0.22, "note": "the image blueprint finishes drawing, the Docker badge spins onto it" },
+  { "at": 134, "sfx": "ui-click", "gain": 0.26, "note": "« ▶ run » pressed on « lancée » (ep. 9: lancée 1192, f0 ≈ 1060; re-time = lancée − f0 + 2)" },
+  { "at": 146, "sfx": "impact", "gain": 0.2, "note": "the copy hits the floor and turns into the solid running container (run + 12)" },
+  { "at": 476, "sfx": "check", "gain": 0.28, "note": "prod ✓ (ep. 9: prod 1532 → ✓ at prod + 4; the phase-word pops on PC / test / prod come from cues.py)" }
+]

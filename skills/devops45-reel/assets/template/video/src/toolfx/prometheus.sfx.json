@@ -1,0 +1,5 @@
+[
+  { "at": 4, "sfx": "ui-pop", "gain": 0.2, "note": "servers + hub pop in" },
+  { "at": 20, "sfx": "tick", "gain": 0.18, "note": "gauge needles swing, numbers tick up" },
+  { "at": 56, "sfx": "glint", "gain": 0.3, "note": "first (amber) metric lands in the Prometheus hub" }
+]

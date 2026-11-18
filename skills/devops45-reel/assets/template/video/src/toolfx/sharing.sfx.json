@@ -1,0 +1,6 @@
+[
+  { "at": 20, "sfx": "glint", "gain": 0.25, "note": "team A's bulb lights: the idea" },
+  { "at": 38, "sfx": "cards", "gain": 0.2, "note": "the doc card copies itself" },
+  { "at": 60, "sfx": "ui-pop", "gain": 0.22, "note": "teams B and D light up on arrival" },
+  { "at": 81, "sfx": "glass", "gain": 0.26, "note": "team C lights, the whole network glows" }
+]

@@ -1,0 +1,12 @@
+[
+  { "f": 0, "sfx": "drone", "gain": 0.3, "note": "cold-open bed under the muffled song, black + his face card surfacing (the file runs ~8 s; it can fade out after the 240 bass entry)" },
+  { "f": 4, "sfx": "heartbeat", "gain": 0.45, "note": "first heartbeat in the black; the image throbs on its two thumps (6, 22)" },
+  { "f": 149, "sfx": "heartbeat", "gain": 0.32, "note": "second heartbeat in the breath « métier… mais » (148-150); image throbs at 151 / 167" },
+  { "f": 221, "sfx": "sub-impact", "gain": 0.32, "note": "« TOI. » slam on the « t » of « toi » — low end only, must sit under the vowel (223-232)" },
+  { "f": 240, "sfx": "subdrop", "gain": 0.4, "note": "HARD CUT from TOI. to « EN 2026, » on the 808 entry (KEY.bassIn); the file is a 2.3 s sustained sub, keep it under the 808" },
+  { "f": 436, "sfx": "glitch-2", "gain": 0.16, "note": "« MÉTIERS » slams with the cut to the scanned grid (e02); under « métiers »" },
+  { "f": 566, "sfx": "metalhit", "gain": 0.35, "note": "« …ET TOI ? » — the world's last card (peak on the 808 hit); short, gone before « moi » (615)" },
+  { "f": 598, "sfx": "glitch", "gain": 0.28, "note": "strobe burst of his data hits on the snare roll (598-613), just before his voice" },
+  { "f": 664, "sfx": "heartbeat", "gain": 0.3, "note": "drop-out: intimate push on him, echoes the cold-open heartbeat; under « je bosse dans la tech »" },
+  { "f": 757, "sfx": "reverse", "gain": 0.5, "note": "sucks the frame in (744-750) and across the black (751-756) into DROP 1 — peak ON 757" }
+]

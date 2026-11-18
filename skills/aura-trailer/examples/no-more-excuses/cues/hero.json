@@ -1,0 +1,20 @@
+[
+  { "f": 757, "sfx": "titleslam-alt", "gain": 1.0, "note": "DROP 1 — the dossier slab hits, tiles turn over into « MED YOURNAME » (signature)" },
+  { "f": 760, "sfx": "keypad", "gain": 0.9, "note": "tile clatter while the name cells flip (760–785)" },
+  { "f": 788, "sfx": "typing", "gain": 0.7, "note": "@yourhandle types on under the name" },
+  { "f": 822, "sfx": "keypad", "gain": 1.0, "note": "the whole slab turns over to his portrait (822–850)" },
+  { "f": 882, "sfx": "ui-pop", "gain": 0.9, "note": "face lock-on « SUJET IDENTIFIÉ »" },
+  { "f": 943, "sfx": "whoosh-cinematic", "gain": 1.0, "note": "camera dives into the portrait — peak on the match cut 943 (photo comes alive)" },
+  { "f": 1040, "sfx": "glitch-1", "gain": 0.7, "note": "mono flash frame (f14)" },
+  { "f": 1171, "sfx": "camera-shutter", "gain": 1.2, "note": "freeze frame (mono) before line B — unfreezes on « dans » 1188" },
+  { "f": 1300, "sfx": "whoosh", "gain": 0.9, "note": "camera flight into the n8n station (HE BUILDS)" },
+  { "f": 1388, "sfx": "whoosh-short", "gain": 0.9, "note": "flight to SECRÉTAIRE IA" },
+  { "f": 1415, "sfx": "ui-pop", "gain": 1.0, "note": "SUCCESS ✓ chip + scan line on the executions table" },
+  { "f": 1485, "sfx": "whoosh", "gain": 0.9, "note": "flight to BLENDER × CLAUDE (dragon)" },
+  { "f": 1545, "sfx": "glitch", "gain": 0.8, "note": "glitch whip into REVERSE ENGINEERING" },
+  { "f": 1577, "sfx": "keypad", "gain": 1.1, "note": "the reel wall turns over in a radial wave (« les 1000 versions »)" },
+  { "f": 1610, "sfx": "ui-pop", "gain": 0.9, "note": "52 REELS counter" },
+  { "f": 1748, "sfx": "camera-shutter", "gain": 1.0, "note": "freeze + mono (f10)" },
+  { "f": 1764, "sfx": "glitch-2", "gain": 0.8, "note": "glitch-slice cut (f15)" },
+  { "f": 1803, "sfx": "riser", "gain": 1.1, "note": "riser peaks on my last frame, sucking into the bass section at 1804" }
+]

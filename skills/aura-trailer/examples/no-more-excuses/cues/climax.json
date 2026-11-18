@@ -1,0 +1,14 @@
+[
+  { "f": 2880, "sfx": "heartbeat", "gain": 0.18, "note": "faint heartbeat in the silence under lines D/E (the only sound besides his voice)" },
+  { "f": 2932, "sfx": "whoosh-short", "gain": 0.3, "note": "the portal tears open out of « PLUS TARD » on « ça » (peak on the cut)" },
+  { "f": 2957, "sfx": "glitch", "gain": 0.4, "note": "PLUS TARD → JAMAIS. letter hand-off + block glitch, on « jamais »" },
+  { "f": 2992, "sfx": "whoosh", "gain": 0.35, "note": "JAMAIS. rushes past the lens (peak), the world empties before line E" },
+  { "f": 3107, "sfx": "reverse", "gain": 0.7, "note": "reverse swell sucked into the biggest 808 (peak on 3107)" },
+  { "f": 3107, "sfx": "titleslam", "gain": 0.9, "note": "glass shards LOCK on the 808 — NO MORE EXCUSES ignites inside the glass" },
+  { "f": 3107, "sfx": "braam", "gain": 0.4, "note": "optional trailer braam under the title hold (drop it if the 808 + titleslam are enough)" },
+  { "f": 3178, "sfx": "whoosh", "gain": 0.35, "note": "the glass panes blast toward the lens into line F (peak just before « je »)" },
+  { "f": 3231, "sfx": "camera-shutter", "gain": 0.5, "note": "freeze frame at the end of « je me lance enfin »" },
+  { "f": 3237, "sfx": "metalhit", "gain": 0.8, "note": "BIG HIT — the finale strobe starts" },
+  { "f": 3513, "sfx": "sub-impact", "gain": 0.6, "note": "end-card reveal (@yourhandle) after the CRT power-down and silence" },
+  { "f": 3521, "sfx": "ui-pop", "gain": 0.3, "note": "his liquid-glass talking-head card arrives (10 f before « reste dans le coin »)" }
+]

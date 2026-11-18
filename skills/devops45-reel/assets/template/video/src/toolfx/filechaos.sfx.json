@@ -1,0 +1,6 @@
+[
+  { "at": 14, "sfx": "ui-pop", "gain": 0.24, "note": "first copy peels off: rapport_final_v2" },
+  { "at": 26, "sfx": "ui-pop", "gain": 0.24, "note": "second copy peels off: rapport_VRAIMENT_final" },
+  { "at": 44, "sfx": "cards", "gain": 0.26, "note": "the list collapses, copies thrown in faster and faster, the heap rattles" },
+  { "at": 100, "sfx": "ui-click", "gain": 0.28, "note": "uh-oh: the cursor stops, shakes, the amber « ? » pops" }
+]

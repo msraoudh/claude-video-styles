@@ -1,0 +1,895 @@
+{
+ "offset": 20.666,
+ "pieces": [
+  {
+   "a": 12.166666666666666,
+   "b": 13.133333333333333,
+   "t0": 0,
+   "n": 29,
+   "camF": 985,
+   "text": "Ken enti mel 3bed elli t3allmou yetmannchou b Claude w mekech 3aref ta3mel kif hedhi"
+  },
+  {
+   "a": 13.2,
+   "b": 15.133333333333333,
+   "t0": 29,
+   "n": 58,
+   "camF": 1016,
+   "text": "Ken enti mel 3bed elli t3allmou yetmannchou b Claude w mekech 3aref ta3mel kif hedhi"
+  },
+  {
+   "a": 17.766666666666666,
+   "b": 19.2,
+   "t0": 87,
+   "n": 43,
+   "camF": 1153,
+   "text": "el video hedhi lik"
+  },
+  {
+   "a": 24.4,
+   "b": 26.333333333333332,
+   "t0": 130,
+   "n": 58,
+   "camF": 1352,
+   "text": "tawa barcha 3bed t3allmou yetmannchou b Claude"
+  },
+  {
+   "a": 30.366666666666667,
+   "b": 31.833333333333332,
+   "t0": 188,
+   "n": 44,
+   "camF": 1531,
+   "text": "w ynajmou yfalriw barcha 7ajet bih"
+  },
+  {
+   "a": 41.36666666666667,
+   "b": 42.266666666666666,
+   "t0": 232,
+   "n": 27,
+   "camF": 1861,
+   "text": "ama famma kan minorité elli fiha la différence"
+  },
+  {
+   "a": 42.3,
+   "b": 43.333333333333336,
+   "t0": 259,
+   "n": 31,
+   "camF": 1889,
+   "text": "ama famma kan minorité elli fiha la différence"
+  },
+  {
+   "a": 47.266666666666666,
+   "b": 49.1,
+   "t0": 290,
+   "n": 55,
+   "camF": 2038,
+   "text": "w … kif hedhi el kol (mot pas clair)"
+  },
+  {
+   "a": 49.333333333333336,
+   "b": 49.5,
+   "t0": 345,
+   "n": 5,
+   "camF": 2100,
+   "text": "w … kif hedhi el kol (mot pas clair)"
+  },
+  {
+   "a": 59.53333333333333,
+   "b": 60.7,
+   "t0": 350,
+   "n": 35,
+   "camF": 2406,
+   "text": "w ana personnellement ma nchouf ken zouz 7ajet ya3mlou la différence bin les AI users"
+  },
+  {
+   "a": 60.733333333333334,
+   "b": 60.9,
+   "t0": 385,
+   "n": 5,
+   "camF": 2442,
+   "text": "w ana personnellement ma nchouf ken zouz 7ajet ya3mlou la différence bin les AI users"
+  },
+  {
+   "a": 60.93333333333333,
+   "b": 61.53333333333333,
+   "t0": 390,
+   "n": 18,
+   "camF": 2448,
+   "text": "w ana personnellement ma nchouf ken zouz 7ajet ya3mlou la différence bin les AI users"
+  },
+  {
+   "a": 61.7,
+   "b": 62.6,
+   "t0": 408,
+   "n": 27,
+   "camF": 2471,
+   "text": "w ana personnellement ma nchouf ken zouz 7ajet ya3mlou la différence bin les AI users"
+  },
+  {
+   "a": 62.9,
+   "b": 63.36666666666667,
+   "t0": 435,
+   "n": 14,
+   "camF": 2507,
+   "text": "w ana personnellement ma nchouf ken zouz 7ajet ya3mlou la différence bin les AI users"
+  },
+  {
+   "a": 63.7,
+   "b": 64.5,
+   "t0": 449,
+   "n": 24,
+   "camF": 2531,
+   "text": "w ana personnellement ma nchouf ken zouz 7ajet ya3mlou la différence bin les AI users"
+  },
+  {
+   "a": 66.76666666666667,
+   "b": 68.36666666666666,
+   "t0": 473,
+   "n": 48,
+   "camF": 2623,
+   "text": "la créativité w l'intelligence"
+  },
+  {
+   "a": 70.2,
+   "b": 71.03333333333333,
+   "t0": 521,
+   "n": 25,
+   "camF": 2726,
+   "text": "nfasserlek"
+  },
+  {
+   "a": 78.56666666666666,
+   "b": 80.23333333333333,
+   "t0": 546,
+   "n": 50,
+   "camF": 2977,
+   "text": "zouz users ynajmou yesta3mlou nafs l'outil, nafs el modèle, Claude, kol chay"
+  },
+  {
+   "a": 81.16666666666667,
+   "b": 81.9,
+   "t0": 596,
+   "n": 22,
+   "camF": 3055,
+   "text": "zouz users ynajmou yesta3mlou nafs l'outil, nafs el modèle, Claude, kol chay"
+  },
+  {
+   "a": 82.33333333333333,
+   "b": 82.7,
+   "t0": 618,
+   "n": 11,
+   "camF": 3090,
+   "text": "zouz users ynajmou yesta3mlou nafs l'outil, nafs el modèle, Claude, kol chay"
+  },
+  {
+   "a": 82.8,
+   "b": 83.26666666666667,
+   "t0": 629,
+   "n": 14,
+   "camF": 3104,
+   "text": "zouz users ynajmou yesta3mlou nafs l'outil, nafs el modèle, Claude, kol chay"
+  },
+  {
+   "a": 86.86666666666666,
+   "b": 88.56666666666666,
+   "t0": 643,
+   "n": 51,
+   "camF": 3226,
+   "text": "wa7ed yesta3mlou bech ykhrej 7aja classique, déjà vu"
+  },
+  {
+   "a": 88.73333333333333,
+   "b": 89.26666666666667,
+   "t0": 694,
+   "n": 16,
+   "camF": 3282,
+   "text": "wa7ed yesta3mlou bech ykhrej 7aja classique, déjà vu"
+  },
+  {
+   "a": 92.03333333333333,
+   "b": 93.3,
+   "t0": 710,
+   "n": 38,
+   "camF": 3381,
+   "text": "w ykoun satisfait bel résultat"
+  },
+  {
+   "a": 98.5,
+   "b": 100.13333333333334,
+   "t0": 748,
+   "n": 49,
+   "camF": 3575,
+   "text": "lekhor yesta3mlou b chakl jdid, ykoun créatif"
+  },
+  {
+   "a": 100.23333333333333,
+   "b": 100.93333333333334,
+   "t0": 797,
+   "n": 21,
+   "camF": 3627,
+   "text": "lekhor yesta3mlou b chakl jdid, ykoun créatif"
+  },
+  {
+   "a": 106.96666666666667,
+   "b": 108.23333333333333,
+   "t0": 818,
+   "n": 38,
+   "camF": 3829,
+   "text": "ycombini des concepts, yexpérimenti"
+  },
+  {
+   "a": 108.46666666666667,
+   "b": 108.7,
+   "t0": 856,
+   "n": 7,
+   "camF": 3874,
+   "text": "ycombini des concepts, yexpérimenti"
+  },
+  {
+   "a": 108.7,
+   "b": 109.36666666666666,
+   "t0": 863,
+   "n": 20,
+   "camF": 3881,
+   "text": "ycombini des concepts, yexpérimenti"
+  },
+  {
+   "a": 116.16666666666667,
+   "b": 118.1,
+   "t0": 883,
+   "n": 58,
+   "camF": 4105,
+   "text": "w yokhrej des résultats mamlia ma kontech tetsawar enha twassel lehom"
+  },
+  {
+   "a": 118.4,
+   "b": 119.46666666666667,
+   "t0": 941,
+   "n": 32,
+   "camF": 4172,
+   "text": "w yokhrej des résultats mamlia ma kontech tetsawar enha twassel lehom"
+  },
+  {
+   "a": 119.53333333333333,
+   "b": 119.86666666666666,
+   "t0": 973,
+   "n": 10,
+   "camF": 4206,
+   "text": "w yokhrej des résultats mamlia ma kontech tetsawar enha twassel lehom"
+  },
+  {
+   "a": 119.9,
+   "b": 120.4,
+   "t0": 983,
+   "n": 15,
+   "camF": 4217,
+   "text": "w yokhrej des résultats mamlia ma kontech tetsawar enha twassel lehom"
+  },
+  {
+   "a": 127.16666666666667,
+   "b": 127.76666666666667,
+   "t0": 998,
+   "n": 18,
+   "camF": 4435,
+   "text": "par exemple"
+  },
+  {
+   "a": 130.6,
+   "b": 131.56666666666666,
+   "t0": 1016,
+   "n": 29,
+   "camF": 4538,
+   "text": "les idées de vidéo elli t9addemha"
+  },
+  {
+   "a": 131.56666666666666,
+   "b": 132.13333333333333,
+   "t0": 1045,
+   "n": 17,
+   "camF": 4567,
+   "text": "les idées de vidéo elli t9addemha"
+  },
+  {
+   "a": 133.86666666666667,
+   "b": 135.1,
+   "t0": 1062,
+   "n": 37,
+   "camF": 4636,
+   "text": "le concept elli tdévelopih"
+  },
+  {
+   "a": 137.76666666666668,
+   "b": 138.7,
+   "t0": 1099,
+   "n": 28,
+   "camF": 4753,
+   "text": "le storytelling"
+  },
+  {
+   "a": 141.83333333333334,
+   "b": 142.83333333333334,
+   "t0": 1127,
+   "n": 30,
+   "camF": 4875,
+   "text": "les angles de caméra"
+  },
+  {
+   "a": 146.46666666666667,
+   "b": 147.2,
+   "t0": 1157,
+   "n": 22,
+   "camF": 5014,
+   "text": "les transitions"
+  },
+  {
+   "a": 150.53333333333333,
+   "b": 151.43333333333334,
+   "t0": 1179,
+   "n": 27,
+   "camF": 5136,
+   "text": "les effets visuels"
+  },
+  {
+   "a": 154.4,
+   "b": 156.6,
+   "t0": 1206,
+   "n": 66,
+   "camF": 5252,
+   "text": "7atta el tari9a elli t7ki biha l'histoire fi 7add dhatha"
+  },
+  {
+   "a": 163.8,
+   "b": 164.03333333333333,
+   "t0": 1272,
+   "n": 7,
+   "camF": 5534,
+   "text": "el kol ye7taj el créativité"
+  },
+  {
+   "a": 164.06666666666666,
+   "b": 165.4,
+   "t0": 1279,
+   "n": 40,
+   "camF": 5542,
+   "text": "el kol ye7taj el créativité"
+  },
+  {
+   "a": 165.43333333333334,
+   "b": 165.5,
+   "t0": 1319,
+   "n": 2,
+   "camF": 5583,
+   "text": "el kol ye7taj el créativité"
+  },
+  {
+   "a": 171.4,
+   "b": 172.6,
+   "t0": 1321,
+   "n": 36,
+   "camF": 5762,
+   "text": "w nod5ol lel 7aja thanya, elli hiya l'intelligence"
+  },
+  {
+   "a": 172.76666666666668,
+   "b": 172.83333333333334,
+   "t0": 1357,
+   "n": 2,
+   "camF": 5803,
+   "text": "w nod5ol lel 7aja thanya, elli hiya l'intelligence"
+  },
+  {
+   "a": 172.96666666666667,
+   "b": 173.93333333333334,
+   "t0": 1359,
+   "n": 29,
+   "camF": 5809,
+   "text": "w nod5ol lel 7aja thanya, elli hiya l'intelligence"
+  },
+  {
+   "a": 176.26666666666668,
+   "b": 178.06666666666666,
+   "t0": 1388,
+   "n": 54,
+   "camF": 5908,
+   "text": "khater el créativité wa7dha ma tekfich"
+  },
+  {
+   "a": 179.93333333333334,
+   "b": 182.5,
+   "t0": 1442,
+   "n": 77,
+   "camF": 6018,
+   "text": "w houni rani manich n7ki 3al intelligence académique"
+  },
+  {
+   "a": 182.53333333333333,
+   "b": 182.6,
+   "t0": 1519,
+   "n": 2,
+   "camF": 6096,
+   "text": "w houni rani manich n7ki 3al intelligence académique"
+  },
+  {
+   "a": 186.46666666666667,
+   "b": 188.5,
+   "t0": 1521,
+   "n": 61,
+   "camF": 6214,
+   "text": "n7ki 3al capacité mte3ek bech tefhem un problème"
+  },
+  {
+   "a": 191.86666666666667,
+   "b": 192.76666666666668,
+   "t0": 1582,
+   "n": 27,
+   "camF": 6376,
+   "text": "ta3ref chnowa t'sal ?"
+  },
+  {
+   "a": 196.03333333333333,
+   "b": 197.06666666666666,
+   "t0": 1609,
+   "n": 31,
+   "camF": 6501,
+   "text": "kifech twajjahha ?"
+  },
+  {
+   "a": 197.3,
+   "b": 197.43333333333334,
+   "t0": 1640,
+   "n": 4,
+   "camF": 6539,
+   "text": "kifech twajjahha ?"
+  },
+  {
+   "a": 202.16666666666666,
+   "b": 203.8,
+   "t0": 1644,
+   "n": 49,
+   "camF": 6685,
+   "text": "kifech tchallengiha fel réponse mte3ha ?"
+  },
+  {
+   "a": 203.83333333333334,
+   "b": 204.2,
+   "t0": 1693,
+   "n": 11,
+   "camF": 6735,
+   "text": "kifech tchallengiha fel réponse mte3ha ?"
+  },
+  {
+   "a": 209.63333333333333,
+   "b": 213.16666666666666,
+   "t0": 1704,
+   "n": 106,
+   "camF": 6909,
+   "text": "w surtout kifech ta3ref elli el résultat elli 3tathoulek ynajja7 wala ma ynajja7ch"
+  },
+  {
+   "a": 223.33333333333334,
+   "b": 224.86666666666667,
+   "t0": 1810,
+   "n": 46,
+   "camF": 7320,
+   "text": "khater l'AI tnajjem ta3tik réponse t'ban parfaite"
+  },
+  {
+   "a": 224.9,
+   "b": 225.03333333333333,
+   "t0": 1856,
+   "n": 4,
+   "camF": 7367,
+   "text": "khater l'AI tnajjem ta3tik réponse t'ban parfaite"
+  },
+  {
+   "a": 225.03333333333333,
+   "b": 225.26666666666668,
+   "t0": 1860,
+   "n": 7,
+   "camF": 7371,
+   "text": "khater l'AI tnajjem ta3tik réponse t'ban parfaite"
+  },
+  {
+   "a": 225.3,
+   "b": 225.66666666666666,
+   "t0": 1867,
+   "n": 11,
+   "camF": 7379,
+   "text": "khater l'AI tnajjem ta3tik réponse t'ban parfaite"
+  },
+  {
+   "a": 225.7,
+   "b": 225.8,
+   "t0": 1878,
+   "n": 3,
+   "camF": 7391,
+   "text": "khater l'AI tnajjem ta3tik réponse t'ban parfaite"
+  },
+  {
+   "a": 227.96666666666667,
+   "b": 229.16666666666666,
+   "t0": 1881,
+   "n": 36,
+   "camF": 7459,
+   "text": "ama techniquement ghalta"
+  },
+  {
+   "a": 232.53333333333333,
+   "b": 233.83333333333334,
+   "t0": 1917,
+   "n": 39,
+   "camF": 7596,
+   "text": "donc ken enti ma 3andekch le recul, l'expérience"
+  },
+  {
+   "a": 233.86666666666667,
+   "b": 234.2,
+   "t0": 1956,
+   "n": 10,
+   "camF": 7636,
+   "text": "donc ken enti ma 3andekch le recul, l'expérience"
+  },
+  {
+   "a": 234.43333333333334,
+   "b": 235.0,
+   "t0": 1966,
+   "n": 17,
+   "camF": 7653,
+   "text": "donc ken enti ma 3andekch le recul, l'expérience"
+  },
+  {
+   "a": 238.6,
+   "b": 240.8,
+   "t0": 1983,
+   "n": 66,
+   "camF": 7778,
+   "text": "ou la capacité de juger le résultat"
+  },
+  {
+   "a": 243.76666666666668,
+   "b": 244.83333333333334,
+   "t0": 2049,
+   "n": 32,
+   "camF": 7933,
+   "text": "tu risques de produire barcha 7ajet sans valeur"
+  },
+  {
+   "a": 244.9,
+   "b": 245.8,
+   "t0": 2081,
+   "n": 27,
+   "camF": 7967,
+   "text": "tu risques de produire barcha 7ajet sans valeur"
+  },
+  {
+   "a": 246.0,
+   "b": 246.56666666666666,
+   "t0": 2108,
+   "n": 17,
+   "camF": 8000,
+   "text": "tu risques de produire barcha 7ajet sans valeur"
+  },
+  {
+   "a": 256.1333333333333,
+   "b": 257.1666666666667,
+   "t0": 2125,
+   "n": 31,
+   "camF": 8304,
+   "text": "w houni exactement win tetla9a la différence bin"
+  },
+  {
+   "a": 257.43333333333334,
+   "b": 258.96666666666664,
+   "t0": 2156,
+   "n": 46,
+   "camF": 8343,
+   "text": "w houni exactement win tetla9a la différence bin"
+  },
+  {
+   "a": 259.5,
+   "b": 260.46666666666664,
+   "t0": 2202,
+   "n": 29,
+   "camF": 8405,
+   "text": "les users el 3adiyin"
+  },
+  {
+   "a": 262.8666666666667,
+   "b": 263.56666666666666,
+   "t0": 2231,
+   "n": 21,
+   "camF": 8506,
+   "text": "w les users … l'intelligence w les créatifs"
+  },
+  {
+   "a": 263.96666666666664,
+   "b": 265.2,
+   "t0": 2252,
+   "n": 37,
+   "camF": 8539,
+   "text": "w les users … l'intelligence w les créatifs"
+  },
+  {
+   "a": 270.0,
+   "b": 270.6333333333333,
+   "t0": 2289,
+   "n": 19,
+   "camF": 8720,
+   "text": "ki nchouf"
+  },
+  {
+   "a": 272.53333333333336,
+   "b": 273.93333333333334,
+   "t0": 2308,
+   "n": 42,
+   "camF": 8796,
+   "text": "produit masna3 bel IA"
+  },
+  {
+   "a": 276.8666666666667,
+   "b": 279.03333333333336,
+   "t0": 2350,
+   "n": 65,
+   "camF": 8926,
+   "text": "ye3kes el créativité w l'intelligence mte3ek, nchoufou fih enti chnowa ta3mel"
+  },
+  {
+   "a": 279.1666666666667,
+   "b": 279.8333333333333,
+   "t0": 2415,
+   "n": 20,
+   "camF": 8995,
+   "text": "ye3kes el créativité w l'intelligence mte3ek, nchoufou fih enti chnowa ta3mel"
+  },
+  {
+   "a": 279.8666666666667,
+   "b": 280.6,
+   "t0": 2435,
+   "n": 22,
+   "camF": 9016,
+   "text": "ye3kes el créativité w l'intelligence mte3ek, nchoufou fih enti chnowa ta3mel"
+  },
+  {
+   "a": 283.43333333333334,
+   "b": 284.76666666666665,
+   "t0": 2457,
+   "n": 40,
+   "camF": 9123,
+   "text": "w nwalliw nefhmou enti kifech tkhammem"
+  },
+  {
+   "a": 288.56666666666666,
+   "b": 289.7,
+   "t0": 2497,
+   "n": 34,
+   "camF": 9277,
+   "text": "ki tkhammem bel behi, tokhrojlek résultat behya"
+  },
+  {
+   "a": 290.06666666666666,
+   "b": 291.23333333333335,
+   "t0": 2531,
+   "n": 35,
+   "camF": 9322,
+   "text": "ki tkhammem bel behi, tokhrojlek résultat behya"
+  },
+  {
+   "a": 292.73333333333335,
+   "b": 293.8,
+   "t0": 2566,
+   "n": 32,
+   "camF": 9402,
+   "text": "ki tkhammem bel khayeb, tokhrojlek résultat khayba"
+  },
+  {
+   "a": 293.8333333333333,
+   "b": 294.8333333333333,
+   "t0": 2598,
+   "n": 30,
+   "camF": 9435,
+   "text": "ki tkhammem bel khayeb, tokhrojlek résultat khayba"
+  },
+  {
+   "a": 294.8666666666667,
+   "b": 294.96666666666664,
+   "t0": 2628,
+   "n": 3,
+   "camF": 9466,
+   "text": "ki tkhammem bel khayeb, tokhrojlek résultat khayba"
+  },
+  {
+   "a": 304.3333333333333,
+   "b": 304.4,
+   "t0": 2631,
+   "n": 2,
+   "camF": 9750,
+   "text": "l'IA t3awnek bech tconcrétisi les idées mte3ek, mais finalement bech tokhroj el résultat elli t7ebbou"
+  },
+  {
+   "a": 304.46666666666664,
+   "b": 305.1,
+   "t0": 2633,
+   "n": 19,
+   "camF": 9754,
+   "text": "l'IA t3awnek bech tconcrétisi les idées mte3ek, mais finalement bech tokhroj el résultat elli t7ebbou"
+  },
+  {
+   "a": 305.1333333333333,
+   "b": 308.1333333333333,
+   "t0": 2652,
+   "n": 90,
+   "camF": 9774,
+   "text": "l'IA t3awnek bech tconcrétisi les idées mte3ek, mais finalement bech tokhroj el résultat elli t7ebbou"
+  },
+  {
+   "a": 309.26666666666665,
+   "b": 310.6666666666667,
+   "t0": 2742,
+   "n": 42,
+   "camF": 9898,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 311.46666666666664,
+   "b": 311.9,
+   "t0": 2784,
+   "n": 13,
+   "camF": 9964,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 311.93333333333334,
+   "b": 312.1333333333333,
+   "t0": 2797,
+   "n": 6,
+   "camF": 9978,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 312.1666666666667,
+   "b": 312.46666666666664,
+   "t0": 2803,
+   "n": 9,
+   "camF": 9985,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 312.53333333333336,
+   "b": 316.06666666666666,
+   "t0": 2812,
+   "n": 106,
+   "camF": 9996,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 316.1333333333333,
+   "b": 316.56666666666666,
+   "t0": 2918,
+   "n": 13,
+   "camF": 10104,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 316.6,
+   "b": 317.3666666666667,
+   "t0": 2931,
+   "n": 23,
+   "camF": 10118,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 317.4,
+   "b": 317.7,
+   "t0": 2954,
+   "n": 9,
+   "camF": 10142,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 317.76666666666665,
+   "b": 317.9,
+   "t0": 2963,
+   "n": 4,
+   "camF": 10153,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 318.03333333333336,
+   "b": 318.6666666666667,
+   "t0": 2967,
+   "n": 19,
+   "camF": 10161,
+   "text": "donc ki nchoufou un produit, nchoufou l'intelligence w la créativité mte3ek fel résultat, ça reflète enti…"
+  },
+  {
+   "a": 322.06666666666666,
+   "b": 322.23333333333335,
+   "t0": 2986,
+   "n": 5,
+   "camF": 10282,
+   "text": "So don't just learn AI (tet3allemch l'AI bark)"
+  },
+  {
+   "a": 322.3,
+   "b": 323.8333333333333,
+   "t0": 2991,
+   "n": 46,
+   "camF": 10289,
+   "text": "So don't just learn AI (tet3allemch l'AI bark)"
+  },
+  {
+   "a": 325.1666666666667,
+   "b": 327.1,
+   "t0": 3037,
+   "n": 58,
+   "camF": 10375,
+   "text": "t3allem kifech tkoun smart around AI"
+  },
+  {
+   "a": 327.53333333333336,
+   "b": 327.6,
+   "t0": 3095,
+   "n": 2,
+   "camF": 10446,
+   "text": "esta3mel el AI, t3allem el AI, w fi nafs el wa9t t3allem tkoun créatif w intelligent"
+  },
+  {
+   "a": 327.6333333333333,
+   "b": 328.46666666666664,
+   "t0": 3097,
+   "n": 25,
+   "camF": 10449,
+   "text": "esta3mel el AI, t3allem el AI, w fi nafs el wa9t t3allem tkoun créatif w intelligent"
+  },
+  {
+   "a": 328.8,
+   "b": 329.6333333333333,
+   "t0": 3122,
+   "n": 25,
+   "camF": 10484,
+   "text": "esta3mel el AI, t3allem el AI, w fi nafs el wa9t t3allem tkoun créatif w intelligent"
+  },
+  {
+   "a": 329.8,
+   "b": 330.06666666666666,
+   "t0": 3147,
+   "n": 8,
+   "camF": 10514,
+   "text": "esta3mel el AI, t3allem el AI, w fi nafs el wa9t t3allem tkoun créatif w intelligent"
+  },
+  {
+   "a": 330.1,
+   "b": 330.9,
+   "t0": 3155,
+   "n": 24,
+   "camF": 10523,
+   "text": "esta3mel el AI, t3allem el AI, w fi nafs el wa9t t3allem tkoun créatif w intelligent"
+  },
+  {
+   "a": 330.93333333333334,
+   "b": 331.43333333333334,
+   "t0": 3179,
+   "n": 15,
+   "camF": 10548,
+   "text": "esta3mel el AI, t3allem el AI, w fi nafs el wa9t t3allem tkoun créatif w intelligent"
+  },
+  {
+   "a": 331.46666666666664,
+   "b": 331.6666666666667,
+   "t0": 3194,
+   "n": 6,
+   "camF": 10564,
+   "text": "esta3mel el AI, t3allem el AI, w fi nafs el wa9t t3allem tkoun créatif w intelligent"
+  },
+  {
+   "a": 331.8,
+   "b": 332.3333333333333,
+   "t0": 3200,
+   "n": 16,
+   "camF": 10574,
+   "text": "esta3mel el AI, t3allem el AI, w fi nafs el wa9t t3allem tkoun créatif w intelligent"
+  }
+ ],
+ "totalF": 3216,
+ "total": 107.2
+}

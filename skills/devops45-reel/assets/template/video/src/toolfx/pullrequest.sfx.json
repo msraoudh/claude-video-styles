@@ -1,0 +1,6 @@
+[
+  { "at": 42, "sfx": "ui-pop", "gain": 0.22, "note": "« commente »: the 2nd comment bubble « petit souci ligne 12 » pops (the 1st rides the phase pop cues.py adds on « commente ») — lab timing C = 30" },
+  { "at": 62, "sfx": "whoosh", "gain": 0.2, "note": "« propose »: the diff card rides the feature-branch arrow in (P + 4) — lab timing P = 58" },
+  { "at": 108, "sfx": "tap", "gain": 0.32, "note": "« relue »: the APPROVED stamp thunks onto the card (R + 10) — lab timing R = 98 (impact.wav is a 3 s boom, too big under the voice)" },
+  { "at": 148, "sfx": "check", "gain": 0.28, "note": "« acceptée »: Merge pressed, purple Merged badge + merge commit (A + 10) — lab timing A = 138; re-time all four on the episode's real phase frames" }
+]

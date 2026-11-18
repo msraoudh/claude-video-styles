@@ -1,0 +1,36 @@
+#!/bin/bash
+# Master + package one episode (after render.sh):
+#   mix → two-pass loudnorm −14 LUFS + 4× oversampled true-peak limiter → stems → final.mp4 (video stream COPIED,
+#   AAC-LC 256k 48 kHz, faststart) → cover.jpg → captions.srt / caption.txt / alt_text.txt → qa.py → report.json
+#   bash deliver.sh <project>       → files in <project>/.. (= ~/reels/output/<episode_id>/), prints report.json
+# Never publishes or uploads anything: n8n's bridge picks final.mp4 up from that folder.
+set -euo pipefail
+P=$(cd "${1:?usage: deliver.sh <project>}" && pwd)
+[ -f "$P/episode.json" ] || P=$P/project
+O=$(dirname "$P")
+SK="$(cd "$(dirname "$0")" && pwd)"
+source "$SK/env.sh"
+"$PY" "$SK/mix.py" "$P" > /dev/null
+cd "$P/audio/out"
+ffmpeg -nostdin -hide_banner -nostats -y -i mix.wav -af loudnorm=I=-14:TP=-1.5:LRA=11:print_format=json -f null - 2> ln.json || true
+"$PY" - <<'PYX'
+import json
+t = open("ln.json").read(); j = json.loads(t[t.rfind("{"):t.rfind("}") + 1])
+open("ln.args", "w").write(f"measured_I={j['input_i']}:measured_TP={j['input_tp']}:measured_LRA={j['input_lra']}:measured_thresh={j['input_thresh']}:offset={j['target_offset']}")
+open("ln.gain", "w").write(str(-14 - float(j["input_i"])))
+PYX
+ffmpeg -nostdin -v error -y -i mix.wav -af "loudnorm=I=-14:TP=-1.5:LRA=11:linear=true:$(cat ln.args),aresample=192000,alimiter=limit=0.708:attack=1:release=60:level=disabled,aresample=48000" -ar 48000 -c:a pcm_s24le "$O/mix.wav"
+GAIN=$(cat ln.gain)
+for s in music sfx voice; do ffmpeg -nostdin -v error -y -i $s.wav -af "volume=${GAIN}dB" -ar 48000 -c:a pcm_s24le "$O/$s.wav"; done
+ffmpeg -nostdin -v error -y -i "$P/out/raw.mp4" -i "$O/mix.wav" -map 0:v -map 1:a -c:v copy -c:a aac -profile:a aac_low -b:a 256k \
+  -ar 48000 -ac 2 -shortest -movflags +faststart "$O/final.mp4"
+SIZE=$(stat -c %s "$O/final.mp4")
+if [ "$SIZE" -gt 46000000 ]; then
+  echo "final.mp4 is $((SIZE/1048576)) MB > 44 MB — re-encoding the picture at CRF 21"
+  ffmpeg -nostdin -v error -y -i "$P/out/raw.mp4" -i "$O/mix.wav" -map 0:v -map 1:a -c:v libx264 -preset slow -crf 21 -profile:v high \
+    -pix_fmt yuv420p -c:a aac -profile:a aac_low -b:a 256k -ar 48000 -ac 2 -shortest -movflags +faststart "$O/final.mp4"
+fi
+[ -f "$P/out/cover.png" ] && ffmpeg -nostdin -v error -y -i "$P/out/cover.png" -q:v 2 "$O/cover.jpg"
+"$PY" "$SK/texts.py" "$P"
+bash "$SK/wpy.sh" "$SK/qa.py" "$P"
+cat "$O/report.json"

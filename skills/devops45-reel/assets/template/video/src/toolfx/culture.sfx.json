@@ -1,0 +1,6 @@
+[
+  { "at": 24, "sfx": "glass", "gain": 0.3, "note": "the wall between dev and ops shatters" },
+  { "at": 74, "sfx": "impact", "gain": 0.26, "note": "the server cracks (red flash)" },
+  { "at": 124, "sfx": "glint", "gain": 0.25, "note": "the magnifier finds the cause, the gear rises" },
+  { "at": 146, "sfx": "check", "gain": 0.3, "note": "fixed — green check, the team hops" }
+]

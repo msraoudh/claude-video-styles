@@ -1,0 +1,2338 @@
+[
+{
+"text": "كان",
+"startMs": 10,
+"endMs": 160,
+"timestampMs": 85,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " إنتي",
+"startMs": 160,
+"endMs": 220,
+"timestampMs": 190,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " من",
+"startMs": 220,
+"endMs": 430,
+"timestampMs": 325,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " العباد",
+"startMs": 430,
+"endMs": 730,
+"timestampMs": 580,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " اللي",
+"startMs": 730,
+"endMs": 980,
+"timestampMs": 855,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " تعلّمو",
+"startMs": 980,
+"endMs": 1310,
+"timestampMs": 1145,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " يتمنّشو",
+"startMs": 1310,
+"endMs": 1710,
+"timestampMs": 1510,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " بـClaude",
+"startMs": 1710,
+"endMs": 2050,
+"timestampMs": 1880,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " ومكش",
+"startMs": 2050,
+"endMs": 2110,
+"timestampMs": 2080,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " عارف",
+"startMs": 2110,
+"endMs": 2410,
+"timestampMs": 2260,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " تعمل",
+"startMs": 2410,
+"endMs": 2560,
+"timestampMs": 2485,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " كيف",
+"startMs": 2560,
+"endMs": 2690,
+"timestampMs": 2625,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": " هاذي",
+"startMs": 2690,
+"endMs": 2900,
+"timestampMs": 2795,
+"confidence": null,
+"line": "hook"
+},
+{
+"text": "الـvideo",
+"startMs": 2930,
+"endMs": 3420,
+"timestampMs": 3175,
+"confidence": null,
+"line": "lik"
+},
+{
+"text": " هاذي",
+"startMs": 3420,
+"endMs": 3910,
+"timestampMs": 3665,
+"confidence": null,
+"line": "lik"
+},
+{
+"text": " ليك",
+"startMs": 3910,
+"endMs": 4333,
+"timestampMs": 4122,
+"confidence": null,
+"line": "lik"
+},
+{
+"text": "توّا",
+"startMs": 4340,
+"endMs": 4543,
+"timestampMs": 4442,
+"confidence": null,
+"line": "crowd"
+},
+{
+"text": " برشا",
+"startMs": 4543,
+"endMs": 4710,
+"timestampMs": 4627,
+"confidence": null,
+"line": "crowd"
+},
+{
+"text": " عباد",
+"startMs": 4710,
+"endMs": 5070,
+"timestampMs": 4890,
+"confidence": null,
+"line": "crowd"
+},
+{
+"text": " تعلّمو",
+"startMs": 5070,
+"endMs": 5353,
+"timestampMs": 5212,
+"confidence": null,
+"line": "crowd"
+},
+{
+"text": " يتمنّشو",
+"startMs": 5353,
+"endMs": 5690,
+"timestampMs": 5522,
+"confidence": null,
+"line": "crowd"
+},
+{
+"text": " بـClaude",
+"startMs": 5690,
+"endMs": 6267,
+"timestampMs": 5978,
+"confidence": null,
+"line": "crowd"
+},
+{
+"text": "وينجّمو",
+"startMs": 6290,
+"endMs": 6677,
+"timestampMs": 6483,
+"confidence": null,
+"line": "deliver"
+},
+{
+"text": " يـlivriw",
+"startMs": 6677,
+"endMs": 6997,
+"timestampMs": 6837,
+"confidence": null,
+"line": "deliver"
+},
+{
+"text": " برشا",
+"startMs": 6997,
+"endMs": 7217,
+"timestampMs": 7107,
+"confidence": null,
+"line": "deliver"
+},
+{
+"text": " حاجات",
+"startMs": 7217,
+"endMs": 7440,
+"timestampMs": 7328,
+"confidence": null,
+"line": "deliver"
+},
+{
+"text": " بيه",
+"startMs": 7440,
+"endMs": 7733,
+"timestampMs": 7587,
+"confidence": null,
+"line": "deliver"
+},
+{
+"text": "أما",
+"startMs": 7760,
+"endMs": 7820,
+"timestampMs": 7790,
+"confidence": null,
+"line": "minority"
+},
+{
+"text": " فمّا",
+"startMs": 7820,
+"endMs": 8160,
+"timestampMs": 7990,
+"confidence": null,
+"line": "minority"
+},
+{
+"text": " كان",
+"startMs": 8160,
+"endMs": 8220,
+"timestampMs": 8190,
+"confidence": null,
+"line": "minority"
+},
+{
+"text": " minorité",
+"startMs": 8220,
+"endMs": 8650,
+"timestampMs": 8435,
+"confidence": null,
+"line": "minority"
+},
+{
+"text": " اللي",
+"startMs": 8650,
+"endMs": 8800,
+"timestampMs": 8725,
+"confidence": null,
+"line": "minority"
+},
+{
+"text": " فيها",
+"startMs": 8800,
+"endMs": 9023,
+"timestampMs": 8912,
+"confidence": null,
+"line": "minority"
+},
+{
+"text": " la différence",
+"startMs": 9023,
+"endMs": 9667,
+"timestampMs": 9345,
+"confidence": null,
+"line": "minority"
+},
+{
+"text": "…",
+"startMs": 9700,
+"endMs": 9920,
+"timestampMs": 9810,
+"confidence": null,
+"line": "unclear6"
+},
+{
+"text": " هاذي",
+"startMs": 9920,
+"endMs": 10477,
+"timestampMs": 10198,
+"confidence": null,
+"line": "unclear6"
+},
+{
+"text": " الكل",
+"startMs": 10477,
+"endMs": 11080,
+"timestampMs": 10778,
+"confidence": null,
+"line": "unclear6"
+},
+{
+"text": " معاها",
+"startMs": 11080,
+"endMs": 11667,
+"timestampMs": 11373,
+"confidence": null,
+"line": "unclear6"
+},
+{
+"text": "وأنا",
+"startMs": 11700,
+"endMs": 11940,
+"timestampMs": 11820,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " personnellement",
+"startMs": 11940,
+"endMs": 12850,
+"timestampMs": 12395,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " ما",
+"startMs": 12850,
+"endMs": 12910,
+"timestampMs": 12880,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " نشوف",
+"startMs": 12910,
+"endMs": 13040,
+"timestampMs": 12975,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " كان",
+"startMs": 13040,
+"endMs": 13327,
+"timestampMs": 13183,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " زوز",
+"startMs": 13327,
+"endMs": 13610,
+"timestampMs": 13468,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " حاجات",
+"startMs": 13610,
+"endMs": 13807,
+"timestampMs": 13708,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " يعملو",
+"startMs": 13807,
+"endMs": 14077,
+"timestampMs": 13942,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " la différence",
+"startMs": 14077,
+"endMs": 14847,
+"timestampMs": 14462,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " بين",
+"startMs": 14847,
+"endMs": 15090,
+"timestampMs": 14968,
+"confidence": null,
+"line": "two"
+},
+{
+"text": " les AI users",
+"startMs": 15090,
+"endMs": 15767,
+"timestampMs": 15428,
+"confidence": null,
+"line": "two"
+},
+{
+"text": "la",
+"startMs": 15790,
+"endMs": 15920,
+"timestampMs": 15855,
+"confidence": null,
+"line": "crea_int"
+},
+{
+"text": " créativité",
+"startMs": 15920,
+"endMs": 16440,
+"timestampMs": 16180,
+"confidence": null,
+"line": "crea_int"
+},
+{
+"text": " و",
+"startMs": 16440,
+"endMs": 16597,
+"timestampMs": 16518,
+"confidence": null,
+"line": "crea_int"
+},
+{
+"text": " l'intelligence",
+"startMs": 16597,
+"endMs": 17367,
+"timestampMs": 16982,
+"confidence": null,
+"line": "crea_int"
+},
+{
+"text": "نفسّرلك",
+"startMs": 17390,
+"endMs": 18200,
+"timestampMs": 17795,
+"confidence": null,
+"line": "explain"
+},
+{
+"text": "زوز",
+"startMs": 18210,
+"endMs": 18370,
+"timestampMs": 18290,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " users",
+"startMs": 18370,
+"endMs": 18660,
+"timestampMs": 18515,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " ينجّمو",
+"startMs": 18660,
+"endMs": 19030,
+"timestampMs": 18845,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " يستعملو",
+"startMs": 19030,
+"endMs": 19500,
+"timestampMs": 19265,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " نفس",
+"startMs": 19500,
+"endMs": 19630,
+"timestampMs": 19565,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " l'outil،",
+"startMs": 19630,
+"endMs": 20100,
+"timestampMs": 19865,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " نفس",
+"startMs": 20100,
+"endMs": 20380,
+"timestampMs": 20240,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " الـmodèle،",
+"startMs": 20380,
+"endMs": 20610,
+"timestampMs": 20495,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " Claude،",
+"startMs": 20610,
+"endMs": 21180,
+"timestampMs": 20895,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " كل",
+"startMs": 21180,
+"endMs": 21290,
+"timestampMs": 21235,
+"confidence": null,
+"line": "same"
+},
+{
+"text": " شي",
+"startMs": 21290,
+"endMs": 21433,
+"timestampMs": 21362,
+"confidence": null,
+"line": "same"
+},
+{
+"text": "واحد",
+"startMs": 21440,
+"endMs": 21643,
+"timestampMs": 21542,
+"confidence": null,
+"line": "classic"
+},
+{
+"text": " يستعملو",
+"startMs": 21643,
+"endMs": 22100,
+"timestampMs": 21872,
+"confidence": null,
+"line": "classic"
+},
+{
+"text": " باش",
+"startMs": 22100,
+"endMs": 22160,
+"timestampMs": 22130,
+"confidence": null,
+"line": "classic"
+},
+{
+"text": " يخرّج",
+"startMs": 22160,
+"endMs": 22493,
+"timestampMs": 22327,
+"confidence": null,
+"line": "classic"
+},
+{
+"text": " حاجة",
+"startMs": 22493,
+"endMs": 22730,
+"timestampMs": 22612,
+"confidence": null,
+"line": "classic"
+},
+{
+"text": " classique،",
+"startMs": 22730,
+"endMs": 23140,
+"timestampMs": 22935,
+"confidence": null,
+"line": "classic"
+},
+{
+"text": " déjà vu",
+"startMs": 23140,
+"endMs": 23667,
+"timestampMs": 23403,
+"confidence": null,
+"line": "classic"
+},
+{
+"text": "ويكون",
+"startMs": 23690,
+"endMs": 23967,
+"timestampMs": 23828,
+"confidence": null,
+"line": "satisfied"
+},
+{
+"text": " satisfait",
+"startMs": 23967,
+"endMs": 24417,
+"timestampMs": 24192,
+"confidence": null,
+"line": "satisfied"
+},
+{
+"text": " بالـrésultat",
+"startMs": 24417,
+"endMs": 24933,
+"timestampMs": 24675,
+"confidence": null,
+"line": "satisfied"
+},
+{
+"text": "لاخر",
+"startMs": 24960,
+"endMs": 25330,
+"timestampMs": 25145,
+"confidence": null,
+"line": "other"
+},
+{
+"text": " يستعملو",
+"startMs": 25330,
+"endMs": 25743,
+"timestampMs": 25537,
+"confidence": null,
+"line": "other"
+},
+{
+"text": " بشكل",
+"startMs": 25743,
+"endMs": 26013,
+"timestampMs": 25878,
+"confidence": null,
+"line": "other"
+},
+{
+"text": " جديد،",
+"startMs": 26013,
+"endMs": 26280,
+"timestampMs": 26147,
+"confidence": null,
+"line": "other"
+},
+{
+"text": " يكون",
+"startMs": 26280,
+"endMs": 26740,
+"timestampMs": 26510,
+"confidence": null,
+"line": "other"
+},
+{
+"text": " créatif",
+"startMs": 26740,
+"endMs": 27267,
+"timestampMs": 27003,
+"confidence": null,
+"line": "other"
+},
+{
+"text": "يـcombini",
+"startMs": 27290,
+"endMs": 27737,
+"timestampMs": 27513,
+"confidence": null,
+"line": "combine"
+},
+{
+"text": " des concepts،",
+"startMs": 27737,
+"endMs": 28670,
+"timestampMs": 28203,
+"confidence": null,
+"line": "combine"
+},
+{
+"text": " يـexpérimenti",
+"startMs": 28670,
+"endMs": 29433,
+"timestampMs": 29052,
+"confidence": null,
+"line": "combine"
+},
+{
+"text": "ويخرّج",
+"startMs": 29460,
+"endMs": 29933,
+"timestampMs": 29697,
+"confidence": null,
+"line": "results"
+},
+{
+"text": " des résultats",
+"startMs": 29933,
+"endMs": 30893,
+"timestampMs": 30413,
+"confidence": null,
+"line": "results"
+},
+{
+"text": " ماملية",
+"startMs": 30893,
+"endMs": 31380,
+"timestampMs": 31137,
+"confidence": null,
+"line": "results"
+},
+{
+"text": " ما",
+"startMs": 31380,
+"endMs": 31550,
+"timestampMs": 31465,
+"confidence": null,
+"line": "results"
+},
+{
+"text": " كنتش",
+"startMs": 31550,
+"endMs": 31960,
+"timestampMs": 31755,
+"confidence": null,
+"line": "results"
+},
+{
+"text": " تتصوّر",
+"startMs": 31960,
+"endMs": 32450,
+"timestampMs": 32205,
+"confidence": null,
+"line": "results"
+},
+{
+"text": " إنها",
+"startMs": 32450,
+"endMs": 32780,
+"timestampMs": 32615,
+"confidence": null,
+"line": "results"
+},
+{
+"text": " توصلهم",
+"startMs": 32780,
+"endMs": 33267,
+"timestampMs": 33023,
+"confidence": null,
+"line": "results"
+},
+{
+"text": "par exemple",
+"startMs": 33280,
+"endMs": 33867,
+"timestampMs": 33573,
+"confidence": null,
+"line": "example"
+},
+{
+"text": "les idées",
+"startMs": 33890,
+"endMs": 34337,
+"timestampMs": 34113,
+"confidence": null,
+"line": "ideas"
+},
+{
+"text": " de vidéo",
+"startMs": 34337,
+"endMs": 34850,
+"timestampMs": 34593,
+"confidence": null,
+"line": "ideas"
+},
+{
+"text": " اللي",
+"startMs": 34850,
+"endMs": 35060,
+"timestampMs": 34955,
+"confidence": null,
+"line": "ideas"
+},
+{
+"text": " تقدّمها",
+"startMs": 35060,
+"endMs": 35400,
+"timestampMs": 35230,
+"confidence": null,
+"line": "ideas"
+},
+{
+"text": "le concept",
+"startMs": 35410,
+"endMs": 35990,
+"timestampMs": 35700,
+"confidence": null,
+"line": "concept"
+},
+{
+"text": " اللي",
+"startMs": 35990,
+"endMs": 36250,
+"timestampMs": 36120,
+"confidence": null,
+"line": "concept"
+},
+{
+"text": " تـdévelopih",
+"startMs": 36250,
+"endMs": 36633,
+"timestampMs": 36442,
+"confidence": null,
+"line": "concept"
+},
+{
+"text": "le storytelling",
+"startMs": 36670,
+"endMs": 37567,
+"timestampMs": 37118,
+"confidence": null,
+"line": "story"
+},
+{
+"text": "les angles",
+"startMs": 37580,
+"endMs": 38087,
+"timestampMs": 37833,
+"confidence": null,
+"line": "angles"
+},
+{
+"text": " de caméra",
+"startMs": 38087,
+"endMs": 38567,
+"timestampMs": 38327,
+"confidence": null,
+"line": "angles"
+},
+{
+"text": "les transitions",
+"startMs": 38600,
+"endMs": 39300,
+"timestampMs": 38950,
+"confidence": null,
+"line": "transitions"
+},
+{
+"text": "les effets visuels",
+"startMs": 39310,
+"endMs": 40200,
+"timestampMs": 39755,
+"confidence": null,
+"line": "vfx"
+},
+{
+"text": "حتّى",
+"startMs": 40220,
+"endMs": 40400,
+"timestampMs": 40310,
+"confidence": null,
+"line": "tell"
+},
+{
+"text": " الطريقة",
+"startMs": 40400,
+"endMs": 40720,
+"timestampMs": 40560,
+"confidence": null,
+"line": "tell"
+},
+{
+"text": " اللي",
+"startMs": 40720,
+"endMs": 40950,
+"timestampMs": 40835,
+"confidence": null,
+"line": "tell"
+},
+{
+"text": " تحكي",
+"startMs": 40950,
+"endMs": 41100,
+"timestampMs": 41025,
+"confidence": null,
+"line": "tell"
+},
+{
+"text": " بيها",
+"startMs": 41100,
+"endMs": 41360,
+"timestampMs": 41230,
+"confidence": null,
+"line": "tell"
+},
+{
+"text": " l'histoire",
+"startMs": 41360,
+"endMs": 41840,
+"timestampMs": 41600,
+"confidence": null,
+"line": "tell"
+},
+{
+"text": " في",
+"startMs": 41840,
+"endMs": 41930,
+"timestampMs": 41885,
+"confidence": null,
+"line": "tell"
+},
+{
+"text": " حدّ",
+"startMs": 41930,
+"endMs": 42170,
+"timestampMs": 42050,
+"confidence": null,
+"line": "tell"
+},
+{
+"text": " ذاتها",
+"startMs": 42170,
+"endMs": 42400,
+"timestampMs": 42285,
+"confidence": null,
+"line": "tell"
+},
+{
+"text": "الكل",
+"startMs": 42430,
+"endMs": 42650,
+"timestampMs": 42540,
+"confidence": null,
+"line": "needs"
+},
+{
+"text": " يحتاج",
+"startMs": 42650,
+"endMs": 43100,
+"timestampMs": 42875,
+"confidence": null,
+"line": "needs"
+},
+{
+"text": " الـcréativité",
+"startMs": 43100,
+"endMs": 44033,
+"timestampMs": 43567,
+"confidence": null,
+"line": "needs"
+},
+{
+"text": "ونُدخل",
+"startMs": 44050,
+"endMs": 44260,
+"timestampMs": 44155,
+"confidence": null,
+"line": "second"
+},
+{
+"text": " للحاجة",
+"startMs": 44260,
+"endMs": 44683,
+"timestampMs": 44472,
+"confidence": null,
+"line": "second"
+},
+{
+"text": " الثانية،",
+"startMs": 44683,
+"endMs": 45220,
+"timestampMs": 44952,
+"confidence": null,
+"line": "second"
+},
+{
+"text": " اللي",
+"startMs": 45220,
+"endMs": 45400,
+"timestampMs": 45310,
+"confidence": null,
+"line": "second"
+},
+{
+"text": " هي",
+"startMs": 45400,
+"endMs": 45460,
+"timestampMs": 45430,
+"confidence": null,
+"line": "second"
+},
+{
+"text": " l'intelligence",
+"startMs": 45460,
+"endMs": 46267,
+"timestampMs": 45863,
+"confidence": null,
+"line": "second"
+},
+{
+"text": "خاطر",
+"startMs": 46290,
+"endMs": 46450,
+"timestampMs": 46370,
+"confidence": null,
+"line": "notenough"
+},
+{
+"text": " الـcréativité",
+"startMs": 46450,
+"endMs": 47257,
+"timestampMs": 46853,
+"confidence": null,
+"line": "notenough"
+},
+{
+"text": " وحدها",
+"startMs": 47257,
+"endMs": 47620,
+"timestampMs": 47438,
+"confidence": null,
+"line": "notenough"
+},
+{
+"text": " ما",
+"startMs": 47620,
+"endMs": 47680,
+"timestampMs": 47650,
+"confidence": null,
+"line": "notenough"
+},
+{
+"text": " تكفيش",
+"startMs": 47680,
+"endMs": 48067,
+"timestampMs": 47873,
+"confidence": null,
+"line": "notenough"
+},
+{
+"text": "وهوني",
+"startMs": 48100,
+"endMs": 48367,
+"timestampMs": 48233,
+"confidence": null,
+"line": "academic"
+},
+{
+"text": " راني",
+"startMs": 48367,
+"endMs": 48577,
+"timestampMs": 48472,
+"confidence": null,
+"line": "academic"
+},
+{
+"text": " مانيش",
+"startMs": 48577,
+"endMs": 48960,
+"timestampMs": 48768,
+"confidence": null,
+"line": "academic"
+},
+{
+"text": " نحكي",
+"startMs": 48960,
+"endMs": 49120,
+"timestampMs": 49040,
+"confidence": null,
+"line": "academic"
+},
+{
+"text": " على",
+"startMs": 49120,
+"endMs": 49180,
+"timestampMs": 49150,
+"confidence": null,
+"line": "academic"
+},
+{
+"text": " l'intelligence académique",
+"startMs": 49180,
+"endMs": 50700,
+"timestampMs": 49940,
+"confidence": null,
+"line": "academic"
+},
+{
+"text": "نحكي",
+"startMs": 50720,
+"endMs": 50930,
+"timestampMs": 50825,
+"confidence": null,
+"line": "capacity"
+},
+{
+"text": " على",
+"startMs": 50930,
+"endMs": 51150,
+"timestampMs": 51040,
+"confidence": null,
+"line": "capacity"
+},
+{
+"text": " الـcapacité",
+"startMs": 51150,
+"endMs": 51530,
+"timestampMs": 51340,
+"confidence": null,
+"line": "capacity"
+},
+{
+"text": " متاعك",
+"startMs": 51530,
+"endMs": 51680,
+"timestampMs": 51605,
+"confidence": null,
+"line": "capacity"
+},
+{
+"text": " باش",
+"startMs": 51680,
+"endMs": 51960,
+"timestampMs": 51820,
+"confidence": null,
+"line": "capacity"
+},
+{
+"text": " تفهم",
+"startMs": 51960,
+"endMs": 52300,
+"timestampMs": 52130,
+"confidence": null,
+"line": "capacity"
+},
+{
+"text": " un problème",
+"startMs": 52300,
+"endMs": 52733,
+"timestampMs": 52517,
+"confidence": null,
+"line": "capacity"
+},
+{
+"text": "تعرف",
+"startMs": 52760,
+"endMs": 52993,
+"timestampMs": 52877,
+"confidence": null,
+"line": "ask"
+},
+{
+"text": " شنوّة",
+"startMs": 52993,
+"endMs": 53290,
+"timestampMs": 53142,
+"confidence": null,
+"line": "ask"
+},
+{
+"text": " تسأل؟",
+"startMs": 53290,
+"endMs": 53633,
+"timestampMs": 53462,
+"confidence": null,
+"line": "ask"
+},
+{
+"text": "كيفاش",
+"startMs": 53650,
+"endMs": 53930,
+"timestampMs": 53790,
+"confidence": null,
+"line": "steer"
+},
+{
+"text": " توجّهها؟",
+"startMs": 53930,
+"endMs": 54800,
+"timestampMs": 54365,
+"confidence": null,
+"line": "steer"
+},
+{
+"text": "كيفاش",
+"startMs": 54810,
+"endMs": 55150,
+"timestampMs": 54980,
+"confidence": null,
+"line": "challenge"
+},
+{
+"text": " تـchallengiha",
+"startMs": 55150,
+"endMs": 55770,
+"timestampMs": 55460,
+"confidence": null,
+"line": "challenge"
+},
+{
+"text": " في",
+"startMs": 55770,
+"endMs": 55890,
+"timestampMs": 55830,
+"confidence": null,
+"line": "challenge"
+},
+{
+"text": " الـréponse",
+"startMs": 55890,
+"endMs": 56450,
+"timestampMs": 56170,
+"confidence": null,
+"line": "challenge"
+},
+{
+"text": " متاعها؟",
+"startMs": 56450,
+"endMs": 56800,
+"timestampMs": 56625,
+"confidence": null,
+"line": "challenge"
+},
+{
+"text": "وsurtout",
+"startMs": 56810,
+"endMs": 57290,
+"timestampMs": 57050,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " كيفاش",
+"startMs": 57290,
+"endMs": 57560,
+"timestampMs": 57425,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " تعرف",
+"startMs": 57560,
+"endMs": 57860,
+"timestampMs": 57710,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " اللي",
+"startMs": 57860,
+"endMs": 58100,
+"timestampMs": 57980,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " الـrésultat",
+"startMs": 58100,
+"endMs": 58610,
+"timestampMs": 58355,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " اللي",
+"startMs": 58610,
+"endMs": 58890,
+"timestampMs": 58750,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " عطاتهولك",
+"startMs": 58890,
+"endMs": 59330,
+"timestampMs": 59110,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " ينجح",
+"startMs": 59330,
+"endMs": 59680,
+"timestampMs": 59505,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " ولا",
+"startMs": 59680,
+"endMs": 59860,
+"timestampMs": 59770,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " ما",
+"startMs": 59860,
+"endMs": 59970,
+"timestampMs": 59915,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": " ينجحش",
+"startMs": 59970,
+"endMs": 60333,
+"timestampMs": 60152,
+"confidence": null,
+"line": "judge"
+},
+{
+"text": "خاطر",
+"startMs": 60350,
+"endMs": 60530,
+"timestampMs": 60440,
+"confidence": null,
+"line": "perfect"
+},
+{
+"text": " الـAI",
+"startMs": 60530,
+"endMs": 60733,
+"timestampMs": 60632,
+"confidence": null,
+"line": "perfect"
+},
+{
+"text": " تنجّم",
+"startMs": 60733,
+"endMs": 61060,
+"timestampMs": 60897,
+"confidence": null,
+"line": "perfect"
+},
+{
+"text": " تعطيك",
+"startMs": 61060,
+"endMs": 61310,
+"timestampMs": 61185,
+"confidence": null,
+"line": "perfect"
+},
+{
+"text": " réponse",
+"startMs": 61310,
+"endMs": 61880,
+"timestampMs": 61595,
+"confidence": null,
+"line": "perfect"
+},
+{
+"text": " تبان",
+"startMs": 61880,
+"endMs": 62030,
+"timestampMs": 61955,
+"confidence": null,
+"line": "perfect"
+},
+{
+"text": " parfaite",
+"startMs": 62030,
+"endMs": 62700,
+"timestampMs": 62365,
+"confidence": null,
+"line": "perfect"
+},
+{
+"text": "أما",
+"startMs": 62740,
+"endMs": 62800,
+"timestampMs": 62770,
+"confidence": null,
+"line": "wrong"
+},
+{
+"text": " techniquement",
+"startMs": 62800,
+"endMs": 63760,
+"timestampMs": 63280,
+"confidence": null,
+"line": "wrong"
+},
+{
+"text": " غالطة",
+"startMs": 63760,
+"endMs": 63900,
+"timestampMs": 63830,
+"confidence": null,
+"line": "wrong"
+},
+{
+"text": "Donc",
+"startMs": 63910,
+"endMs": 64180,
+"timestampMs": 64045,
+"confidence": null,
+"line": "recul"
+},
+{
+"text": " كان",
+"startMs": 64180,
+"endMs": 64240,
+"timestampMs": 64210,
+"confidence": null,
+"line": "recul"
+},
+{
+"text": " إنتي",
+"startMs": 64240,
+"endMs": 64520,
+"timestampMs": 64380,
+"confidence": null,
+"line": "recul"
+},
+{
+"text": " ما",
+"startMs": 64520,
+"endMs": 64580,
+"timestampMs": 64550,
+"confidence": null,
+"line": "recul"
+},
+{
+"text": " عندكش",
+"startMs": 64580,
+"endMs": 64870,
+"timestampMs": 64725,
+"confidence": null,
+"line": "recul"
+},
+{
+"text": " le recul،",
+"startMs": 64870,
+"endMs": 65380,
+"timestampMs": 65125,
+"confidence": null,
+"line": "recul"
+},
+{
+"text": " l'expérience",
+"startMs": 65380,
+"endMs": 66100,
+"timestampMs": 65740,
+"confidence": null,
+"line": "recul"
+},
+{
+"text": "ou",
+"startMs": 66110,
+"endMs": 66170,
+"timestampMs": 66140,
+"confidence": null,
+"line": "juger"
+},
+{
+"text": " la capacité",
+"startMs": 66170,
+"endMs": 67020,
+"timestampMs": 66595,
+"confidence": null,
+"line": "juger"
+},
+{
+"text": " de juger",
+"startMs": 67020,
+"endMs": 67540,
+"timestampMs": 67280,
+"confidence": null,
+"line": "juger"
+},
+{
+"text": " le résultat",
+"startMs": 67540,
+"endMs": 68300,
+"timestampMs": 67920,
+"confidence": null,
+"line": "juger"
+},
+{
+"text": "tu risques",
+"startMs": 68310,
+"endMs": 68950,
+"timestampMs": 68630,
+"confidence": null,
+"line": "risk"
+},
+{
+"text": " de produire",
+"startMs": 68950,
+"endMs": 69620,
+"timestampMs": 69285,
+"confidence": null,
+"line": "risk"
+},
+{
+"text": " برشا",
+"startMs": 69620,
+"endMs": 69850,
+"timestampMs": 69735,
+"confidence": null,
+"line": "risk"
+},
+{
+"text": " حاجات",
+"startMs": 69850,
+"endMs": 70140,
+"timestampMs": 69995,
+"confidence": null,
+"line": "risk"
+},
+{
+"text": " sans valeur",
+"startMs": 70140,
+"endMs": 70833,
+"timestampMs": 70487,
+"confidence": null,
+"line": "risk"
+},
+{
+"text": "وهوني",
+"startMs": 70850,
+"endMs": 71163,
+"timestampMs": 71007,
+"confidence": null,
+"line": "diff"
+},
+{
+"text": " exactement",
+"startMs": 71163,
+"endMs": 71890,
+"timestampMs": 71527,
+"confidence": null,
+"line": "diff"
+},
+{
+"text": " وين",
+"startMs": 71890,
+"endMs": 71950,
+"timestampMs": 71920,
+"confidence": null,
+"line": "diff"
+},
+{
+"text": " تتلقى",
+"startMs": 71950,
+"endMs": 72333,
+"timestampMs": 72142,
+"confidence": null,
+"line": "diff"
+},
+{
+"text": " la différence",
+"startMs": 72333,
+"endMs": 73110,
+"timestampMs": 72722,
+"confidence": null,
+"line": "diff"
+},
+{
+"text": " بين",
+"startMs": 73110,
+"endMs": 73400,
+"timestampMs": 73255,
+"confidence": null,
+"line": "diff"
+},
+{
+"text": "les users",
+"startMs": 73410,
+"endMs": 73910,
+"timestampMs": 73660,
+"confidence": null,
+"line": "normal"
+},
+{
+"text": " العاديين",
+"startMs": 73910,
+"endMs": 74367,
+"timestampMs": 74138,
+"confidence": null,
+"line": "normal"
+},
+{
+"text": "و",
+"startMs": 74370,
+"endMs": 74430,
+"timestampMs": 74400,
+"confidence": null,
+"line": "smart"
+},
+{
+"text": " les users",
+"startMs": 74430,
+"endMs": 74847,
+"timestampMs": 74638,
+"confidence": null,
+"line": "smart"
+},
+{
+"text": " …",
+"startMs": 74847,
+"endMs": 74927,
+"timestampMs": 74887,
+"confidence": null,
+"line": "smart"
+},
+{
+"text": " l'intelligence",
+"startMs": 74927,
+"endMs": 75567,
+"timestampMs": 75247,
+"confidence": null,
+"line": "smart"
+},
+{
+"text": " و",
+"startMs": 75567,
+"endMs": 75780,
+"timestampMs": 75673,
+"confidence": null,
+"line": "smart"
+},
+{
+"text": " les créatifs",
+"startMs": 75780,
+"endMs": 76300,
+"timestampMs": 76040,
+"confidence": null,
+"line": "smart"
+},
+{
+"text": "كي",
+"startMs": 76320,
+"endMs": 76510,
+"timestampMs": 76415,
+"confidence": null,
+"line": "see"
+},
+{
+"text": " نشوف",
+"startMs": 76510,
+"endMs": 76933,
+"timestampMs": 76722,
+"confidence": null,
+"line": "see"
+},
+{
+"text": "produit",
+"startMs": 76970,
+"endMs": 77490,
+"timestampMs": 77230,
+"confidence": null,
+"line": "product"
+},
+{
+"text": " مصنوع",
+"startMs": 77490,
+"endMs": 78073,
+"timestampMs": 77782,
+"confidence": null,
+"line": "product"
+},
+{
+"text": " بالـIA",
+"startMs": 78073,
+"endMs": 78333,
+"timestampMs": 78203,
+"confidence": null,
+"line": "product"
+},
+{
+"text": "يعكس",
+"startMs": 78360,
+"endMs": 78583,
+"timestampMs": 78472,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": " الـcréativité",
+"startMs": 78583,
+"endMs": 79270,
+"timestampMs": 78927,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": " و",
+"startMs": 79270,
+"endMs": 79330,
+"timestampMs": 79300,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": " l'intelligence",
+"startMs": 79330,
+"endMs": 80260,
+"timestampMs": 79795,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": " متاعك،",
+"startMs": 80260,
+"endMs": 80550,
+"timestampMs": 80405,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": " نشوفو",
+"startMs": 80550,
+"endMs": 80883,
+"timestampMs": 80717,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": " فيه",
+"startMs": 80883,
+"endMs": 81053,
+"timestampMs": 80968,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": " إنتي",
+"startMs": 81053,
+"endMs": 81330,
+"timestampMs": 81192,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": " شنوّة",
+"startMs": 81330,
+"endMs": 81643,
+"timestampMs": 81487,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": " تعمل",
+"startMs": 81643,
+"endMs": 81900,
+"timestampMs": 81772,
+"confidence": null,
+"line": "reflect"
+},
+{
+"text": "ونوليو",
+"startMs": 81920,
+"endMs": 82220,
+"timestampMs": 82070,
+"confidence": null,
+"line": "think"
+},
+{
+"text": " نفهمو",
+"startMs": 82220,
+"endMs": 82580,
+"timestampMs": 82400,
+"confidence": null,
+"line": "think"
+},
+{
+"text": " إنتي",
+"startMs": 82580,
+"endMs": 82640,
+"timestampMs": 82610,
+"confidence": null,
+"line": "think"
+},
+{
+"text": " كيفاش",
+"startMs": 82640,
+"endMs": 82930,
+"timestampMs": 82785,
+"confidence": null,
+"line": "think"
+},
+{
+"text": " تخمّم",
+"startMs": 82930,
+"endMs": 83233,
+"timestampMs": 83082,
+"confidence": null,
+"line": "think"
+},
+{
+"text": "كي",
+"startMs": 83260,
+"endMs": 83430,
+"timestampMs": 83345,
+"confidence": null,
+"line": "good"
+},
+{
+"text": " تخمّم",
+"startMs": 83430,
+"endMs": 83703,
+"timestampMs": 83567,
+"confidence": null,
+"line": "good"
+},
+{
+"text": " بالباهي،",
+"startMs": 83703,
+"endMs": 84193,
+"timestampMs": 83948,
+"confidence": null,
+"line": "good"
+},
+{
+"text": " تخرجلك",
+"startMs": 84193,
+"endMs": 84720,
+"timestampMs": 84457,
+"confidence": null,
+"line": "good"
+},
+{
+"text": " résultat",
+"startMs": 84720,
+"endMs": 85193,
+"timestampMs": 84957,
+"confidence": null,
+"line": "good"
+},
+{
+"text": " باهية",
+"startMs": 85193,
+"endMs": 85533,
+"timestampMs": 85363,
+"confidence": null,
+"line": "good"
+},
+{
+"text": "كي",
+"startMs": 85560,
+"endMs": 85720,
+"timestampMs": 85640,
+"confidence": null,
+"line": "bad"
+},
+{
+"text": " تخمّم",
+"startMs": 85720,
+"endMs": 85973,
+"timestampMs": 85847,
+"confidence": null,
+"line": "bad"
+},
+{
+"text": " بالخايب،",
+"startMs": 85973,
+"endMs": 86433,
+"timestampMs": 86203,
+"confidence": null,
+"line": "bad"
+},
+{
+"text": " تخرجلك",
+"startMs": 86433,
+"endMs": 86710,
+"timestampMs": 86572,
+"confidence": null,
+"line": "bad"
+},
+{
+"text": " résultat",
+"startMs": 86710,
+"endMs": 87260,
+"timestampMs": 86985,
+"confidence": null,
+"line": "bad"
+},
+{
+"text": " خايبة",
+"startMs": 87260,
+"endMs": 87700,
+"timestampMs": 87480,
+"confidence": null,
+"line": "bad"
+},
+{
+"text": "l'IA",
+"startMs": 87740,
+"endMs": 88040,
+"timestampMs": 87890,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " تعاونك",
+"startMs": 88040,
+"endMs": 88220,
+"timestampMs": 88130,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " باش",
+"startMs": 88220,
+"endMs": 88380,
+"timestampMs": 88300,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " تـconcrétisi",
+"startMs": 88380,
+"endMs": 88730,
+"timestampMs": 88555,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " les idées",
+"startMs": 88730,
+"endMs": 89260,
+"timestampMs": 88995,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " متاعك،",
+"startMs": 89260,
+"endMs": 89560,
+"timestampMs": 89410,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " mais",
+"startMs": 89560,
+"endMs": 89760,
+"timestampMs": 89660,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " finalement",
+"startMs": 89760,
+"endMs": 90300,
+"timestampMs": 90030,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " باش",
+"startMs": 90300,
+"endMs": 90360,
+"timestampMs": 90330,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " تخرّج",
+"startMs": 90360,
+"endMs": 90560,
+"timestampMs": 90460,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " الـrésultat",
+"startMs": 90560,
+"endMs": 90950,
+"timestampMs": 90755,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " اللي",
+"startMs": 90950,
+"endMs": 91190,
+"timestampMs": 91070,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": " تحبّو",
+"startMs": 91190,
+"endMs": 91400,
+"timestampMs": 91295,
+"confidence": null,
+"line": "concret"
+},
+{
+"text": "Donc",
+"startMs": 91400,
+"endMs": 91660,
+"timestampMs": 91530,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " كي",
+"startMs": 91660,
+"endMs": 91720,
+"timestampMs": 91690,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " نشوفو",
+"startMs": 91720,
+"endMs": 91990,
+"timestampMs": 91855,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " un produit،",
+"startMs": 91990,
+"endMs": 92540,
+"timestampMs": 92265,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " نشوفو",
+"startMs": 92540,
+"endMs": 92810,
+"timestampMs": 92675,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " l'intelligence",
+"startMs": 92810,
+"endMs": 93750,
+"timestampMs": 93280,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " و",
+"startMs": 93750,
+"endMs": 93810,
+"timestampMs": 93780,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " la",
+"startMs": 93810,
+"endMs": 93900,
+"timestampMs": 93855,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " créativité",
+"startMs": 93900,
+"endMs": 94490,
+"timestampMs": 94195,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " متاعك",
+"startMs": 94490,
+"endMs": 94850,
+"timestampMs": 94670,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " في",
+"startMs": 94850,
+"endMs": 94910,
+"timestampMs": 94880,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " الـrésultat،",
+"startMs": 94910,
+"endMs": 95450,
+"timestampMs": 95180,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " ça reflète",
+"startMs": 95450,
+"endMs": 95930,
+"timestampMs": 95690,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " إنتي",
+"startMs": 95930,
+"endMs": 96170,
+"timestampMs": 96050,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " شنوّة",
+"startMs": 96170,
+"endMs": 96500,
+"timestampMs": 96335,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " تخمّم،",
+"startMs": 96500,
+"endMs": 96720,
+"timestampMs": 96610,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " ça reflète",
+"startMs": 96720,
+"endMs": 97270,
+"timestampMs": 96995,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " إنتي",
+"startMs": 97270,
+"endMs": 97590,
+"timestampMs": 97430,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " شكون",
+"startMs": 97590,
+"endMs": 97760,
+"timestampMs": 97675,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " وليت،",
+"startMs": 97760,
+"endMs": 98160,
+"timestampMs": 97960,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " ça reflète",
+"startMs": 98160,
+"endMs": 98680,
+"timestampMs": 98420,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " إنتي",
+"startMs": 98680,
+"endMs": 98910,
+"timestampMs": 98795,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " créatif",
+"startMs": 98910,
+"endMs": 99370,
+"timestampMs": 99140,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": " ولا",
+"startMs": 99370,
+"endMs": 99533,
+"timestampMs": 99452,
+"confidence": null,
+"line": "mirror"
+},
+{
+"text": "So don't",
+"startMs": 99550,
+"endMs": 100260,
+"timestampMs": 99905,
+"confidence": null,
+"line": "dont"
+},
+{
+"text": " just learn",
+"startMs": 100260,
+"endMs": 101073,
+"timestampMs": 100667,
+"confidence": null,
+"line": "dont"
+},
+{
+"text": " AI",
+"startMs": 101073,
+"endMs": 101233,
+"timestampMs": 101153,
+"confidence": null,
+"line": "dont"
+},
+{
+"text": "Learn",
+"startMs": 101260,
+"endMs": 101593,
+"timestampMs": 101427,
+"confidence": null,
+"line": "around"
+},
+{
+"text": " how",
+"startMs": 101593,
+"endMs": 101793,
+"timestampMs": 101693,
+"confidence": null,
+"line": "around"
+},
+{
+"text": " to",
+"startMs": 101793,
+"endMs": 101933,
+"timestampMs": 101863,
+"confidence": null,
+"line": "around"
+},
+{
+"text": " be",
+"startMs": 101933,
+"endMs": 102063,
+"timestampMs": 101998,
+"confidence": null,
+"line": "around"
+},
+{
+"text": " smart around",
+"startMs": 102063,
+"endMs": 103023,
+"timestampMs": 102543,
+"confidence": null,
+"line": "around"
+},
+{
+"text": " AI",
+"startMs": 103023,
+"endMs": 103167,
+"timestampMs": 103095,
+"confidence": null,
+"line": "around"
+},
+{
+"text": "استعمل",
+"startMs": 103170,
+"endMs": 103587,
+"timestampMs": 103378,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " الـAI،",
+"startMs": 103587,
+"endMs": 103777,
+"timestampMs": 103682,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " تعلّم",
+"startMs": 103777,
+"endMs": 104080,
+"timestampMs": 103928,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " الـAI،",
+"startMs": 104080,
+"endMs": 104327,
+"timestampMs": 104203,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " وفي",
+"startMs": 104327,
+"endMs": 104517,
+"timestampMs": 104422,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " نفس",
+"startMs": 104517,
+"endMs": 104707,
+"timestampMs": 104612,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " الوقت",
+"startMs": 104707,
+"endMs": 105190,
+"timestampMs": 104948,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " تعلّم",
+"startMs": 105190,
+"endMs": 105420,
+"timestampMs": 105305,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " تكون",
+"startMs": 105420,
+"endMs": 105707,
+"timestampMs": 105563,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " créatif",
+"startMs": 105707,
+"endMs": 106270,
+"timestampMs": 105988,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " و",
+"startMs": 106270,
+"endMs": 106470,
+"timestampMs": 106370,
+"confidence": null,
+"line": "final"
+},
+{
+"text": " intelligent",
+"startMs": 106470,
+"endMs": 107200,
+"timestampMs": 106835,
+"confidence": null,
+"line": "final"
+}
+]

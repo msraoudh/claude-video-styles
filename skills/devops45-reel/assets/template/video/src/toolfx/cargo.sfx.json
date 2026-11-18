@@ -1,0 +1,6 @@
+[
+  { "at": 44, "sfx": "impact", "gain": 0.32, "note": "the crane sets the container down on the first ship: heavy thunk (exact, fixed +44)" },
+  { "at": 304, "sfx": "whoosh", "gain": 0.22, "note": "hop 1 onto the small boat (« bateau » + 8; ep. 9 ESTIMATE « bateau » ≈ +296 — re-time on the voice)" },
+  { "at": 328, "sfx": "whoosh", "gain": 0.22, "note": "hop 2 onto the big ship (« bateau » + 32; same estimate)" },
+  { "at": 566, "sfx": "ui-pop", "gain": 0.26, "note": "first layer « ton code » drops into the open box (ep. 9 ESTIMATE « code » ≈ +566)" }
+]

@@ -1,0 +1,6 @@
+[
+  { "at": 10, "sfx": "tap", "gain": 0.22, "note": "the avatar presses the button by hand (x1)" },
+  { "at": 58, "sfx": "impact", "gain": 0.3, "note": "the machine's piston takes over the button" },
+  { "at": 64, "sfx": "typing", "gain": 0.16, "note": "machine pumping fast, counter spinning" },
+  { "at": 74, "sfx": "check", "gain": 0.2, "note": "first auto card lands with a green check" }
+]

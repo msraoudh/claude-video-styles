@@ -1,0 +1,5 @@
+[
+  { "at": 12, "sfx": "impact", "gain": 0.22, "note": "the hardware slab « matériel » lands (scene A timing; with beats phase 1 runs 2.2x faster)" },
+  { "at": 26, "sfx": "glass", "gain": 0.3, "note": "the glowing Linux layer slams onto the hardware (flash + amber flare)" },
+  { "at": 44, "sfx": "ui-pop", "gain": 0.2, "note": "the app tiles drop onto the Linux layer" }
+]

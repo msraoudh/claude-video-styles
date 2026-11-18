@@ -1,0 +1,8 @@
+[
+  { "at": 16, "sfx": "glint", "gain": 0.2, "note": "SAVE 1 — flag 1 shoots up, chip pops (save chime)" },
+  { "at": 40, "sfx": "glint", "gain": 0.18, "note": "SAVE 2 (ep. 7 timing: k = 24 because « commit » is at +170)" },
+  { "at": 64, "sfx": "glint", "gain": 0.18, "note": "SAVE 3" },
+  { "at": 230, "sfx": "impact", "gain": 0.26, "note": "« erreur » (ep. 7 +230): the bug hits the hero, red GAME OVER" },
+  { "at": 272, "sfx": "zoom-swish", "gain": 0.26, "note": "« reviens » (ep. 7 +272): VHS rewind whoosh" },
+  { "at": 296, "sfx": "check", "gain": 0.28, "note": "LOAD (« reviens » + 24): the hero re-assembles at SAVE 3, restore ding" }
+]

@@ -1,0 +1,4 @@
+[
+  { "at": 7, "sfx": "ui-click", "gain": 0.24, "note": "the padlock's shackle springs open" },
+  { "at": 15, "sfx": "glint", "gain": 0.22, "note": "the badge widens to « public », the pages light up" }
+]

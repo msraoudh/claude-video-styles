@@ -1,0 +1,2213 @@
+[
+ {
+  "id": "hook",
+  "s": 0.0,
+  "e": 2.9,
+  "text": "كان إنتي من العباد اللي تعلّمو يتمنّشو بـClaude ومكش عارف تعمل كيف هاذي",
+  "key": "Claude",
+  "words": [
+   {
+    "text": "كان",
+    "s": 0.01,
+    "e": 0.16,
+    "key": false
+   },
+   {
+    "text": "إنتي",
+    "s": 0.16,
+    "e": 0.22,
+    "key": false
+   },
+   {
+    "text": "من",
+    "s": 0.22,
+    "e": 0.43,
+    "key": false
+   },
+   {
+    "text": "العباد",
+    "s": 0.43,
+    "e": 0.73,
+    "key": false
+   },
+   {
+    "text": "اللي",
+    "s": 0.73,
+    "e": 0.98,
+    "key": false
+   },
+   {
+    "text": "تعلّمو",
+    "s": 0.98,
+    "e": 1.31,
+    "key": false
+   },
+   {
+    "text": "يتمنّشو",
+    "s": 1.31,
+    "e": 1.71,
+    "key": false
+   },
+   {
+    "text": "بـClaude",
+    "s": 1.71,
+    "e": 2.05,
+    "key": true
+   },
+   {
+    "text": "ومكش",
+    "s": 2.05,
+    "e": 2.11,
+    "key": false
+   },
+   {
+    "text": "عارف",
+    "s": 2.11,
+    "e": 2.41,
+    "key": false
+   },
+   {
+    "text": "تعمل",
+    "s": 2.41,
+    "e": 2.56,
+    "key": false
+   },
+   {
+    "text": "كيف",
+    "s": 2.56,
+    "e": 2.69,
+    "key": false
+   },
+   {
+    "text": "هاذي",
+    "s": 2.69,
+    "e": 2.9,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "lik",
+  "s": 2.9,
+  "e": 4.333,
+  "text": "الـvideo هاذي ليك",
+  "key": "ليك",
+  "words": [
+   {
+    "text": "الـvideo",
+    "s": 2.93,
+    "e": 3.42,
+    "key": false
+   },
+   {
+    "text": "هاذي",
+    "s": 3.42,
+    "e": 3.91,
+    "key": false
+   },
+   {
+    "text": "ليك",
+    "s": 3.91,
+    "e": 4.333,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "crowd",
+  "s": 4.333,
+  "e": 6.267,
+  "text": "توّا برشا عباد تعلّمو يتمنّشو بـClaude",
+  "key": "برشا",
+  "words": [
+   {
+    "text": "توّا",
+    "s": 4.34,
+    "e": 4.543,
+    "key": false
+   },
+   {
+    "text": "برشا",
+    "s": 4.543,
+    "e": 4.71,
+    "key": true
+   },
+   {
+    "text": "عباد",
+    "s": 4.71,
+    "e": 5.07,
+    "key": false
+   },
+   {
+    "text": "تعلّمو",
+    "s": 5.07,
+    "e": 5.353,
+    "key": false
+   },
+   {
+    "text": "يتمنّشو",
+    "s": 5.353,
+    "e": 5.69,
+    "key": false
+   },
+   {
+    "text": "بـClaude",
+    "s": 5.69,
+    "e": 6.267,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "deliver",
+  "s": 6.267,
+  "e": 7.733,
+  "text": "وينجّمو يـlivriw برشا حاجات بيه",
+  "key": "حاجات",
+  "words": [
+   {
+    "text": "وينجّمو",
+    "s": 6.29,
+    "e": 6.677,
+    "key": false
+   },
+   {
+    "text": "يـlivriw",
+    "s": 6.677,
+    "e": 6.997,
+    "key": false
+   },
+   {
+    "text": "برشا",
+    "s": 6.997,
+    "e": 7.217,
+    "key": false
+   },
+   {
+    "text": "حاجات",
+    "s": 7.217,
+    "e": 7.44,
+    "key": true
+   },
+   {
+    "text": "بيه",
+    "s": 7.44,
+    "e": 7.733,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "minority",
+  "s": 7.733,
+  "e": 9.667,
+  "text": "أما فمّا كان minorité اللي فيها la différence",
+  "key": "minorité",
+  "words": [
+   {
+    "text": "أما",
+    "s": 7.76,
+    "e": 7.82,
+    "key": false
+   },
+   {
+    "text": "فمّا",
+    "s": 7.82,
+    "e": 8.16,
+    "key": false
+   },
+   {
+    "text": "كان",
+    "s": 8.16,
+    "e": 8.22,
+    "key": false
+   },
+   {
+    "text": "minorité",
+    "s": 8.22,
+    "e": 8.65,
+    "key": true
+   },
+   {
+    "text": "اللي",
+    "s": 8.65,
+    "e": 8.8,
+    "key": false
+   },
+   {
+    "text": "فيها",
+    "s": 8.8,
+    "e": 9.023,
+    "key": false
+   },
+   {
+    "text": "la différence",
+    "s": 9.023,
+    "e": 9.667,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "unclear6",
+  "s": 9.667,
+  "e": 11.667,
+  "text": "… هاذي الكل معاها",
+  "key": "الكل",
+  "words": [
+   {
+    "text": "…",
+    "s": 9.7,
+    "e": 9.92,
+    "key": false
+   },
+   {
+    "text": "هاذي",
+    "s": 9.92,
+    "e": 10.477,
+    "key": false
+   },
+   {
+    "text": "الكل",
+    "s": 10.477,
+    "e": 11.08,
+    "key": true
+   },
+   {
+    "text": "معاها",
+    "s": 11.08,
+    "e": 11.667,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "two",
+  "s": 11.667,
+  "e": 15.767,
+  "text": "وأنا personnellement ما نشوف كان زوز حاجات يعملو la différence بين les AI users",
+  "key": "زوز",
+  "words": [
+   {
+    "text": "وأنا",
+    "s": 11.7,
+    "e": 11.94,
+    "key": false
+   },
+   {
+    "text": "personnellement",
+    "s": 11.94,
+    "e": 12.85,
+    "key": false
+   },
+   {
+    "text": "ما",
+    "s": 12.85,
+    "e": 12.91,
+    "key": false
+   },
+   {
+    "text": "نشوف",
+    "s": 12.91,
+    "e": 13.04,
+    "key": false
+   },
+   {
+    "text": "كان",
+    "s": 13.04,
+    "e": 13.327,
+    "key": false
+   },
+   {
+    "text": "زوز",
+    "s": 13.327,
+    "e": 13.61,
+    "key": true
+   },
+   {
+    "text": "حاجات",
+    "s": 13.61,
+    "e": 13.807,
+    "key": false
+   },
+   {
+    "text": "يعملو",
+    "s": 13.807,
+    "e": 14.077,
+    "key": false
+   },
+   {
+    "text": "la différence",
+    "s": 14.077,
+    "e": 14.847,
+    "key": false
+   },
+   {
+    "text": "بين",
+    "s": 14.847,
+    "e": 15.09,
+    "key": false
+   },
+   {
+    "text": "les AI users",
+    "s": 15.09,
+    "e": 15.767,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "crea_int",
+  "s": 15.767,
+  "e": 17.367,
+  "text": "la créativité و l'intelligence",
+  "key": "l'intelligence",
+  "words": [
+   {
+    "text": "la",
+    "s": 15.79,
+    "e": 15.92,
+    "key": false
+   },
+   {
+    "text": "créativité",
+    "s": 15.92,
+    "e": 16.44,
+    "key": false
+   },
+   {
+    "text": "و",
+    "s": 16.44,
+    "e": 16.597,
+    "key": false
+   },
+   {
+    "text": "l'intelligence",
+    "s": 16.597,
+    "e": 17.367,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "explain",
+  "s": 17.367,
+  "e": 18.2,
+  "text": "نفسّرلك",
+  "key": "نفسّرلك",
+  "words": [
+   {
+    "text": "نفسّرلك",
+    "s": 17.39,
+    "e": 18.2,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "same",
+  "s": 18.2,
+  "e": 21.433,
+  "text": "زوز users ينجّمو يستعملو نفس l'outil، نفس الـmodèle، Claude، كل شي",
+  "key": "نفس",
+  "words": [
+   {
+    "text": "زوز",
+    "s": 18.21,
+    "e": 18.37,
+    "key": false
+   },
+   {
+    "text": "users",
+    "s": 18.37,
+    "e": 18.66,
+    "key": false
+   },
+   {
+    "text": "ينجّمو",
+    "s": 18.66,
+    "e": 19.03,
+    "key": false
+   },
+   {
+    "text": "يستعملو",
+    "s": 19.03,
+    "e": 19.5,
+    "key": false
+   },
+   {
+    "text": "نفس",
+    "s": 19.5,
+    "e": 19.63,
+    "key": true
+   },
+   {
+    "text": "l'outil،",
+    "s": 19.63,
+    "e": 20.1,
+    "key": false
+   },
+   {
+    "text": "نفس",
+    "s": 20.1,
+    "e": 20.38,
+    "key": true
+   },
+   {
+    "text": "الـmodèle،",
+    "s": 20.38,
+    "e": 20.61,
+    "key": false
+   },
+   {
+    "text": "Claude،",
+    "s": 20.61,
+    "e": 21.18,
+    "key": false
+   },
+   {
+    "text": "كل",
+    "s": 21.18,
+    "e": 21.29,
+    "key": false
+   },
+   {
+    "text": "شي",
+    "s": 21.29,
+    "e": 21.433,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "classic",
+  "s": 21.433,
+  "e": 23.667,
+  "text": "واحد يستعملو باش يخرّج حاجة classique، déjà vu",
+  "key": "déjà vu",
+  "words": [
+   {
+    "text": "واحد",
+    "s": 21.44,
+    "e": 21.643,
+    "key": false
+   },
+   {
+    "text": "يستعملو",
+    "s": 21.643,
+    "e": 22.1,
+    "key": false
+   },
+   {
+    "text": "باش",
+    "s": 22.1,
+    "e": 22.16,
+    "key": false
+   },
+   {
+    "text": "يخرّج",
+    "s": 22.16,
+    "e": 22.493,
+    "key": false
+   },
+   {
+    "text": "حاجة",
+    "s": 22.493,
+    "e": 22.73,
+    "key": false
+   },
+   {
+    "text": "classique،",
+    "s": 22.73,
+    "e": 23.14,
+    "key": false
+   },
+   {
+    "text": "déjà vu",
+    "s": 23.14,
+    "e": 23.667,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "satisfied",
+  "s": 23.667,
+  "e": 24.933,
+  "text": "ويكون satisfait بالـrésultat",
+  "key": "satisfait",
+  "words": [
+   {
+    "text": "ويكون",
+    "s": 23.69,
+    "e": 23.967,
+    "key": false
+   },
+   {
+    "text": "satisfait",
+    "s": 23.967,
+    "e": 24.417,
+    "key": true
+   },
+   {
+    "text": "بالـrésultat",
+    "s": 24.417,
+    "e": 24.933,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "other",
+  "s": 24.933,
+  "e": 27.267,
+  "text": "لاخر يستعملو بشكل جديد، يكون créatif",
+  "key": "créatif",
+  "words": [
+   {
+    "text": "لاخر",
+    "s": 24.96,
+    "e": 25.33,
+    "key": false
+   },
+   {
+    "text": "يستعملو",
+    "s": 25.33,
+    "e": 25.743,
+    "key": false
+   },
+   {
+    "text": "بشكل",
+    "s": 25.743,
+    "e": 26.013,
+    "key": false
+   },
+   {
+    "text": "جديد،",
+    "s": 26.013,
+    "e": 26.28,
+    "key": false
+   },
+   {
+    "text": "يكون",
+    "s": 26.28,
+    "e": 26.74,
+    "key": false
+   },
+   {
+    "text": "créatif",
+    "s": 26.74,
+    "e": 27.267,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "combine",
+  "s": 27.267,
+  "e": 29.433,
+  "text": "يـcombini des concepts، يـexpérimenti",
+  "key": "concepts",
+  "words": [
+   {
+    "text": "يـcombini",
+    "s": 27.29,
+    "e": 27.737,
+    "key": false
+   },
+   {
+    "text": "des concepts،",
+    "s": 27.737,
+    "e": 28.67,
+    "key": true
+   },
+   {
+    "text": "يـexpérimenti",
+    "s": 28.67,
+    "e": 29.433,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "results",
+  "s": 29.433,
+  "e": 33.267,
+  "text": "ويخرّج des résultats ماملية ما كنتش تتصوّر إنها توصلهم",
+  "key": "تتصوّر",
+  "words": [
+   {
+    "text": "ويخرّج",
+    "s": 29.46,
+    "e": 29.933,
+    "key": false
+   },
+   {
+    "text": "des résultats",
+    "s": 29.933,
+    "e": 30.893,
+    "key": false
+   },
+   {
+    "text": "ماملية",
+    "s": 30.893,
+    "e": 31.38,
+    "key": false
+   },
+   {
+    "text": "ما",
+    "s": 31.38,
+    "e": 31.55,
+    "key": false
+   },
+   {
+    "text": "كنتش",
+    "s": 31.55,
+    "e": 31.96,
+    "key": false
+   },
+   {
+    "text": "تتصوّر",
+    "s": 31.96,
+    "e": 32.45,
+    "key": true
+   },
+   {
+    "text": "إنها",
+    "s": 32.45,
+    "e": 32.78,
+    "key": false
+   },
+   {
+    "text": "توصلهم",
+    "s": 32.78,
+    "e": 33.267,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "example",
+  "s": 33.267,
+  "e": 33.867,
+  "text": "par exemple",
+  "key": "exemple",
+  "words": [
+   {
+    "text": "par exemple",
+    "s": 33.28,
+    "e": 33.867,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "ideas",
+  "s": 33.867,
+  "e": 35.4,
+  "text": "les idées de vidéo اللي تقدّمها",
+  "key": "les idées",
+  "words": [
+   {
+    "text": "les idées",
+    "s": 33.89,
+    "e": 34.337,
+    "key": true
+   },
+   {
+    "text": "de vidéo",
+    "s": 34.337,
+    "e": 34.85,
+    "key": false
+   },
+   {
+    "text": "اللي",
+    "s": 34.85,
+    "e": 35.06,
+    "key": false
+   },
+   {
+    "text": "تقدّمها",
+    "s": 35.06,
+    "e": 35.4,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "concept",
+  "s": 35.4,
+  "e": 36.633,
+  "text": "le concept اللي تـdévelopih",
+  "key": "concept",
+  "words": [
+   {
+    "text": "le concept",
+    "s": 35.41,
+    "e": 35.99,
+    "key": true
+   },
+   {
+    "text": "اللي",
+    "s": 35.99,
+    "e": 36.25,
+    "key": false
+   },
+   {
+    "text": "تـdévelopih",
+    "s": 36.25,
+    "e": 36.633,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "story",
+  "s": 36.633,
+  "e": 37.567,
+  "text": "le storytelling",
+  "key": "storytelling",
+  "words": [
+   {
+    "text": "le storytelling",
+    "s": 36.67,
+    "e": 37.567,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "angles",
+  "s": 37.567,
+  "e": 38.567,
+  "text": "les angles de caméra",
+  "key": "caméra",
+  "words": [
+   {
+    "text": "les angles",
+    "s": 37.58,
+    "e": 38.087,
+    "key": false
+   },
+   {
+    "text": "de caméra",
+    "s": 38.087,
+    "e": 38.567,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "transitions",
+  "s": 38.567,
+  "e": 39.3,
+  "text": "les transitions",
+  "key": "transitions",
+  "words": [
+   {
+    "text": "les transitions",
+    "s": 38.6,
+    "e": 39.3,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "vfx",
+  "s": 39.3,
+  "e": 40.2,
+  "text": "les effets visuels",
+  "key": "effets",
+  "words": [
+   {
+    "text": "les effets visuels",
+    "s": 39.31,
+    "e": 40.2,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "tell",
+  "s": 40.2,
+  "e": 42.4,
+  "text": "حتّى الطريقة اللي تحكي بيها l'histoire في حدّ ذاتها",
+  "key": "l'histoire",
+  "words": [
+   {
+    "text": "حتّى",
+    "s": 40.22,
+    "e": 40.4,
+    "key": false
+   },
+   {
+    "text": "الطريقة",
+    "s": 40.4,
+    "e": 40.72,
+    "key": false
+   },
+   {
+    "text": "اللي",
+    "s": 40.72,
+    "e": 40.95,
+    "key": false
+   },
+   {
+    "text": "تحكي",
+    "s": 40.95,
+    "e": 41.1,
+    "key": false
+   },
+   {
+    "text": "بيها",
+    "s": 41.1,
+    "e": 41.36,
+    "key": false
+   },
+   {
+    "text": "l'histoire",
+    "s": 41.36,
+    "e": 41.84,
+    "key": true
+   },
+   {
+    "text": "في",
+    "s": 41.84,
+    "e": 41.93,
+    "key": false
+   },
+   {
+    "text": "حدّ",
+    "s": 41.93,
+    "e": 42.17,
+    "key": false
+   },
+   {
+    "text": "ذاتها",
+    "s": 42.17,
+    "e": 42.4,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "needs",
+  "s": 42.4,
+  "e": 44.033,
+  "text": "الكل يحتاج الـcréativité",
+  "key": "الـcréativité",
+  "words": [
+   {
+    "text": "الكل",
+    "s": 42.43,
+    "e": 42.65,
+    "key": false
+   },
+   {
+    "text": "يحتاج",
+    "s": 42.65,
+    "e": 43.1,
+    "key": false
+   },
+   {
+    "text": "الـcréativité",
+    "s": 43.1,
+    "e": 44.033,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "second",
+  "s": 44.033,
+  "e": 46.267,
+  "text": "ونُدخل للحاجة الثانية، اللي هي l'intelligence",
+  "key": "l'intelligence",
+  "words": [
+   {
+    "text": "ونُدخل",
+    "s": 44.05,
+    "e": 44.26,
+    "key": false
+   },
+   {
+    "text": "للحاجة",
+    "s": 44.26,
+    "e": 44.683,
+    "key": false
+   },
+   {
+    "text": "الثانية،",
+    "s": 44.683,
+    "e": 45.22,
+    "key": false
+   },
+   {
+    "text": "اللي",
+    "s": 45.22,
+    "e": 45.4,
+    "key": false
+   },
+   {
+    "text": "هي",
+    "s": 45.4,
+    "e": 45.46,
+    "key": false
+   },
+   {
+    "text": "l'intelligence",
+    "s": 45.46,
+    "e": 46.267,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "notenough",
+  "s": 46.267,
+  "e": 48.067,
+  "text": "خاطر الـcréativité وحدها ما تكفيش",
+  "key": "ما تكفيش",
+  "words": [
+   {
+    "text": "خاطر",
+    "s": 46.29,
+    "e": 46.45,
+    "key": false
+   },
+   {
+    "text": "الـcréativité",
+    "s": 46.45,
+    "e": 47.257,
+    "key": false
+   },
+   {
+    "text": "وحدها",
+    "s": 47.257,
+    "e": 47.62,
+    "key": false
+   },
+   {
+    "text": "ما",
+    "s": 47.62,
+    "e": 47.68,
+    "key": true
+   },
+   {
+    "text": "تكفيش",
+    "s": 47.68,
+    "e": 48.067,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "academic",
+  "s": 48.067,
+  "e": 50.7,
+  "text": "وهوني راني مانيش نحكي على l'intelligence académique",
+  "key": "académique",
+  "words": [
+   {
+    "text": "وهوني",
+    "s": 48.1,
+    "e": 48.367,
+    "key": false
+   },
+   {
+    "text": "راني",
+    "s": 48.367,
+    "e": 48.577,
+    "key": false
+   },
+   {
+    "text": "مانيش",
+    "s": 48.577,
+    "e": 48.96,
+    "key": false
+   },
+   {
+    "text": "نحكي",
+    "s": 48.96,
+    "e": 49.12,
+    "key": false
+   },
+   {
+    "text": "على",
+    "s": 49.12,
+    "e": 49.18,
+    "key": false
+   },
+   {
+    "text": "l'intelligence académique",
+    "s": 49.18,
+    "e": 50.7,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "capacity",
+  "s": 50.7,
+  "e": 52.733,
+  "text": "نحكي على الـcapacité متاعك باش تفهم un problème",
+  "key": "un problème",
+  "words": [
+   {
+    "text": "نحكي",
+    "s": 50.72,
+    "e": 50.93,
+    "key": false
+   },
+   {
+    "text": "على",
+    "s": 50.93,
+    "e": 51.15,
+    "key": false
+   },
+   {
+    "text": "الـcapacité",
+    "s": 51.15,
+    "e": 51.53,
+    "key": false
+   },
+   {
+    "text": "متاعك",
+    "s": 51.53,
+    "e": 51.68,
+    "key": false
+   },
+   {
+    "text": "باش",
+    "s": 51.68,
+    "e": 51.96,
+    "key": false
+   },
+   {
+    "text": "تفهم",
+    "s": 51.96,
+    "e": 52.3,
+    "key": false
+   },
+   {
+    "text": "un problème",
+    "s": 52.3,
+    "e": 52.733,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "ask",
+  "s": 52.733,
+  "e": 53.633,
+  "text": "تعرف شنوّة تسأل؟",
+  "key": "تسأل؟",
+  "words": [
+   {
+    "text": "تعرف",
+    "s": 52.76,
+    "e": 52.993,
+    "key": false
+   },
+   {
+    "text": "شنوّة",
+    "s": 52.993,
+    "e": 53.29,
+    "key": false
+   },
+   {
+    "text": "تسأل؟",
+    "s": 53.29,
+    "e": 53.633,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "steer",
+  "s": 53.633,
+  "e": 54.8,
+  "text": "كيفاش توجّهها؟",
+  "key": "توجّهها؟",
+  "words": [
+   {
+    "text": "كيفاش",
+    "s": 53.65,
+    "e": 53.93,
+    "key": false
+   },
+   {
+    "text": "توجّهها؟",
+    "s": 53.93,
+    "e": 54.8,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "challenge",
+  "s": 54.8,
+  "e": 56.8,
+  "text": "كيفاش تـchallengiha في الـréponse متاعها؟",
+  "key": "تـchallengiha",
+  "words": [
+   {
+    "text": "كيفاش",
+    "s": 54.81,
+    "e": 55.15,
+    "key": false
+   },
+   {
+    "text": "تـchallengiha",
+    "s": 55.15,
+    "e": 55.77,
+    "key": true
+   },
+   {
+    "text": "في",
+    "s": 55.77,
+    "e": 55.89,
+    "key": false
+   },
+   {
+    "text": "الـréponse",
+    "s": 55.89,
+    "e": 56.45,
+    "key": false
+   },
+   {
+    "text": "متاعها؟",
+    "s": 56.45,
+    "e": 56.8,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "judge",
+  "s": 56.8,
+  "e": 60.333,
+  "text": "وsurtout كيفاش تعرف اللي الـrésultat اللي عطاتهولك ينجح ولا ما ينجحش",
+  "key": "ينجحش",
+  "words": [
+   {
+    "text": "وsurtout",
+    "s": 56.81,
+    "e": 57.29,
+    "key": false
+   },
+   {
+    "text": "كيفاش",
+    "s": 57.29,
+    "e": 57.56,
+    "key": false
+   },
+   {
+    "text": "تعرف",
+    "s": 57.56,
+    "e": 57.86,
+    "key": false
+   },
+   {
+    "text": "اللي",
+    "s": 57.86,
+    "e": 58.1,
+    "key": false
+   },
+   {
+    "text": "الـrésultat",
+    "s": 58.1,
+    "e": 58.61,
+    "key": false
+   },
+   {
+    "text": "اللي",
+    "s": 58.61,
+    "e": 58.89,
+    "key": false
+   },
+   {
+    "text": "عطاتهولك",
+    "s": 58.89,
+    "e": 59.33,
+    "key": false
+   },
+   {
+    "text": "ينجح",
+    "s": 59.33,
+    "e": 59.68,
+    "key": true
+   },
+   {
+    "text": "ولا",
+    "s": 59.68,
+    "e": 59.86,
+    "key": false
+   },
+   {
+    "text": "ما",
+    "s": 59.86,
+    "e": 59.97,
+    "key": false
+   },
+   {
+    "text": "ينجحش",
+    "s": 59.97,
+    "e": 60.333,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "perfect",
+  "s": 60.333,
+  "e": 62.7,
+  "text": "خاطر الـAI تنجّم تعطيك réponse تبان parfaite",
+  "key": "parfaite",
+  "words": [
+   {
+    "text": "خاطر",
+    "s": 60.35,
+    "e": 60.53,
+    "key": false
+   },
+   {
+    "text": "الـAI",
+    "s": 60.53,
+    "e": 60.733,
+    "key": false
+   },
+   {
+    "text": "تنجّم",
+    "s": 60.733,
+    "e": 61.06,
+    "key": false
+   },
+   {
+    "text": "تعطيك",
+    "s": 61.06,
+    "e": 61.31,
+    "key": false
+   },
+   {
+    "text": "réponse",
+    "s": 61.31,
+    "e": 61.88,
+    "key": false
+   },
+   {
+    "text": "تبان",
+    "s": 61.88,
+    "e": 62.03,
+    "key": false
+   },
+   {
+    "text": "parfaite",
+    "s": 62.03,
+    "e": 62.7,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "wrong",
+  "s": 62.7,
+  "e": 63.9,
+  "text": "أما techniquement غالطة",
+  "key": "غالطة",
+  "words": [
+   {
+    "text": "أما",
+    "s": 62.74,
+    "e": 62.8,
+    "key": false
+   },
+   {
+    "text": "techniquement",
+    "s": 62.8,
+    "e": 63.76,
+    "key": false
+   },
+   {
+    "text": "غالطة",
+    "s": 63.76,
+    "e": 63.9,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "recul",
+  "s": 63.9,
+  "e": 66.1,
+  "text": "Donc كان إنتي ما عندكش le recul، l'expérience",
+  "key": "l'expérience",
+  "words": [
+   {
+    "text": "Donc",
+    "s": 63.91,
+    "e": 64.18,
+    "key": false
+   },
+   {
+    "text": "كان",
+    "s": 64.18,
+    "e": 64.24,
+    "key": false
+   },
+   {
+    "text": "إنتي",
+    "s": 64.24,
+    "e": 64.52,
+    "key": false
+   },
+   {
+    "text": "ما",
+    "s": 64.52,
+    "e": 64.58,
+    "key": false
+   },
+   {
+    "text": "عندكش",
+    "s": 64.58,
+    "e": 64.87,
+    "key": false
+   },
+   {
+    "text": "le recul،",
+    "s": 64.87,
+    "e": 65.38,
+    "key": false
+   },
+   {
+    "text": "l'expérience",
+    "s": 65.38,
+    "e": 66.1,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "juger",
+  "s": 66.1,
+  "e": 68.3,
+  "text": "ou la capacité de juger le résultat",
+  "key": "juger",
+  "words": [
+   {
+    "text": "ou",
+    "s": 66.11,
+    "e": 66.17,
+    "key": false
+   },
+   {
+    "text": "la capacité",
+    "s": 66.17,
+    "e": 67.02,
+    "key": false
+   },
+   {
+    "text": "de juger",
+    "s": 67.02,
+    "e": 67.54,
+    "key": true
+   },
+   {
+    "text": "le résultat",
+    "s": 67.54,
+    "e": 68.3,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "risk",
+  "s": 68.3,
+  "e": 70.833,
+  "text": "tu risques de produire برشا حاجات sans valeur",
+  "key": "sans valeur",
+  "words": [
+   {
+    "text": "tu risques",
+    "s": 68.31,
+    "e": 68.95,
+    "key": false
+   },
+   {
+    "text": "de produire",
+    "s": 68.95,
+    "e": 69.62,
+    "key": false
+   },
+   {
+    "text": "برشا",
+    "s": 69.62,
+    "e": 69.85,
+    "key": false
+   },
+   {
+    "text": "حاجات",
+    "s": 69.85,
+    "e": 70.14,
+    "key": false
+   },
+   {
+    "text": "sans valeur",
+    "s": 70.14,
+    "e": 70.833,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "diff",
+  "s": 70.833,
+  "e": 73.4,
+  "text": "وهوني exactement وين تتلقى la différence بين",
+  "key": "la différence",
+  "words": [
+   {
+    "text": "وهوني",
+    "s": 70.85,
+    "e": 71.163,
+    "key": false
+   },
+   {
+    "text": "exactement",
+    "s": 71.163,
+    "e": 71.89,
+    "key": false
+   },
+   {
+    "text": "وين",
+    "s": 71.89,
+    "e": 71.95,
+    "key": false
+   },
+   {
+    "text": "تتلقى",
+    "s": 71.95,
+    "e": 72.333,
+    "key": false
+   },
+   {
+    "text": "la différence",
+    "s": 72.333,
+    "e": 73.11,
+    "key": true
+   },
+   {
+    "text": "بين",
+    "s": 73.11,
+    "e": 73.4,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "normal",
+  "s": 73.4,
+  "e": 74.367,
+  "text": "les users العاديين",
+  "key": "العاديين",
+  "words": [
+   {
+    "text": "les users",
+    "s": 73.41,
+    "e": 73.91,
+    "key": false
+   },
+   {
+    "text": "العاديين",
+    "s": 73.91,
+    "e": 74.367,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "smart",
+  "s": 74.367,
+  "e": 76.3,
+  "text": "و les users … l'intelligence و les créatifs",
+  "key": "les créatifs",
+  "words": [
+   {
+    "text": "و",
+    "s": 74.37,
+    "e": 74.43,
+    "key": false
+   },
+   {
+    "text": "les users",
+    "s": 74.43,
+    "e": 74.847,
+    "key": false
+   },
+   {
+    "text": "…",
+    "s": 74.847,
+    "e": 74.927,
+    "key": false
+   },
+   {
+    "text": "l'intelligence",
+    "s": 74.927,
+    "e": 75.567,
+    "key": false
+   },
+   {
+    "text": "و",
+    "s": 75.567,
+    "e": 75.78,
+    "key": false
+   },
+   {
+    "text": "les créatifs",
+    "s": 75.78,
+    "e": 76.3,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "see",
+  "s": 76.3,
+  "e": 76.933,
+  "text": "كي نشوف",
+  "key": "نشوف",
+  "words": [
+   {
+    "text": "كي",
+    "s": 76.32,
+    "e": 76.51,
+    "key": false
+   },
+   {
+    "text": "نشوف",
+    "s": 76.51,
+    "e": 76.933,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "product",
+  "s": 76.933,
+  "e": 78.333,
+  "text": "produit مصنوع بالـIA",
+  "key": "produit",
+  "words": [
+   {
+    "text": "produit",
+    "s": 76.97,
+    "e": 77.49,
+    "key": true
+   },
+   {
+    "text": "مصنوع",
+    "s": 77.49,
+    "e": 78.073,
+    "key": false
+   },
+   {
+    "text": "بالـIA",
+    "s": 78.073,
+    "e": 78.333,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "reflect",
+  "s": 78.333,
+  "e": 81.9,
+  "text": "يعكس الـcréativité و l'intelligence متاعك، نشوفو فيه إنتي شنوّة تعمل",
+  "key": "يعكس",
+  "words": [
+   {
+    "text": "يعكس",
+    "s": 78.36,
+    "e": 78.583,
+    "key": true
+   },
+   {
+    "text": "الـcréativité",
+    "s": 78.583,
+    "e": 79.27,
+    "key": false
+   },
+   {
+    "text": "و",
+    "s": 79.27,
+    "e": 79.33,
+    "key": false
+   },
+   {
+    "text": "l'intelligence",
+    "s": 79.33,
+    "e": 80.26,
+    "key": false
+   },
+   {
+    "text": "متاعك،",
+    "s": 80.26,
+    "e": 80.55,
+    "key": false
+   },
+   {
+    "text": "نشوفو",
+    "s": 80.55,
+    "e": 80.883,
+    "key": false
+   },
+   {
+    "text": "فيه",
+    "s": 80.883,
+    "e": 81.053,
+    "key": false
+   },
+   {
+    "text": "إنتي",
+    "s": 81.053,
+    "e": 81.33,
+    "key": false
+   },
+   {
+    "text": "شنوّة",
+    "s": 81.33,
+    "e": 81.643,
+    "key": false
+   },
+   {
+    "text": "تعمل",
+    "s": 81.643,
+    "e": 81.9,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "think",
+  "s": 81.9,
+  "e": 83.233,
+  "text": "ونوليو نفهمو إنتي كيفاش تخمّم",
+  "key": "تخمّم",
+  "words": [
+   {
+    "text": "ونوليو",
+    "s": 81.92,
+    "e": 82.22,
+    "key": false
+   },
+   {
+    "text": "نفهمو",
+    "s": 82.22,
+    "e": 82.58,
+    "key": false
+   },
+   {
+    "text": "إنتي",
+    "s": 82.58,
+    "e": 82.64,
+    "key": false
+   },
+   {
+    "text": "كيفاش",
+    "s": 82.64,
+    "e": 82.93,
+    "key": false
+   },
+   {
+    "text": "تخمّم",
+    "s": 82.93,
+    "e": 83.233,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "good",
+  "s": 83.233,
+  "e": 85.533,
+  "text": "كي تخمّم بالباهي، تخرجلك résultat باهية",
+  "key": "باهية",
+  "words": [
+   {
+    "text": "كي",
+    "s": 83.26,
+    "e": 83.43,
+    "key": false
+   },
+   {
+    "text": "تخمّم",
+    "s": 83.43,
+    "e": 83.703,
+    "key": false
+   },
+   {
+    "text": "بالباهي،",
+    "s": 83.703,
+    "e": 84.193,
+    "key": false
+   },
+   {
+    "text": "تخرجلك",
+    "s": 84.193,
+    "e": 84.72,
+    "key": false
+   },
+   {
+    "text": "résultat",
+    "s": 84.72,
+    "e": 85.193,
+    "key": false
+   },
+   {
+    "text": "باهية",
+    "s": 85.193,
+    "e": 85.533,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "bad",
+  "s": 85.533,
+  "e": 87.7,
+  "text": "كي تخمّم بالخايب، تخرجلك résultat خايبة",
+  "key": "خايبة",
+  "words": [
+   {
+    "text": "كي",
+    "s": 85.56,
+    "e": 85.72,
+    "key": false
+   },
+   {
+    "text": "تخمّم",
+    "s": 85.72,
+    "e": 85.973,
+    "key": false
+   },
+   {
+    "text": "بالخايب،",
+    "s": 85.973,
+    "e": 86.433,
+    "key": false
+   },
+   {
+    "text": "تخرجلك",
+    "s": 86.433,
+    "e": 86.71,
+    "key": false
+   },
+   {
+    "text": "résultat",
+    "s": 86.71,
+    "e": 87.26,
+    "key": false
+   },
+   {
+    "text": "خايبة",
+    "s": 87.26,
+    "e": 87.7,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "concret",
+  "s": 87.7,
+  "e": 91.4,
+  "text": "l'IA تعاونك باش تـconcrétisi les idées متاعك، mais finalement باش تخرّج الـrésultat اللي تحبّو",
+  "key": "تـconcrétisi",
+  "words": [
+   {
+    "text": "l'IA",
+    "s": 87.74,
+    "e": 88.04,
+    "key": false
+   },
+   {
+    "text": "تعاونك",
+    "s": 88.04,
+    "e": 88.22,
+    "key": false
+   },
+   {
+    "text": "باش",
+    "s": 88.22,
+    "e": 88.38,
+    "key": false
+   },
+   {
+    "text": "تـconcrétisi",
+    "s": 88.38,
+    "e": 88.73,
+    "key": true
+   },
+   {
+    "text": "les idées",
+    "s": 88.73,
+    "e": 89.26,
+    "key": false
+   },
+   {
+    "text": "متاعك،",
+    "s": 89.26,
+    "e": 89.56,
+    "key": false
+   },
+   {
+    "text": "mais",
+    "s": 89.56,
+    "e": 89.76,
+    "key": false
+   },
+   {
+    "text": "finalement",
+    "s": 89.76,
+    "e": 90.3,
+    "key": false
+   },
+   {
+    "text": "باش",
+    "s": 90.3,
+    "e": 90.36,
+    "key": false
+   },
+   {
+    "text": "تخرّج",
+    "s": 90.36,
+    "e": 90.56,
+    "key": false
+   },
+   {
+    "text": "الـrésultat",
+    "s": 90.56,
+    "e": 90.95,
+    "key": false
+   },
+   {
+    "text": "اللي",
+    "s": 90.95,
+    "e": 91.19,
+    "key": false
+   },
+   {
+    "text": "تحبّو",
+    "s": 91.19,
+    "e": 91.4,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "mirror",
+  "s": 91.4,
+  "e": 99.533,
+  "text": "Donc كي نشوفو un produit، نشوفو l'intelligence و la créativité متاعك في الـrésultat، ça reflète إنتي شنوّة تخمّم، ça reflète إنتي شكون وليت، ça reflète إنتي créatif ولا",
+  "key": "créatif",
+  "words": [
+   {
+    "text": "Donc",
+    "s": 91.4,
+    "e": 91.66,
+    "key": false
+   },
+   {
+    "text": "كي",
+    "s": 91.66,
+    "e": 91.72,
+    "key": false
+   },
+   {
+    "text": "نشوفو",
+    "s": 91.72,
+    "e": 91.99,
+    "key": false
+   },
+   {
+    "text": "un produit،",
+    "s": 91.99,
+    "e": 92.54,
+    "key": false
+   },
+   {
+    "text": "نشوفو",
+    "s": 92.54,
+    "e": 92.81,
+    "key": false
+   },
+   {
+    "text": "l'intelligence",
+    "s": 92.81,
+    "e": 93.75,
+    "key": false
+   },
+   {
+    "text": "و",
+    "s": 93.75,
+    "e": 93.81,
+    "key": false
+   },
+   {
+    "text": "la",
+    "s": 93.81,
+    "e": 93.9,
+    "key": false
+   },
+   {
+    "text": "créativité",
+    "s": 93.9,
+    "e": 94.49,
+    "key": false
+   },
+   {
+    "text": "متاعك",
+    "s": 94.49,
+    "e": 94.85,
+    "key": false
+   },
+   {
+    "text": "في",
+    "s": 94.85,
+    "e": 94.91,
+    "key": false
+   },
+   {
+    "text": "الـrésultat،",
+    "s": 94.91,
+    "e": 95.45,
+    "key": false
+   },
+   {
+    "text": "ça reflète",
+    "s": 95.45,
+    "e": 95.93,
+    "key": false
+   },
+   {
+    "text": "إنتي",
+    "s": 95.93,
+    "e": 96.17,
+    "key": false
+   },
+   {
+    "text": "شنوّة",
+    "s": 96.17,
+    "e": 96.5,
+    "key": false
+   },
+   {
+    "text": "تخمّم،",
+    "s": 96.5,
+    "e": 96.72,
+    "key": false
+   },
+   {
+    "text": "ça reflète",
+    "s": 96.72,
+    "e": 97.27,
+    "key": false
+   },
+   {
+    "text": "إنتي",
+    "s": 97.27,
+    "e": 97.59,
+    "key": false
+   },
+   {
+    "text": "شكون",
+    "s": 97.59,
+    "e": 97.76,
+    "key": false
+   },
+   {
+    "text": "وليت،",
+    "s": 97.76,
+    "e": 98.16,
+    "key": false
+   },
+   {
+    "text": "ça reflète",
+    "s": 98.16,
+    "e": 98.68,
+    "key": false
+   },
+   {
+    "text": "إنتي",
+    "s": 98.68,
+    "e": 98.91,
+    "key": false
+   },
+   {
+    "text": "créatif",
+    "s": 98.91,
+    "e": 99.37,
+    "key": true
+   },
+   {
+    "text": "ولا",
+    "s": 99.37,
+    "e": 99.533,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "dont",
+  "s": 99.533,
+  "e": 101.233,
+  "text": "So don't just learn AI",
+  "key": "AI",
+  "words": [
+   {
+    "text": "So don't",
+    "s": 99.55,
+    "e": 100.26,
+    "key": false
+   },
+   {
+    "text": "just learn",
+    "s": 100.26,
+    "e": 101.073,
+    "key": false
+   },
+   {
+    "text": "AI",
+    "s": 101.073,
+    "e": 101.233,
+    "key": true
+   }
+  ]
+ },
+ {
+  "id": "around",
+  "s": 101.233,
+  "e": 103.167,
+  "text": "Learn how to be smart around AI",
+  "key": "smart",
+  "words": [
+   {
+    "text": "Learn",
+    "s": 101.26,
+    "e": 101.593,
+    "key": false
+   },
+   {
+    "text": "how",
+    "s": 101.593,
+    "e": 101.793,
+    "key": false
+   },
+   {
+    "text": "to",
+    "s": 101.793,
+    "e": 101.933,
+    "key": false
+   },
+   {
+    "text": "be",
+    "s": 101.933,
+    "e": 102.063,
+    "key": false
+   },
+   {
+    "text": "smart around",
+    "s": 102.063,
+    "e": 103.023,
+    "key": true
+   },
+   {
+    "text": "AI",
+    "s": 103.023,
+    "e": 103.167,
+    "key": false
+   }
+  ]
+ },
+ {
+  "id": "final",
+  "s": 103.167,
+  "e": 107.2,
+  "text": "استعمل الـAI، تعلّم الـAI، وفي نفس الوقت تعلّم تكون créatif و intelligent",
+  "key": "intelligent",
+  "words": [
+   {
+    "text": "استعمل",
+    "s": 103.17,
+    "e": 103.587,
+    "key": false
+   },
+   {
+    "text": "الـAI،",
+    "s": 103.587,
+    "e": 103.777,
+    "key": false
+   },
+   {
+    "text": "تعلّم",
+    "s": 103.777,
+    "e": 104.08,
+    "key": false
+   },
+   {
+    "text": "الـAI،",
+    "s": 104.08,
+    "e": 104.327,
+    "key": false
+   },
+   {
+    "text": "وفي",
+    "s": 104.327,
+    "e": 104.517,
+    "key": false
+   },
+   {
+    "text": "نفس",
+    "s": 104.517,
+    "e": 104.707,
+    "key": false
+   },
+   {
+    "text": "الوقت",
+    "s": 104.707,
+    "e": 105.19,
+    "key": false
+   },
+   {
+    "text": "تعلّم",
+    "s": 105.19,
+    "e": 105.42,
+    "key": false
+   },
+   {
+    "text": "تكون",
+    "s": 105.42,
+    "e": 105.707,
+    "key": false
+   },
+   {
+    "text": "créatif",
+    "s": 105.707,
+    "e": 106.27,
+    "key": false
+   },
+   {
+    "text": "و",
+    "s": 106.27,
+    "e": 106.47,
+    "key": false
+   },
+   {
+    "text": "intelligent",
+    "s": 106.47,
+    "e": 107.2,
+    "key": true
+   }
+  ]
+ }
+]
